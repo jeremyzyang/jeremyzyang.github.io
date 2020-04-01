@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[research](./research.html). [teaching](./teaching.html). [cv](./cv.html). [hobby](./hobby.html).
+[research](./research.md). [teaching](./teaching.md). [cv](./cv.html). [hobby](./hobby.md).
 
 I’m trained as a convex combination of applied econometrician and data scientist. My current research combines tools in causal inference (both experimental and observational) and machine learning to optimize marketing decisions. I'm also interested in understanding consumer behaviors through the lens of basic economic and psychological principles. 
 
