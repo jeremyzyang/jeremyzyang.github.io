@@ -4,9 +4,7 @@ layout: default
 
 ## Research
 
-Interest:
-
-Machine Learning and Field 
+Interest: Machine Learning and Field Experiment
 
 <ins>Learning Who to Target with What to Optimize Long-term Outcomes.</ins> [paper][slide]
 
