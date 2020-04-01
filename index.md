@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My current research focuses on combining machine learning and causal inference (both experimental and observational) to optimize marketing decisions. 
+I’m trained as a convex combination of applied econometrician and data scientist. My current research combines tools in casual inference (both experimental and observational) and machine learning to optimize marketing decisions. I'm also interested in understanding consumer behaviors through the lens of basic economic and psychological principles. 
 
 I'm fortunate to be supervised by Sinan Aral, Juanjuan Zhang (co-chair) and Dean Eckles.
 
