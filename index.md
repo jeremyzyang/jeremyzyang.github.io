@@ -6,9 +6,17 @@ I’m trained as a convex combination of applied econometrician and data scienti
 
 I'm fortunate to be supervised by Sinan Aral, Juanjuan Zhang (co-chair) and Dean Eckles.
 
+[research](./research.html).
+[teaching](./teaching.html).
+[code](./code.html).
+[hobby](./hobby.html).
+
+
+
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
@@ -25,21 +33,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -117,11 +110,4 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
 ```
