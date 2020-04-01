@@ -2,7 +2,9 @@
 layout: default
 ---
 
-My current research focuses on combining machine learning and causal inference (both experimental and observational) to optimize marketing decisions. I'm fortunate to be supervised by Sinan Aral, Dean Eckles and Juanjuan Zhang.
+My current research focuses on combining machine learning and causal inference (both experimental and observational) to optimize marketing decisions. 
+
+I'm fortunate to be supervised by Sinan Aral, Juanjuan Zhang (co-chair) and Dean Eckles.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
