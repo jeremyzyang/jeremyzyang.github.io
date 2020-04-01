@@ -8,8 +8,7 @@ I’m trained as a convex combination of applied econometrician and data scienti
 
 I'm fortuante to have my training supervised by [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chair), [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang) (co-chair) and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), pun intended.
 
-I received a master's degree in applied quantitative research from New York University and two bachelors' degrees in management and economics from University of International Business and Economics in Beijing.
-
+Previously I studied business administration, economics and statistics at University of International Business and Economics and New York University. I've also worked as an analyst intern in management consulting in Beijing. 
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 -->
