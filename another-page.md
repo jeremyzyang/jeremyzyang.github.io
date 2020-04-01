@@ -6,7 +6,7 @@ layout: default
 
 Interest: Machine Learning and Field Experiment
 
-### Working paper:
+#### Working paper:
 
 <ins>Learning Who to Target with What to Optimize Long-term Outcomes.</ins> [paper][slide]
 
@@ -19,6 +19,10 @@ Jeremy Yang, Juanjuan Zhang and Yuhan Zhang (authors listed in alphabetic order)
 <ins>How does Uncertainty Affect Informatin Diffusion</ins> [paper][slide]
 
 T. Tony Ke, Jeremy Yang (authors listed in alphabetic order)
+
+#### Work in progress:
+
+#### Publication:
 
 
 [back](./)
