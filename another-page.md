@@ -6,6 +6,8 @@ layout: default
 
 Interest: Machine Learning and Field Experiment
 
+### Working paper:
+
 <ins>Learning Who to Target with What to Optimize Long-term Outcomes.</ins> [paper][slide]
 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
