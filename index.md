@@ -6,10 +6,6 @@ I’m trained as a convex combination of applied econometrician and data scienti
 
 I'm fortunate to be supervised by Sinan Aral, Juanjuan Zhang (co-chair) and Dean Eckles.
 
-[research](./research.html).
+[research](./research.html). [teaching](./teaching.html). [cv](./cv.html). [hobby](./hobby.html).
 
-[teaching](./teaching.html).
-
-[code](./code.html).
-
-[hobby](./hobby.html).
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
