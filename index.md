@@ -2,6 +2,8 @@
 layout: default
 ---
 
+My research focuses on combining machine learning and causal inference (both experimental and observational) to optimize marketing decisions. 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
