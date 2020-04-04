@@ -12,11 +12,24 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
 
 Abstract: We learn and implement optimal targeting policies via a sequence of adaptive experiments to maximize long-term customer outcomes. Our framework builds on literatures on efficient off-policy evaluation and optimization using doubly robust scores from Computer Science, Statistics, and Economics, and can adapt to potential changes in the environment through continuous exploration akin to Thompson sampling. In the empirical application we learn optimal targeting policies that prescribe whether, and if so, what type of discount to give to a subscriber at the Boston Globe to maximize long-term revenues. Since the long-term revenue is not observable, we use intermediate outcomes such as subscribers' short-term revenue and content consumption to construct a surrogate index and use it to impute the missing long-term revenues. Our method improves the average 1.5-year revenue by \$15 and projected 3-year revenue by $40 per subscriber compared to benchmarks that include a policy that targets no one, a random policy, and a policy that targets subscribers with the highest churn risk. Over a three year period, our approach had a net-positive revenue impact in the range $1.7-$2.8 million compared to the status-quo.
 
+Conference Presentations:
+
+INFORMS Marketing Science (Rome, June 2019)
+
+Advances on Field Experiments (University of Chicago, July 2019) 
+
+CODE (MIT, November 2019)
+
+HBS Digital Doctoral Workshop (Harvard, December 2019)
+
+NeurIPS CausalML Workshop (Vancouver, December 2019)
 
 
 <ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [<a href="">paper</a>][<a href=" ">slides</a>]
 
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
+
+Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 
 <ins>How does Uncertainty Affect Informatin Diffusion</ins> [<a href="">paper</a>][<a href=" ">slides</a>]
 
