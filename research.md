@@ -6,7 +6,7 @@ layout: default
 
 #### Working paper:
 
-* <ins>Learning Who to Target with What via Adaptive Experimentation to Optimize Long-term Outcomes.</ins> [paper][slide]
+* <ins>Learning Who to Target with What via Adaptive Experimentation </br> to Optimize Long-term Outcomes.</ins> [paper][slide]
 
   Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
 
