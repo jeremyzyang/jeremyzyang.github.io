@@ -14,7 +14,7 @@ Abstract: We learn and implement optimal targeting policies via a sequence of ad
 
 Conference Presentations:
 
-INFORMS Marketing Science (Rome, June 2019)
+INFORMS Marketing Science (University of Roma Tre, June 2019)
 
 Advances on Field Experiments (University of Chicago, July 2019) 
 
@@ -22,7 +22,7 @@ CODE (MIT, November 2019)
 
 HBS Digital Doctoral Workshop (Harvard, December 2019)
 
-NeurIPS CausalML Workshop (Vancouver, December 2019)
+NeurIPS CausalML Workshop (Vancouver Convention Center, December 2019)
 
 
 <ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [<a href="">paper</a>][<a href=" ">slides</a>]
