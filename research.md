@@ -14,14 +14,10 @@ Abstract: We learn and implement optimal targeting policies via a sequence of ad
 
 Conference Presentations:
 
-INFORMS Marketing Science (University of Roma Tre, June 2019)
-
-Advances on Field Experiments (University of Chicago, July 2019) 
-
-CODE (MIT, November 2019)
-
-HBS Digital Doctoral Workshop (Harvard, December 2019)
-
+INFORMS Marketing Science (University of Roma Tre, June 2019)<br/>
+Advances on Field Experiments (University of Chicago, July 2019)<br/>
+CODE (MIT, November 2019)<br/>
+HBS Digital Doctoral Workshop (Harvard, December 2019)<br/>
 NeurIPS CausalML Workshop (Vancouver Convention Center, December 2019)
 
 
