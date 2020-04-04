@@ -18,3 +18,5 @@ I enjoy teaching a diverse set of topics and have worked as TA for the following
 
 #### PhD 
 [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles): Experimental Design and Analysis, Fall 2019
+
+[back](./)
