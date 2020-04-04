@@ -4,6 +4,6 @@ I enjoy teaching a diverse set of topics and have worked as TA for the following
 
 #### MBA 
 
-#### Master of Business Analytics
+#### Master of Business Analytics (MBAn)
 
 #### PhD 
