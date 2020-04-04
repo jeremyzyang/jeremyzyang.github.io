@@ -6,17 +6,17 @@ layout: default
 
 #### Working paper:
 
-<ins>Learning Who to Target with What via Adaptive Experimentation to Optimize Long-term Outcomes.</ins> [paper][slide]
+* <ins>Learning Who to Target with What via Adaptive Experimentation to Optimize Long-term Outcomes.</ins> [paper][slide]
 
-Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
+  Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
 
-<ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [paper][slide]
+* <ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [paper][slide]
 
-Jeremy Yang<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
+  Jeremy Yang<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
 
-<ins>How does Uncertainty Affect Informatin Diffusion</ins> [paper][slide]
+* <ins>How does Uncertainty Affect Informatin Diffusion</ins> [paper][slide]
 
-T. Tony Ke, Jeremy Yang<sup>*</sup> 
+   T. Tony Ke, Jeremy Yang<sup>*</sup> 
 
 #### Work in progress:
 
