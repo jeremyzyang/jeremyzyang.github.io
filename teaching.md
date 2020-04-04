@@ -12,8 +12,10 @@ I enjoy teaching a diverse set of topics and have worked as TA for the following
 
 [Birger Wernerfelt](https://mitsloan.mit.edu/faculty/directory/birger-wernerfelt): Marketing Strategy, Fall 2018
 
+
 #### Master of Business Analytics (MBAn)
 [Erik Brynjolfsson](http://digital.mit.edu/erik/) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq): Analytics Lab, Summer and Fall 2019
+
 
 #### PhD 
 [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles): Experimental Design and Analysis, Fall 2019
