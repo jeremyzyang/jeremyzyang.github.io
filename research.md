@@ -16,7 +16,8 @@ INFORMS Marketing Science (University of Roma Tre, June 2019)<br/>
 Advances on Field Experiments (University of Chicago, July 2019)<br/>
 CODE (MIT, November 2019)<br/>
 HBS Digital Doctoral Workshop (Harvard, December 2019)<br/>
-NeurIPS CausalML Workshop (Vancouver Convention Center, December 2019)
+NeurIPS CausalML Workshop <br/> 
+(Vancouver Convention Center, December 2019)
 
 
 <ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
