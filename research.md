@@ -25,7 +25,7 @@ T. Tony Ke, Jeremy Yang<sup>*</sup>
 #### Publication:
 
 
-*: authors listed in alphabetic order
+* authors listed in alphabetic order
 
 
 
