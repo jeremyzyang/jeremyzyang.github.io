@@ -4,7 +4,7 @@ layout: default
 
 [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md).
 
-I’m trained as a convex combination of economist and data scientist with the weight changing between 0 and 1 depending on whom I'm talking to. 
+I’m trained as a convex combination of economist and data scientist with the weight varying between 0 and 1 depending on whom I'm talking to. 
 
 My current research combines tools in econometrics and machine learning and leverages large unstructured datasets (e.g., video, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological principles.
 
