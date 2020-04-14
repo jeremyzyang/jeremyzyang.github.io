@@ -1,4 +1,4 @@
-https://jeremyzyang.github.io/home/
+https://jeremyzyang.github.io/
 
 # The Minimal theme
 
