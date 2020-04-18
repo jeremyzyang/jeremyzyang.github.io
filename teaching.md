@@ -1,7 +1,6 @@
-### Teaching 
-
 [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md).
 
+### Teaching 
 
 I enjoy teaching a diverse set of topics and have worked as TA for the following classes.
 
