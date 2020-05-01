@@ -4,7 +4,7 @@ layout: default
 
 [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md).
 
-### Research (more details coming up) 
+### Research (more details coming soon) 
 
 #### Working paper:
 
