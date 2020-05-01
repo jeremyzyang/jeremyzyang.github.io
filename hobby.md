@@ -1,6 +1,6 @@
 [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md).
 
-### Hobby
+### hobby
 
 I enjoy playing and watching sports, I try to play some competitive tennis in my spare time. I'm a big fan of sports analytics and have been working on a few side projects using data from [tennis](/assets/files/tennis_poster.pdf) and [basketball]((/assets/files/bball.txt)). If you have any interesting questions or data, definitely reach out to me. 
 
