@@ -23,8 +23,8 @@ CODE (MIT, November 2019)<br/>
 HBS Digital Doctoral Workshop (Harvard, December 2019)<br/>
 NeurIPS CausalML Workshop <br/> 
 (Vancouver Convention Center, December 2019)
-Marketing Seminar (MIT, May 2020)
-IC2S2 (MIT, June 2020)
+Marketing Seminar (MIT, May 2020)<br/> 
+IC2S2 (MIT, June 2020)<br/> 
 
 <ins>E is for Entertainment: Influencer E-commerce on Tiktok</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
