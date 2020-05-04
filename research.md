@@ -16,7 +16,7 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon and Sinan Aral
 Abstract: We learn and implement optimal targeting policies via a sequence of adaptive experiments to maximize long-term customer outcomes. Our framework builds on literatures on efficient off-policy evaluation and optimization using doubly robust scores from Computer Science, Statistics, and Economics, and can adapt to potential changes in the environment through continuous exploration akin to Thompson sampling. In the empirical application we learn optimal targeting policies that prescribe whether, and if so, what type of discount to give to a subscriber at the Boston Globe to maximize long-term revenues. Since the long-term revenue is not observable, we use intermediate outcomes such as subscribers' short-term revenue and content consumption to construct a surrogate index and use it to impute the missing long-term revenues. Our method improves the average 1.5-year revenue by \$15 and projected 3-year revenue by $40 per subscriber compared to benchmarks that include a policy that targets no one, a random policy, and a policy that targets subscribers with the highest churn risk. Over a three year period, our approach had a net-positive revenue impact in the range $1.7-$2.8 million compared to the status-quo.
 -->
 
-Conference and Seminar Presentations:<br/>
+conference and seminar presentations:<br/>
 INFORMS Marketing Science (University of Roma Tre, June 2019)<br/>
 Advances on Field Experiments (University of Chicago, July 2019)<br/>
 CODE (MIT, November 2019)<br/>
