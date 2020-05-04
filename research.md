@@ -22,7 +22,7 @@ Advances on Field Experiments (University of Chicago, July 2019)<br/>
 CODE (MIT, November 2019)<br/>
 HBS Digital Doctoral Workshop (Harvard, December 2019)<br/>
 NeurIPS CausalML Workshop <br/> 
-(Vancouver Convention Center, December 2019)
+(Vancouver Convention Center, December 2019)<br/> 
 Marketing Seminar (MIT, May 2020)<br/> 
 IC2S2 (MIT, June 2020)<br/> 
 
