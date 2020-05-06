@@ -4,15 +4,15 @@ layout: default
 
 [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md).
 
-I’m trained as a convex combination of economist and data scientist with the weight varying between 0 and 1 depending on whom I'm talking to. 
+I’m somewhat a convex combination of economist and data scientist with the weight varying between 0 and 1 depending on whom I'm talking to. 
 
-My current research combines tools in econometrics and machine learning and leverages large unstructured datasets (e.g., video, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological principles.
+My current research combines tools in econometrics and machine learning and leverages large unstructured datasets (e.g., video, text, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological principles.
 
 <!--One stream of my current work focuses on combining machine learning and adaptive experimentation to personalize marketing interventions. Another one centers on extracting insights from unstructured data such as video (images, audios and text), map and network in observational studies. I'm also interested in understanding consumer behaviors through the lens of basic economic and psychological principles. -->
 
 I'm fortuante to have my training supervised by [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chair), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) and [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang) (co-chair). Yes, pun intended.
 
-Previously I studied business administration, economics and statistics at University of International Business and Economics and New York University. I've also worked in consulting as a business analyst intern. 
+Previously I studied business administration, economics and statistics at University of International Business and Economics and New York University. I've worked in consulting as a business analyst intern piror to grad school. 
 
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
