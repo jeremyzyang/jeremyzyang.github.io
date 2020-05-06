@@ -12,7 +12,7 @@ My current research combines tools in econometrics and machine learning and leve
 
 I'm fortuante to have my training supervised by [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chair), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) and [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang) (co-chair). Yes, pun intended.
 
-Previously I studied business administration, economics and statistics at University of International Business and Economics and New York University. I worked in consulting as a business analyst intern before grad school. 
+Previously I studied business administration, economics and statistics at University of International Business and Economics and New York University. I also worked in consulting as a business analyst intern. 
 
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
