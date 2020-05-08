@@ -26,7 +26,7 @@ conference and seminar presentations:<br/>
 \- Marketing Seminar (MIT, May 2020)<br/> 
 \- IC2S2 (MIT, June 2020)<br/> 
 
-<ins>E is for Entertainment: <br/> First Law of Motion: Influencer E-commerce in TikTok Videos </ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+<ins> First Law of Motion: Influencer E-commerce in TikTok Videos </ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
 
 <!--
