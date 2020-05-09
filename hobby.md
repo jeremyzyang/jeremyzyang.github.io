@@ -2,7 +2,7 @@
 
 ### hobby
 
-I enjoy playing and watching sports, especially tennis, basketball and soccer. I try to play some competitive tennis in my spare time. I'm a big fan of sports analytics and have been working on a few side projects using data from [tennis](/assets/files/tennis_poster.pdf) and [basketball](/assets/files/bball.md).
+I enjoy playing and watching sports, especially tennis, basketball, soccer and skiiing (for the long New England winters). I try to play some competitive tennis in my spare time. I'm a big fan of sports analytics and have been working on a few side projects using data from [tennis](/assets/files/tennis_poster.pdf) and [basketball](/assets/files/bball.md).
 
 I also like reading and debating about literature, philosophy and theology (particularly Apologetics and Calvinism). As a fun fact, I've lived in a church in South Korea and been on a mission trip to South Africa. 
 
