@@ -1,4 +1,5 @@
 ### transitivity in NBA games 
+
 (with Tianyi Li)
 
 We are looking at how transitive is the competition relationship between different NBA teams over time. 
