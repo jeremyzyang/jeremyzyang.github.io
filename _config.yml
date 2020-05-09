@@ -4,3 +4,4 @@ description: I'm a PhD candidate at MIT Sloan School of Management. I'm on the m
 Yoshow_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+plugins: - jekyll-sitemap
