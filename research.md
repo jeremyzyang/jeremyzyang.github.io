@@ -17,14 +17,14 @@ Abstract: We learn and implement optimal targeting policies via a sequence of ad
 -->
 
 conference and seminar presentations:<br/>
-\- INFORMS Marketing Science (University of Roma Tre, June 2019)<br/>
-\- Advances on Field Experiments (University of Chicago, July 2019)<br/>
-\- CODE (MIT, November 2019)<br/>
-\- HBS Digital Doctoral Workshop (Harvard, December 2019)<br/>
+\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
+\- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
+\- CODE (MIT, 2019/11)<br/>
+\- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
 \- NeurIPS CausalML Workshop <br/> 
-(Vancouver Convention Center, December 2019)<br/> 
-\- Marketing Seminar (MIT, May 2020)<br/> 
-\- IC2S2 (MIT, June 2020)<br/> 
+(Vancouver Convention Center, 2019/12)<br/> 
+\- Marketing Seminar (MIT, 2020/5)<br/> 
+\- IC2S2 (MIT, 2020/6)<br/> 
 
 <ins> First Law of Motion: Influencer E-commerce in TikTok Videos </ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
