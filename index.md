@@ -6,7 +6,7 @@ layout: default
 
 I’m somewhat a convex combination of economist and data scientist with the weight varying between 0 and 1 depending on who I'm talking to. 
 
-My current research combines tools in econometrics and machine learning and leverages large unstructured datasets (e.g., video, text, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological principles.
+My current research combines tools in econometrics and machine learning and leverages large unstructured datasets (e.g., [video](), [text](), and [network]()) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological principles.
 
 <!--One stream of my current work focuses on combining machine learning and adaptive experimentation to personalize marketing interventions. Another one centers on extracting insights from unstructured data such as video (images, audios and text), map and network in observational studies. I'm also interested in understanding consumer behaviors through the lens of basic economic and psychological principles. -->
 
