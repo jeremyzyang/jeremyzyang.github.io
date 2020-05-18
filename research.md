@@ -8,7 +8,7 @@ layout: default
 
 #### working paper:
 
-<ins>**Learning Who to Target with What <br/>
+<ins>**Learning Whom to Target with What <br/>
   via Adaptive Experimentation <br/> 
   to Optimize Long-term Outcomes**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon and Sinan Aral
