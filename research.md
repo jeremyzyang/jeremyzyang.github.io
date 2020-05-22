@@ -58,7 +58,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 #### paper under review:
 
 <!--
-<ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins>
+<ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins> [<a href="http://ide.mit.edu/sites/default/files/publications/Interdependence_COVID_520.pdf">paper</a>]
 -->
 
 #### selected work in progress:
