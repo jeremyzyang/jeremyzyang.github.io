@@ -49,21 +49,21 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 -->
 
 #### publication:
-
 <!--
-<ins>**How do successful scholars get their best research ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/>
+<ins>**How do successful scholars get their best research ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
+_Marketing Letters (2019)_ <br/> 
 Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy Yang**<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
 -->
 
 #### paper under review:
-
 <!--
-<ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins> [<a href="http://ide.mit.edu/sites/default/files/publications/Interdependence_COVID_520.pdf">paper</a>]
+<ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins> [<a href="http://ide.mit.edu/sites/default/files/publications/Interdependence_COVID_520.pdf">paper</a>]<br/>
+David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **Jeremy Yang**, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 -->
 
 #### selected work in progress:
-
 <!--
+<ins>**How does Uncertainty Affect Informatin Diffusion**</ins><br/>
 <ins>**Text to Outcome**</ins><br/>
 <ins>**Misinformation about COVID-19**</ins>
 -->
