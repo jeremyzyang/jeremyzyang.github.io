@@ -8,9 +8,7 @@ layout: default
 
 #### working paper:
 
-<ins>**Learning Whom to Target with What <br/>
-  via Adaptive Experimentation <br/> 
-  to Optimize Long-term Outcomes**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+<ins>**Targeting for Long-term Outcomes**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon and Sinan Aral
 
 <ins>Abstract:</ins> This paper develops a framework for learning and implementing optimal targeting policies via a sequence of adaptive experiments to maximize long-term customer outcomes. Our framework builds on literature on doubly robust off-policy evaluation and optimization, and can also adapt to potential changes in the environment. We apply our framework to learn optimal discount targeting policies to the current subscribers at Boston Globe to maximize long-term revenue. Since the long-term revenue is not observable, we use intermediate outcomes such as subscribers' short-term revenue and their content consumption to construct a surrogate index and use it to impute the missing long-term revenues. We validate this surrogate index approach by comparing it with a policy learned on ground truth outcomes and show they are similar. Our method improves the average 1.5-year revenue by \$15 and projected 3-year revenue by $40 per subscriber compared to several baseline policies such as a policy that targets no one, a random policy, and a policy that targets subscribers with the highest churn risk. It also outperforms policies learned using outcome modeling and causal forest. Over a three year period, our approach has a net-positive revenue impact in the range of $1.7-$2.8 million compared to the status quo.
@@ -63,6 +61,8 @@ David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **J
 
 #### selected work in progress:
 <!--
+<ins>**Using Bounded Outcomes to Design Behavior Policy</ins><br/>
+**Jeremy Yang**, Dean Eckles, Paramveer Dhillon and Sinan Aral
 <ins>**How does Uncertainty Affect Informatin Diffusion**</ins><br/>
 <ins>**Text to Outcome**</ins><br/>
 <ins>**Misinformation about COVID-19**</ins>
