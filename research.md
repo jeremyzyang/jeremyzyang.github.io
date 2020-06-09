@@ -61,8 +61,8 @@ David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **J
 
 #### selected work in progress:
 <!--
-<ins>**Using Bounded Outcomes to Design Behavior Policy</ins><br/>
-**Jeremy Yang**, Dean Eckles, Paramveer Dhillon and Sinan Aral
+<ins>**Using Bounded Outcomes to Design Behavior Policy**</ins><br/>
+<ins>**Sequential Paywall Design**</ins><br/>
 <ins>**How does Uncertainty Affect Informatin Diffusion**</ins><br/>
 <ins>**Text to Outcome**</ins><br/>
 <ins>**Misinformation about COVID-19**</ins>
