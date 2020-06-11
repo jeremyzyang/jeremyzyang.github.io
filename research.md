@@ -48,13 +48,13 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 
 #### publication:
 
-<ins>**How do successful scholars get their best research ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
-_Marketing Letters (2019)_ <br/> 
+<ins>**How do Successful Scholars Get their Best Research Ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
+**_Marketing Letters (2019)_** <br/> 
 Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy Yang**<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
 
 #### revise & resubmit:
 <ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins> [<a href="http://ide.mit.edu/sites/default/files/publications/Interdependence_COVID_520.pdf">paper</a>]<br/>
-_PNAS_ <br/> 
+**_PNAS_** <br/> 
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **Jeremy Yang**, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 
 #### selected work in progress:
