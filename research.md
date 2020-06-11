@@ -48,7 +48,7 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 
 #### publication:
 
-<ins>**How do Successful Scholars Get their Best Research Ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
+<ins>**How do Successful Scholars Get their Best Research Ideas? An Exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
 **_Marketing Letters (2019)_** <br/> 
 Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy Yang**<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
 
