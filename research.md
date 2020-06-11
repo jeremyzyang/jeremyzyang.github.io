@@ -47,26 +47,23 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 -->
 
 #### publication:
-<!--
+
 <ins>**How do successful scholars get their best research ideas? An exploration**</ins> [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
 _Marketing Letters (2019)_ <br/> 
 Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy Yang**<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
--->
 
-#### paper under review:
-<!--
+#### revise & resubmit:
 <ins>**Interdependence and the Cost of Uncoordinated Responses to COVID-19**</ins> [<a href="http://ide.mit.edu/sites/default/files/publications/Interdependence_COVID_520.pdf">paper</a>]<br/>
+_PNAS_ <br/> 
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **Jeremy Yang**, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
--->
 
 #### selected work in progress:
-<!--
-<ins>**Using Bounded Outcomes to Design Behavior Policy**</ins><br/>
-<ins>**Sequential Paywall Design**</ins><br/>
-<ins>**How does Uncertainty Affect Informatin Diffusion**</ins><br/>
-<ins>**Text to Outcome**</ins><br/>
-<ins>**Misinformation about COVID-19**</ins>
--->
+
+<ins>**When Social Recognition of Performance Reduces Future Effort**</ins> writing <br/> 
+<ins>**Information Revelation and Diffusion**</ins> analysis <br/>
+<ins>**Using Bounded Outcome to Improve on Uniformly at Random Policy**</ins> analysis <br/> 
+<ins>**Sequential Paywall Design**</ins> pilot experiment <br/> 
+<ins>**Misinformation on COVID-19** data collection </ins>
 
 *authors listed in alphabetic order
 
