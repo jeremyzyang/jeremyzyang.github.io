@@ -61,11 +61,11 @@ David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **J
 
 #### selected work in progress:
 
-<ins>When Social Recognition of Performance Reduces Future Effort</ins> writing <br/> 
-<ins>Information Revelation and Diffusion</ins> analysis & writing <br/>
-<ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> analysis & writing <br/> 
-<ins>Sequential Paywall Design</ins> pilot experiment <br/> 
-<ins>Misinformation on COVID-19</ins> data collection 
+<ins>When Social Recognition of Performance Reduces Future Effort</ins> [writing] <br/> 
+<ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
+<ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
+<ins>Sequential Paywall Design</ins> [pilot experiment] <br/> 
+<ins>Misinformation on COVID-19</ins> [data collection]
 
 *authors listed in alphabetic order
 
