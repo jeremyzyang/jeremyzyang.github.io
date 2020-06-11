@@ -8,4 +8,4 @@ I also like reading and debating about literature, philosophy and theology (part
 
 I like singing too, here's an excerpt of my covering of [Trace (轨迹)](/assets/files/179LincolnSt4.m4a) by Jay Chou. And here's some awesome video games that I've been playing lately: [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne), [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) and [Nioh](https://en.wikipedia.org/wiki/Nioh). These games are all very challenging and can be quite frustrating to play, but they are also massively satisfying when I beat them. It resembles the process of doing research. 
 
-[back](./)
+[home](./)
