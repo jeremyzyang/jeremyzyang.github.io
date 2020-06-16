@@ -2,7 +2,7 @@
 
 ### failed projects 
 
-Just some notes on projects that I put some serious efforts in but didn't work out. I think it's a public good for us as researchers to make this process more transparent and share what we've learned from it. This is along the same line as Johannes Haushofer's [CV of failures](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf) (which itself was inspired by a [Nature article](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a) by Melanie Stefan) and Ben Olken's [epic failures](https://economics.mit.edu/files/18768) with the exception that mines are not nearly as epic.
+Just a note on some projects that I put some serious efforts in but didn't work out. I think it's a public good for us as researchers to make this process more transparent and share what we've learned from it. This is along the same line as Johannes Haushofer's [CV of failures](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf) (which itself was inspired by a [Nature article](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a) by Melanie Stefan) and Ben Olken's [epic failures](https://economics.mit.edu/files/18768) with the exception that mines are not nearly as epic.
 
 <ins>The value of connected store</ins>
 
