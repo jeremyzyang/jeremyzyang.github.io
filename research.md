@@ -24,7 +24,7 @@ conference and seminar presentations:<br/>
 \- IC2S2 (MIT, 2020/6)<br/> 
 
 <ins>**First Law of Motion: <br/>
-Influencer E-commerce in TikTok Videos**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+Influencer Video Advertising on TikTok**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
 
 conference and seminar presentations:<br/>
