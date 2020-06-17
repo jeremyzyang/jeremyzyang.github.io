@@ -60,14 +60,15 @@ to COVID-19**</ins> [<a href="http://ide.mit.edu/news-blog/news/cost-uncoordinat
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **Jeremy Yang**, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 
 #### selected work in progress:
+
 <!--
 <ins>When Social Recognition of Performance Reduces Future Effort</ins> [writing] <br/> 
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 <ins>Sequential Paywall Design</ins> [pilot experiment] <br/> 
 <ins>Misinformation on COVID-19</ins> [data collection]
-*authors listed in alphabetic order
 -->
 
+*authors listed in alphabetic order
 
 [home](./)
