@@ -8,7 +8,7 @@ layout: default
 
 #### working paper:
 
-<ins>**Targeting for Long-term Outcomes: <br/>Evidence from Large-scale Field Experiments**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+<ins>**Targeting for Long-term Outcomes: <br/>Evidence from Large-Scale Field Experiments**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon and Sinan Aral
 
 <ins>Abstract:</ins> This paper studies the optimization of a targeting policy when the primary outcome of interest is observed only in the long-term. We build on statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes with a surrogate index and learn the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We validate our approach by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on a short-term proxy for the long-term outcome. We use our method to target optimal discounts to the digital subscribers at the Boston Globe to maximize their long-term revenue. We implement the optimal targeting policy via bootstrapped Thompson sampling, which allows us to update the optimal policy for each new cohort of customers to account for non-stationarities in the environment. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
