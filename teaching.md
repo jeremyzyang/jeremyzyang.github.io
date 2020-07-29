@@ -6,7 +6,7 @@ I enjoy teaching a diverse set of topics and have worked as TA for:
 
 #### MBA 
 
-[Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral): Digital Marketing, Fall 2017
+[Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral): Digital Marketing, Fall 2017, 2020
 
 [David Gamarnik](http://www.mit.edu/~gamarnik/home.html): Data, Model and Decision, Summer 2018, 2019
 
