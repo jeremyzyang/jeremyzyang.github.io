@@ -13,7 +13,7 @@ layout: default
 
 <ins>Abstract:</ins> This paper studies the optimization of a targeting policy when the primary outcome of interest is observed only in the long-term. We build on the statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes with a surrogate index and learn the optimal targeting policy on the imputed outcomes via a doubly robust approach. We apply our approach in large-scale proactive churn management experiments at the Boston Globe by targeting optimal discounts to its digital subscribers to maximize their long-term revenue. We first prove analytically that our approach is valid for policy evaluation and optimization, then we validate it empirically by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. We implement the optimal targeting policy via Bootstrapped Thompson Sampling (BTS), which allows us to update the optimal policy for each new cohort of customers to account for non-stationarity. Over three years, our approach had a net-positive revenue impact in the range of \$4-5 million compared to the Boston Globe's current policies.
 
-conference and seminar presentations:<br/>
+presentations:<br/>
 \- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
 \- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
 \- CODE (MIT, 2019/11)<br/>
@@ -27,7 +27,7 @@ conference and seminar presentations:<br/>
 Influencer Video Advertising on TikTok**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
 
-conference and seminar presentations:<br/>
+presentations:<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
 
@@ -38,7 +38,7 @@ Abstract: TikTok is the most popular short video platform in the world with over
 <ins>**Information Revelation and Diffusion**</ins> [<a href="">paper</a>][<a href="">slides</a>]<br/>
 T. Tony Ke, **Jeremy Yang**<sup>*</sup> 
 
-conference and seminar presentations:<br/>
+presentations:<br/>
 \- Marketing Seminar (MIT, 2017/11)<br/>
 
 <!--
@@ -66,7 +66,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 <ins>It is the Possibility of Recognition not the Recognition itself that Increases Future Effort and Performance: A Field Experiment in Online Learning </ins> [writing] <br/> 
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
-<ins>Sequential Paywall Design</ins> [pilot experiment] <br/> 
+<ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment] <br/> 
 <ins>Misinformation on COVID-19</ins> [data collection] <br/> 
 <ins>Intertemporal Budget Allocation</ins> [experiment preparation]
 <!--
