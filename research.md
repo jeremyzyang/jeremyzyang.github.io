@@ -64,7 +64,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 #### selected work in progress:
 
-<ins>It is the Possibility of Recognition not the Recognition itself that Increases Future Effort and Performance: A Field Experiment in Online Learning </ins> [writing] <br/> 
+<ins>Award no longer Motivates once it's Awarded: A Field Experiment in Online Learning </ins> [writing] <br/> 
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment] <br/> 
 <ins>Misinformation on COVID-19</ins> [data collection] <br/> 
