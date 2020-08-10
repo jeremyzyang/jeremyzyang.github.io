@@ -65,8 +65,8 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 #### selected work in progress:
 
 <ins>Award no longer Motivates once it's Awarded: <br/>
-A Field Experiment in Online Learning </ins> [writing] <br/> 
-<ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment] <br/> 
+A Field Experiment in Online Learning </ins> [experiment completed] <br/> 
+<ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment completed] <br/> 
 <ins>Misinformation on COVID-19</ins> [data collection] <br/> 
 <ins>Intertemporal Budget Allocation</ins> [experiment preparation]
 <!--
