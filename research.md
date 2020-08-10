@@ -64,13 +64,14 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 #### selected work in progress:
 
-<ins>Award no longer Motivates once it's Awarded: A Field Experiment in Online Learning </ins> [writing] <br/> 
-<ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
+<ins>Award no longer Motivates once it's Awarded: <br/>
+A Field Experiment in Online Learning </ins> [writing] <br/> 
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment] <br/> 
 <ins>Misinformation on COVID-19</ins> [data collection] <br/> 
 <ins>Intertemporal Budget Allocation</ins> [experiment preparation]
 <!--
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
+<ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 -->
 
 *authors listed in alphabetic order
