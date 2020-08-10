@@ -10,6 +10,10 @@ I enjoy teaching a diverse set of topics and have worked as TA for:
 
 [David Gamarnik](http://www.mit.edu/~gamarnik/home.html): Data, Model and Decision, Summer 2018, 2019
 
+[Catherine Tucker](https://mitsloan.mit.edu/faculty/directory/catherine-tucker) and [Pierre Azoulay](https://mitsloan.mit.edu/faculty/directory/pierre-azoulay): Managing Technological Innovation and Entrepreneurship (MBA), Summer2018
+
+[Roberto Rigobon](https://mitsloan.mit.edu/faculty/directory/roberto-rigobon): Macroeconomic Policy (MBA), Summer2018
+
 [Birger Wernerfelt](https://mitsloan.mit.edu/faculty/directory/birger-wernerfelt): Marketing Strategy, Fall 2018
 
 [John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little): Singularity, Fall 2018
