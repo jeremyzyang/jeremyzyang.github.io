@@ -67,8 +67,8 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 <ins>Award no longer Motivates once it's Awarded: <br/>
 A Field Experiment in Online Learning </ins> [experiment completed] <br/> 
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> [pilot experiment completed] <br/> 
-<ins>Intertemporal Budget Allocation in Digital Advertising</ins> [experiment preparation]
-<ins>Misinformation on COVID-19</ins> [data collection] <br/> 
+<ins>Intertemporal Budget Allocation in Digital Advertising</ins> [experiment preparation] <br/>
+<ins>Misinformation on COVID-19</ins> [data collection]
 <!--
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
