@@ -27,6 +27,8 @@ presentations:<br/>
 Influencer Video Advertising on Douyin**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang and Yuhan Zhang
 
+<ins>Abstract:</ins> We develop an algorithm to predict the effect of influencer video ads on product sales. We term this concept _motion_, which captures the spatio-temporal relationship between user engagement and product placement in a video. Analogous to a basic principle in Newtonian mechanics, motion (sales) is generated when the object (product placement) is impressed with a force (engagement) in the space-time (video). We test the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short video platform in the world. We exploit variation in video posting time to identify the causal effect of video ads on sales. Videos of higher motion are more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, or lower-priced products, and more informative ads. We trace the mechanism to influencers' incentives to optimize for user engagement rather than sales. We discuss how product sellers can use motion as a novel contractual lever to mitigate the agency problem for greater ROI.
+
 presentations:<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
