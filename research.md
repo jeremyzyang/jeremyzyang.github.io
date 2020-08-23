@@ -8,7 +8,7 @@ layout: default
 
 #### working paper:
 
-<ins>**Targeting for Long-term Outcomes**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+<ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>-->
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
 
 <ins>Abstract:</ins> This paper studies the optimization of a targeting policy when the primary outcome of interest is observed only in the long-term. We build on the statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes with a surrogate index and learn the optimal targeting policy on the imputed outcomes via a doubly robust approach. We apply our approach in large-scale proactive churn management experiments at the Boston Globe by targeting optimal discounts to its digital subscribers to maximize their long-term revenue. We first prove analytically that our approach is valid for policy evaluation and optimization, then we validate it empirically by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. We implement the optimal targeting policy via Bootstrapped Thompson Sampling (BTS), which allows us to update the optimal policy for each new cohort of customers to account for non-stationarity. Over three years, our approach had a net-positive revenue impact in the range of \$4-5 million compared to the Boston Globe's current policies.
@@ -24,7 +24,7 @@ presentations:<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 
 <ins>**First Law of Motion: <br/>
-Influencer Video Advertising on Douyin**</ins> [<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 <ins>Abstract:</ins> We develop an algorithm to predict the effect of influencer video ads on product sales. We term this concept _motion_, which captures the spatio-temporal relationship between user engagement and product placement in a video. Analogous to a basic principle in Newtonian mechanics, motion (sales) is generated when the object (product placement) is impressed with a force (user engagement) in the space-time (video). We test the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short video platform in the world. We exploit variation in video posting time to identify the causal effect of video ads on sales. Videos of higher motion are more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, or lower-priced products, and more informative ads. We trace the mechanism to influencers' incentives to optimize for user engagement rather than sales. We discuss how product sellers can use motion as a novel contractual lever to mitigate the agency problem for greater ROI.
@@ -38,7 +38,7 @@ presentations:<br/>
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 -->
 
-<ins>**Information Revelation and Diffusion**</ins> [<a href="">paper</a>][<a href="">slides</a>]<br/>
+<ins>**Information Revelation and Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 T. Tony Ke, **Jeremy Yang**<sup>*</sup> 
 
 presentations:<br/>
@@ -49,7 +49,7 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 -->
 
 <ins>**Award no longer Motivates once it's Awarded:<br/>
-A Field Experiment in Online Learning**</ins> [<a href="">paper</a>][<a href="">slides</a>]<br/>
+A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
 
 <ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes and take quizzes on a weekly basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public recognition) and a control group, then within each treated class we randomly assign some students to receive the recognition and award conditional on their past performance. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but didn’t receive the award due to randomization. There’s no significant difference in future performance. We also find that students who didn’t receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no effect on students at lower end of the performance distribution who wouldn’t have had the chance to be awarded. Perhaps surprisingly, there’s also no difference between public and private recognition. Taken together, our results show that award only motivates when it's not awarded. In other words, in our context, award is an effective motivating tool ex ante, but not ex post.
