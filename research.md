@@ -18,8 +18,7 @@ presentations:<br/>
 \- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
 \- Conference on Digital Experimentation (MIT, 2019/11)<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
-\- NeurIPS CausalML Workshop <br/>
-(Vancouver Convention Center, 2019/12)<br/>
+\- NeurIPS CausalML Workshop (Vancouver Convention Center, 2019/12)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
