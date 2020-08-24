@@ -10,7 +10,7 @@ layout: default
 <ins>Topic:</ins> Targeting, Advertising, Diffusion, Entertainment & Commerce, Behavioral Economics & Consumer Behavior<br/>
 <ins>Method:</ins> Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
 
-#### working paper (links coming soon):
+#### working papers (links coming soon):
 
 <ins>**First Law of Motion: <br/>
 Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
@@ -62,7 +62,7 @@ Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup>
 presentations:<br/>
 \- Organizational Economics Lunch (MIT, 2020/10)<br/>
 
-#### publication:
+#### publications:
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> [<a href="https://www.pnas.org/content/early/2020/07/29/2009522117">paper</a>]<br/>
 **_Proceedings of the National Academy of Sciences (2020)_** <br/> 
