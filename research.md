@@ -7,10 +7,22 @@ layout: default
 ### research 
 
 #### research interests:
-<ins>Topic:</ins> Targeting, Advertising, Diffusion, Consumer Behavior<br/>
+<ins>Topic:</ins> Targeting, Advertising, Diffusion, Entertainment & Commerce, Consumer Behavior<br/>
 <ins>Method:</ins> Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
 
 #### working paper (links coming soon):
+
+<ins>**First Law of Motion: <br/>
+Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+**Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+
+<ins>Abstract:</ins> We develop an algorithm to predict the effect of influencer video ads on product sales. We term this concept _motion_, which captures the spatio-temporal relationship between user engagement and product placement in a video. Analogous to a basic principle in Newtonian mechanics, motion (sales) is generated when the object (product placement) is impressed with a force (user engagement) in the space-time (video). We test the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short video platform in the world. We exploit variation in video posting time to identify the causal effect of video ads on sales. Videos of higher motion are more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, or lower-priced products, and more informative ads. We trace the mechanism to influencers' incentives to optimize for user engagement rather than sales. We discuss how product sellers can use motion as a novel contractual lever to mitigate the agency problem for greater ROI.
+
+presentations:<br/>
+\- Social Analytics Lab (MIT, 2019/10)<br/>
+\- PhD Seminar (MIT, 2020/5)<br/>
+\- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
+
 
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
@@ -26,17 +38,6 @@ presentations:<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
-
-<ins>**First Law of Motion: <br/>
-Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-**Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
-
-<ins>Abstract:</ins> We develop an algorithm to predict the effect of influencer video ads on product sales. We term this concept _motion_, which captures the spatio-temporal relationship between user engagement and product placement in a video. Analogous to a basic principle in Newtonian mechanics, motion (sales) is generated when the object (product placement) is impressed with a force (user engagement) in the space-time (video). We test the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short video platform in the world. We exploit variation in video posting time to identify the causal effect of video ads on sales. Videos of higher motion are more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, or lower-priced products, and more informative ads. We trace the mechanism to influencers' incentives to optimize for user engagement rather than sales. We discuss how product sellers can use motion as a novel contractual lever to mitigate the agency problem for greater ROI.
-
-presentations:<br/>
-\- Social Analytics Lab (MIT, 2019/10)<br/>
-\- PhD Seminar (MIT, 2020/5)<br/>
-\- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
