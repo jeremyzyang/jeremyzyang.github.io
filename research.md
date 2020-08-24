@@ -7,7 +7,7 @@ layout: default
 ### research 
 
 #### research interests:
-<ins>Topic:</ins> Targeting, Advertising, Diffusion, Entertainment & Commerce, Consumer Behavior<br/>
+<ins>Topic:</ins> Targeting, Advertising, Diffusion, E(ntertainment)-Commerce, Consumer Behavior<br/>
 <ins>Method:</ins> Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
 
 #### working paper (links coming soon):
