@@ -4,9 +4,13 @@ layout: default
 
 [home](./). [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thought](./thought.md). [hobby](./hobby.md). [failed projects](./failed.md).
 
-### research (links to working papers coming soon) 
+### research 
 
-#### working paper:
+#### interests:
+Topic: Targeting, Advertising, Diffusion, Consumer Behavior<br/>
+Method: Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
+
+#### working paper (links coming soon):
 
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
