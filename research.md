@@ -6,9 +6,9 @@ layout: default
 
 ### research 
 
-#### interests:
-Topic: Targeting, Advertising, Diffusion, Consumer Behavior<br/>
-Method: Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
+#### research interests:
+<ins>Topic:</ins> Targeting, Advertising, Diffusion, Consumer Behavior<br/>
+<ins>Method:</ins> Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
 
 #### working paper (links coming soon):
 
