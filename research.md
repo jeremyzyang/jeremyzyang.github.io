@@ -40,6 +40,7 @@ presentations:<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
+\- American Economic Association Annual Meeting (Virtual, 2021/1)<br/>
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
