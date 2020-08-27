@@ -13,6 +13,6 @@ Broadly speaking, I think there are two main flavors in the type of research con
 
 <ins>On my frustration with English dictionaries</ins>
 
-They do two things that frustrate me. They either explain a world I don't know with another word that I don't know, or even worse, they explain a word with itself. I didn't know it is possible to bootstrap in languages? I was looking up the word _vexatious_ on Webster dictionary the other day and it says _causing vexation_, still don't know what it means. Then I search for _vexation_ it says _the quality or state of being vexed_. Really? I felt annoyed and I still don't know what vexed means til this day.  
+They do two things that frustrate me. They either explain a world I don't know with another word that I don't know, or even worse, they explain a word with itself. I didn't know it is possible to bootstrap in languages? I was looking up the word _vexatious_ on Webster dictionary the other day and it says _causing vexation_, still don't know what it means. Then I search for _vexation_ it says _the quality or state of being vexed_. Really? I felt annoyed and still don't know what vexed means till this day.  
 
 [home](./)
