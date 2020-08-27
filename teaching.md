@@ -18,7 +18,7 @@ I enjoy teaching a diverse set of topics and have worked as TA for:
 
 [John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little): Singularity, Fall 2018
 
-#### Master of Business Analytics (MBAn)
+#### Master of Business Analytics
 [Erik Brynjolfsson](http://digital.mit.edu/erik/) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq):<br/> Analytics Lab, Summer and Fall 2019
 
 
