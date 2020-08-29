@@ -95,7 +95,6 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 -->
-
-*authors have equal contribution and are listed in an alphabetic order
+*Authors made equal contribution and are listed in an alphabetic order
 
 [home](./)
