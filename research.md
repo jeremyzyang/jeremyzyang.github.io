@@ -24,6 +24,7 @@ presentations:<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
+\- Marketing Seminar (MIT, 2020/11)<br/>
 
 
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
@@ -39,6 +40,7 @@ presentations:<br/>
 \- NeurIPS CausalML Workshop (Vancouver Convention Center, 2019/12)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
+\- Quantitative Marketing and Economics (QME) Conference (Stanford & UCLA, 2020/10)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- American Economic Association Annual Meeting (Virtual, 2021/1)<br/>
 
