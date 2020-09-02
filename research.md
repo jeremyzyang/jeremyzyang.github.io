@@ -48,6 +48,15 @@ presentations:<br/>
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 -->
 
+<ins>**Award no longer Motivates once it's Awarded:<br/>
+A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
+
+<ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes and take quizzes on a weekly basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public recognition) and a control group, then within each treated class we randomly assign some students to receive the recognition and award conditional on their past performance. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but didn’t receive the award due to randomization. There’s no significant difference in future performance. We also find that students who didn’t receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no effect on students at lower end of the performance distribution who wouldn’t have had the chance to be awarded. Perhaps surprisingly, there’s also no difference between public and private recognition. Taken together, our results show that award only motivates when it's not awarded. In other words, award is an effective motivating tool ex ante, but not ex post.
+
+presentations:<br/>
+\- Organizational Economics Lunch (MIT, 2020/10)<br/>
+
 <ins>**Information Revelation and Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 T. Tony Ke, **Jeremy Yang**<sup>*</sup> 
 
@@ -57,15 +66,6 @@ presentations:<br/>
 <!--
 Abstract: We investigate how uncertainty affects information sharing behavior. Using data on the spread of scientific news regarding the discovery of Higgs boson on Twitter in July 2012 we find that: (1) the main effect of uncertainty reduction on sharing probability is positive, (2) there's positive peer effect (crowding in) in the pre announcement or rumor phase that is characterized by piecemeal release of signals that are informative but noisy (high to medium uncertainty), (3) peer effect becomes negative (crowding out) in the post-announcement phase when the discovery is officially confirmed (low uncertainty) and (4) because of the negative interaction between information uncertainty and peer effect, when the number of sharing peers exceed some threshold, individuals are more likely to share when uncertainty is higher. This result suggests that the crowding in effect in rumor phase tends to amplify diffusion while the crowding out effect after confirmation tends to suppress diffusion. This motivates a simple learning model that highlights the mechanism through which uncertainty interacts with peer effects to drive the pattern of diffusion and offers a potential explanation to why rumors tend to diffuse wider and faster than verified news, even when the content of information is holding fixed. We further corroborate the result by analyzing a broader dataset that contains over 2400 rumors about 5 breaking news on Twitter from 2014-2015.
 -->
-
-<ins>**Award no longer Motivates once it's Awarded:<br/>
-A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
-
-<ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes and take quizzes on a weekly basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public recognition) and a control group, then within each treated class we randomly assign some students to receive the recognition and award conditional on their past performance. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but didn’t receive the award due to randomization. There’s no significant difference in future performance. We also find that students who didn’t receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no effect on students at lower end of the performance distribution who wouldn’t have had the chance to be awarded. Perhaps surprisingly, there’s also no difference between public and private recognition. Taken together, our results show that award only motivates when it's not awarded. In other words, award is an effective motivating tool ex ante, but not ex post.
-
-presentations:<br/>
-\- Organizational Economics Lunch (MIT, 2020/10)<br/>
 
 #### publications:
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
