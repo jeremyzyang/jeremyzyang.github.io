@@ -51,7 +51,6 @@ Abstract: TikTok is the most popular short video platform in the world with over
 -->
 
 <ins>**It is the Possibility of Receiving Recognition not Receiving Recognition itself that Increases Future Effort and Performance:<br/> 
-A Field Experiment in Online Learning:<br/>
 A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
 
