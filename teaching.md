@@ -4,27 +4,29 @@
 
 I have been invited as a guest lecturer for:
 
-<ins>Analytics Lab<ins> (Master of Business Analytics) - [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Fall 2020
+<ins>Analytics Lab</ins> (Master of Business Analytics) - <br/>
+[Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Fall 2020
 
-Marketing Innovation (MBA) - [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Fall 2020
+<ins>Marketing Innovation</ins> (MBA) - [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Fall 2020
 
 I enjoy teaching a diverse set of topics. I've also worked as TA for:
 
-Experimental Design and Analysis (PhD) - [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), Fall 2019
+<ins>Experimental Design and Analysis</ins> (PhD) - [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), Fall 2019
 
-Analytics Lab (Master of Business Analytics) - [Erik Brynjolfsson](http://digital.mit.edu/erik/) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Summer and Fall 2019
+z<ins>Analytics Lab</ins> (Master of Business Analytics) - <br/>
+[Erik Brynjolfsson](http://digital.mit.edu/erik/) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Summer and Fall 2019
 
-Data, Model and Decision (MBA) - [David Gamarnik](http://www.mit.edu/~gamarnik/home.html), Summer 2018, 2019
+<ins>Data, Model and Decision</ins> (MBA) - [David Gamarnik](http://www.mit.edu/~gamarnik/home.html), Summer 2018, 2019
 
-Marketing Strategy (MBA) - [Birger Wernerfelt](https://mitsloan.mit.edu/faculty/directory/birger-wernerfelt), Fall 2018
+<ins>Marketing Strategy</ins> (MBA) - [Birger Wernerfelt](https://mitsloan.mit.edu/faculty/directory/birger-wernerfelt), Fall 2018
 
-Singularity (MBA) - [John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little), Fall 2018
+<ins>Singularity</ins> (MBA) - [John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little), Fall 2018
 
-Macroeconomic Policy - [Roberto Rigobon](https://mitsloan.mit.edu/faculty/directory/roberto-rigobon), Summer 2018
+<ins>Macroeconomic Policy</ins> - [Roberto Rigobon](https://mitsloan.mit.edu/faculty/directory/roberto-rigobon), Summer 2018
 
-Managing Technological Innovation and Entrepreneurship -[Catherine Tucker](https://mitsloan.mit.edu/faculty/directory/catherine-tucker) and [Pierre Azoulay](https://mitsloan.mit.edu/faculty/directory/pierre-azoulay), Summer 2018
+<ins>Managing Technological Innovation and Entrepreneurship</ins> -[Catherine Tucker](https://mitsloan.mit.edu/faculty/directory/catherine-tucker) and [Pierre Azoulay](https://mitsloan.mit.edu/faculty/directory/pierre-azoulay), Summer 2018
 
-Digital Marketing (MBA) - [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral), Fall 2017
+<ins>Digital Marketing</ins> (MBA) - [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral), Fall 2017
 
 
 [home](./)
