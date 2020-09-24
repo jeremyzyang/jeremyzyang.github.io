@@ -12,7 +12,7 @@ layout: default
 <ins>Method:</ins> Causal Inference (Experimental and Observational), Machine Learning (Computer Vision and Reinforcement Learning)
 -->
 
-#### working papers (links coming soon):
+#### working papers:
 
 <ins>**First Law of Motion: <br/>
 Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
