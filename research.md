@@ -91,11 +91,9 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 <!-- #### revise & resubmit:-->
 
 #### selected work in progress:
-<ins>**Sequential Paywall Design with Reinforcement Learning**</ins> <br/>
-
-<ins>**Intertemporal Budget Allocation in Digital Advertising**</ins> <br/>
-
-<ins>**Misinformation on COVID-19**</ins>
+<ins>Sequential Paywall Design with Reinforcement Learning</ins> <br/>
+<ins>Intertemporal Budget Allocation in Digital Advertising</ins> <br/>
+<ins>Misinformation on COVID-19</ins>
 
 <!--
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
