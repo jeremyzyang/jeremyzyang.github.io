@@ -15,7 +15,7 @@ I enjoy teaching a diverse set of topics. I've also worked as TA for:
 <ins>Experimental Design and Analysis</ins> (PhD) <br/>
 [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), Fall 2019
 
-z<ins>Analytics Lab</ins> (Master of Business Analytics) <br/>
+<ins>Analytics Lab</ins> (Master of Business Analytics) <br/>
 [Erik Brynjolfsson](http://digital.mit.edu/erik/) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Summer and Fall 2019
 
 <ins>Data, Model and Decision</ins> (MBA) <br/>
