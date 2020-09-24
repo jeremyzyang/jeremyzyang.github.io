@@ -1,6 +1,6 @@
 [home](./). [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
 
-### thought
+### thoughts
 
 Just some random thoughts on what I've been reading and thinking, not much at the moment, more coming soon.
 
