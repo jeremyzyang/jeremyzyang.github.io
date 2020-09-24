@@ -30,7 +30,7 @@ I enjoy teaching a diverse set of topics. I've also worked as TA for:
 <ins>Macroeconomic Policy</ins> (MBA)<br/>
 [Roberto Rigobon](https://mitsloan.mit.edu/faculty/directory/roberto-rigobon), Summer 2018
 
-<ins>Managing Technological Innovation and Entrepreneurship (MBA)</ins> <br/>
+<ins>Managing Technological Innovation and Entrepreneurship</ins> (MBA) <br/>
 [Catherine Tucker](https://mitsloan.mit.edu/faculty/directory/catherine-tucker) and [Pierre Azoulay](https://mitsloan.mit.edu/faculty/directory/pierre-azoulay), Summer 2018
 
 <ins>Digital Marketing</ins> (MBA) <br/>
