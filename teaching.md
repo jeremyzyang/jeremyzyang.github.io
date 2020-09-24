@@ -4,7 +4,7 @@
 
 I have been invited as a guest lecturer for:
 
-Analytics Lab (Master of Business Analytics) - [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Fall 2020
+<ins>Analytics Lab<ins> (Master of Business Analytics) - [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Fall 2020
 
 Marketing Innovation (MBA) - [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Fall 2020
 
