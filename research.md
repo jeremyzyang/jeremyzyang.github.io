@@ -21,12 +21,11 @@ Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a hre
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video ads on product sales by computing a summary statistics that we term _Motion_. _Motion_ captures pixel-level spatio-temporal interaction between content engagement and product placement in a video. Analogous to a fundamental law in Newtonian mechanics, _Motion_ (sales conversion) is generated when the object (product placement) is impressed with a force (content engagement) in the space and time (video). We validate the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short-video platform in the world. We exploit variation in video posting time to identify the causal effect of video ads on sales via difference-in-differences. Videos of higher _Motion_ are more effective in driving sales conversion. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, lower-priced products, and more informative ads. We trace the mechanism to influencers’ incentives to optimize for engagement rather than sales. Product sellers can use _Motion_ to screen videos in a scalable way pre-launch and also as a novel contractual lever to mitigate the principal-agent problem for greater ROI.
 
 presentations:<br/>
-\- Social Analytics Lab (MIT, 2019/10)<br/>
-\- PhD Seminar (MIT, 2020/5)<br/>
-\- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
-\- Marketing Innovation Guest Lecture (MIT, 2020/11)<br/>
 \- Marketing Seminar (MIT, 2020/11)<br/>
-
+\- Marketing Innovation Guest Lecture (MIT, 2020/11)<br/>
+\- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
+\- PhD Seminar (MIT, 2020/5)<br/>
+\- Social Analytics Lab (MIT, 2019/10)<br/>
 
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
@@ -34,23 +33,24 @@ presentations:<br/>
 <ins>Abstract:</ins> This paper studies the optimization of a targeting policy when the primary outcome of interest is observed only in the long-term. We build on the statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes with a surrogate index and learn the optimal targeting policy on the imputed outcomes via a doubly robust approach. We apply our approach in large-scale proactive churn management experiments at the Boston Globe by targeting optimal discounts to its digital subscribers to maximize their long-term revenue. We first prove analytically that our approach is valid for policy evaluation and optimization, then we validate it empirically by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. We implement the optimal targeting policy via Bootstrapped Thompson Sampling (BTS), which allows us to update the optimal policy for each new cohort of customers to account for non-stationarity. Over three years, our approach had a net-positive revenue impact in the range of \$4-5 million compared to the Boston Globe's current policies.
 
 presentations:<br/>
-\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
-\- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
-\- Conference on Digital Experimentation (MIT, 2019/11)<br/>
-\- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
-\- NeurIPS CausalML Workshop (Vancouver Convention Center, 2019/12)<br/>
-\- Marketing Seminar (MIT, 2020/5)<br/>
-\- International Conference on Computational Social Science (MIT, 2020/7)<br/>
-\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<br/>
-\- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
-\- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- American Economic Association Annual Meeting (Virtual, 2021/1)<br/>
+\- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
+\- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
+\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<br/>
+\- International Conference on Computational Social Science (MIT, 2020/7)<br/>
+\- Marketing Seminar (MIT, 2020/5)<br/>
+\- NeurIPS CausalML Workshop (Vancouver Convention Center, 2019/12)<br/>
+\- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
+\- Conference on Digital Experimentation (MIT, 2019/11)<br/>
+\- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
+\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
+
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 -->
 
-<ins>**It is the Possibility of Receiving Recognition not Receiving Recognition itself that Increases Future Effort and Performance:<br/> 
+<ins>**Award no long Motivates once you are Awarded:<br/> 
 A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
 
