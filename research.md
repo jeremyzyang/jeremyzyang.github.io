@@ -30,9 +30,9 @@ presentations:<br/>
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
 
-_Nominated for the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
-_Accepted for Presentation at the QME Conference (2020/10)_<br/>
-_Accepted for Presentation at NeurIPS (CausalML Workshop) (2019/12)_<br/>
+\- _Nominated for the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
+\- _Accepted for Presentation at the QME Conference (2020/10)_<br/>
+\- _Accepted for Presentation at NeurIPS (CausalML Workshop) (2019/12)_<br/>
 
 <ins>Abstract:</ins> This paper studies the optimization of a targeting policy when the primary outcome of interest is observed only in the long-term. We build on the statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes with a surrogate index and learn the optimal targeting policy on the imputed outcomes via a doubly robust approach. We apply our approach in large-scale proactive churn management experiments at the Boston Globe by targeting optimal discounts to its digital subscribers to maximize their long-term revenue. We first prove analytically that our approach is valid for policy evaluation and optimization, then we validate it empirically by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. We implement the optimal targeting policy via Bootstrapped Thompson Sampling (BTS), which allows us to update the optimal policy for each new cohort of customers to account for non-stationarity. Over three years, our approach had a net-positive revenue impact in the range of \$4-5 million compared to the Boston Globe's current policies.
 
