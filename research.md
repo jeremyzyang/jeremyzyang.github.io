@@ -30,7 +30,7 @@ presentations:<br/>
 <ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
 
-\- _Nominated for the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
+\- _Nominated for Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
 \- _Accepted for Presentation at the QME Conference (2020/10)_<br/>
 \- _Accepted for Presentation at NeurIPS (CausalML Workshop) (2019/12)_<br/>
 
