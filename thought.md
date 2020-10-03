@@ -8,6 +8,10 @@ Just some random thoughts on what I've been reading and thinking, not much at th
 
 It's interesting that as kids we tend to do a bunch of random and stupid stuff just to try things out, just like when we are running a randomized experiment where doing precedes and causes learning. But as we grow we tend to have a strong prior on many things so the value of experimentation decreases, we do what we think is the best, where knowing precedes doing. I really like what [Celeste Kidd](https://www.kiddlab.com/) said in her NeurIPS 2019 talk on ["how to know"](https://www.youtube.com/watch?v=bvebjL48f-w), "it is what you think you know that determines your curiosity, not what you actually don't know, if you think you know the answer, you are not curious to check it so you don't, and you get stuck with the wrong answer. People don't have a good model of their own uncertainty."
 
+<ins>On the science and engineering approach to business research</ins>
+
+I subscribe to both the science and engineering view to business research. The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs with keen observation and insightful explanation of interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a clever way. 
+
 [home](./)
 
 <!-- <ins>On the "science" and "engineering" type of research in business schools</ins>
