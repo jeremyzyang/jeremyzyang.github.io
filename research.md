@@ -7,8 +7,10 @@ layout: default
 ### research 
 
 #### general interests:
-<ins>Topic:</ins> Video Advertising, Targeting Interventions, Entertainment Commerce, Incentive Design<br/>
-<ins>Method:</ins> Computer Vision, Reinforcement Learning, Natural Language Processing, Causal Inference
+<ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
+Entertainment Commerce, Incentive Design<br/>
+<ins>Method:</ins> Computer Vision, Reinforcement Learning, <br/>
+Natural Language Processing, Causal Inference
 
 #### working papers:
 
@@ -25,7 +27,7 @@ presentations:<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
 
-<ins>**Targeting for Long-term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
+<ins>**Targeting for Long-Term Outcomes**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
 
 \- _Nominated for Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
