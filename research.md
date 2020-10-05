@@ -44,6 +44,7 @@ presentations:<br/>
 \- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
 \- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
+\- Initiative on the Digital Economy Annual Conference (MIT, 2020/5)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
 \- NeurIPS CausalML Workshop (Vancouver Convention Center, 2019/12)<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
