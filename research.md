@@ -101,6 +101,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 #### selected work in progress:
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> <br/>
+<ins>Creative Decay: Predicting Advertising Life Cycle <br/>
 <ins>What Happens to Attribution and Targeting without Apple IDFA</ins> <br/>
 <ins>Activation: The Change of User Intention on TikTok</ins> <br/>
 
