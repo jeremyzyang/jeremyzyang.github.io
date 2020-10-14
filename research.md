@@ -17,7 +17,7 @@ Natural Language Processing, Causal Inference
 #### working papers:
 
 <ins>**First Law of Motion: <br/>
-Influencer Video Advertising on Douyin**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Influencer Video Advertising on Douyin** (Job Market Paper)</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 <ins>Abstract:</ins> We develop an algorithm to predict the effect of influencer video ads on product sales. We propose the _motion_ concept, which captures the pixel-level spatio-temporal interaction between content engagement and product placement in a video. Analogous to a basic principle in Newtonian mechanics, motion (sales) is generated when the object (product placement) is impressed with a force (content engagement) in the space and time (video). We test the algorithm with an analysis of 40,000 influencer video ads on Douyin, the Chinese version of TikTok and the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher motion are indeed more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, and lower-price products. We trace the mechanism to influencers' incentives to optimize for engagement rather than sales. Product sellers can use motion to screen video ads pre-launch in a highly scalable way and also as a novel contractual lever to mitigate the principal-agent problem for greater ROI.
