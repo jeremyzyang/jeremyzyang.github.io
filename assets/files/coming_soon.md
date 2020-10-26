@@ -1,4 +1,4 @@
-[home](/). [cv](./assets/files/coming_soon.md). [research](/research.md). [teaching](/teaching.md). [thoughts](/thought.md). [hobbies](/hobby.md). [failed projects](/failed.md).
+[home](/). [cv](./assets/files/coming_soon.md). [research](/research.html). [teaching](/teaching.html). [thoughts](/thought.html). [hobbies](/hobby.html). [failed projects](/failed.html).
 
-<center>Coming soon!</center>
+#### Coming soon!
 
