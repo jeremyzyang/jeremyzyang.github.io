@@ -1,5 +1,4 @@
-[home](./). [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
-
+[home](./). [cv](./assets/files/coming_soon.md). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
 ### hobbies
 
 I enjoy playing and watching sports, especially tennis, basketball, soccer and skiiing (for the long New England winters). I try to play some competitive tennis in my spare time and am always looking for hitting partners. I'm a big fan of sports analytics and have been working on a side project using [tennis](/assets/files/tennis_poster.pdf) data. Let me know if you're interested in working on something cool and fun together.
