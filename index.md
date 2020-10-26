@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[home](./). [cv](./cv.html). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
+[home](./). [cv](./assets/files/coming_soon.md). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
 
-I’m somewhat a convex combination of economist and data scientist with the weight varying between 0 and 1 depending on the problem. 
+I’m somewhat a convex combination of an economist and data scientist with the weight varying between 0 and 1 depending on the problem. 
 
 My current research focuses on optimizing marketing decisions (e.g., advertising, targeting, pricing) with algorithmic products that turn unstructured data (e.g., video, text, map and network) into actionable insights. The solutions we propose are typically motivated by basic microeconomic and psychological principles and implemented with the state-of-the-art techniques in causal inference (both observational and experimental) and machine learning (e.g., computer vision, reinforcement learning). I’m also interested in understanding consumer behaviors that feed into and are also influenced by these algorithmic products.
 
