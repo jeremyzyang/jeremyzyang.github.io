@@ -31,7 +31,7 @@ presentations:<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
 
-<ins>**Targeting for Long-Term Outcomes**</ins> [<a href="https://www.chicagobooth.edu/-/media/research/kilts/docs/QME2020/Targeting-for-Long-term-Outcomes.pdf">paper</a>] <!--[<a href="">paper</a>][<a href=" ">slides</a>]--> <br/>
+<ins>**Targeting for Long-Term Outcomes**</ins> [<a href="https://www.chicagobooth.edu/-/media/research/kilts/docs/QME2020/Targeting-for-Long-term-Outcomes.pdf">paper</a>] [<a href="https://www.dropbox.com/s/etqm169yjytxt4n/targeting_informs2.mp4?dl=0">talk</a>]<br/>
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral
 
 Under review at _**Management Science**_<br/>
