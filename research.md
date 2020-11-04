@@ -46,6 +46,7 @@ Under review at _**Management Science**_<br/>
 presentations:<br/>
 \- American Economic Association Annual Meeting (Virtual, 2021/1)<br/>
 \- Workshop on Information Systems and Economics (Virtual, 2020/12)<br/>
+\- Lyft Causal Inference Seminar (Lyft, 2020/12)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
 \- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<br/>
