@@ -34,6 +34,7 @@ presentations:<br/>
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
+
 [<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] 
 
 Under review at _**Management Science**_<br/>
