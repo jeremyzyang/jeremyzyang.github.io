@@ -17,8 +17,10 @@ Natural Language Processing, Causal Inference
 #### working papers:
 
 <ins>**First Law of Motion: <br/>
-Influencer Video Advertising on TikTok**</ins>  (Job Market Paper) <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+
+\- _Job Market Paper_<br/>
 
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video ads on product sales. We propose the concept of "motion" as a summary statistic that captures to what extent the product is shown in the most engaging parts of a video. We estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. We locate product placement by matching product images to video frames with an object detection algorithm. Motion is then defined as pixel-level engagement-weighted advertising intensity. We validate the algorithm with analysis of 40,000 influencer video ads on TikTok, the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher motion are indeed more effective in driving sales. This effect is sizable, robust, and is more pronounced among impulsive, hedonic, and lower-price products. We trace the mechanism to influencers’ incentives to sell themselves rather than the products. We discuss how product sellers can use motion to screen video ads pre-launch in a scalable way and also as a novel contractual lever to mitigate the agency problem for greater ROI.
 
