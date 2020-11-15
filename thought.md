@@ -13,6 +13,7 @@ It's interesting that as kids we tend to do a bunch of random and stupid stuff j
 I subscribe to both the science and engineering view to managerial research. The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs by discovering and explaining interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a novel way. I find both type of work enjoyable and valuable.
 
 <ins>On variability</ins>
+
 Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we, a priori, think might explain them. 
 
 [home](./)
