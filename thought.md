@@ -14,7 +14,7 @@ I subscribe to both the science and engineering view to managerial research. The
 
 <ins>On variability</ins>
 
-Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we, a priori, think might explain them. 
+Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we think, a priori, would explain them. 
 
 [home](./)
 
