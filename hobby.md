@@ -2,7 +2,7 @@
 
 ### hobbies
 
-I enjoy playing and watching sports, especially tennis, basketball, soccer and skiiing (for the long New England winters). I try to play some competitive tennis in my spare time (NTRP 4.0-4.5). I'm a big fan of sports analytics and have been working on a side project using [tennis](/assets/files/tennis_poster.pdf) data. Let me know if you're interested in working on something cool and fun together.
+I enjoy playing and watching sports, especially tennis, basketball, soccer and skiiing (for the long New England winters). I try to play some competitive tennis in my spare time (NTRP 4.0-4.5). I'm a big fan of sports analytics and have been working on a side project using [tennis](/assets/files/tennis_poster.pdf) data. Let me know if you're interested in working on something cool together.
 
 <!--and [basketball](/assets/files/bball.md) -->
 
