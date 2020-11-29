@@ -29,7 +29,7 @@ presentations:<br/>
 \- Human Cooperation Lab (MIT, 2020/11)<br/>
 \- Conference on Digital Experimentation (MIT, 2020/11)<br/>
 \- Marketing Seminar (MIT, 2020/11)<br/>
-\- Marketing Innovation Guest Lecture (MIT, 2020/11)<br/>
+\- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2020/11)<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
 \- Social Analytics Lab (MIT, 2019/10)<br/>
