@@ -32,7 +32,7 @@ presentations:<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2020/11)<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2020/11)<br/>
 \- PhD Seminar (MIT, 2020/5)<br/>
-\- Social Analytics Lab (MIT, 2019/10)<br/>
+<!-- \- Social Analytics Lab (MIT, 2019/10)<br/> -->
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 **Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
