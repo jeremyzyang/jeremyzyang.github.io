@@ -17,7 +17,7 @@ One stream of my current work focuses on combining machine learning and adaptive
 
 I'm fortuante to have my training supervised by [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chair), [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang) (co-chair) and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles). Yes, pun intended. Outside of MIT, I'm lucky to be working with [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) (NYU Stern School of Business) and [Paramveer Dhillon](https://www.si.umich.edu/people/paramveer-dhillon) (University of Michigan School of Information). I'm also affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab) and [Behavioral Research Lab](https://brl.mit.edu).
 
-Previously I studied economics, management, and statistics at the University of International Business and Economics and New York University. I worked in consulting as a business analyst before graduate school. 
+I studied economics, management, and statistics at the University of International Business and Economics and New York University. I also worked in consulting as a business analyst before graduate school. 
 
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
