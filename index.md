@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
 
 I’m somewhat a convex combination of an economist and data scientist with the weight varying between 0 and 1 depending on the problem. 
 
