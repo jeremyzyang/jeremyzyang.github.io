@@ -1,6 +1,6 @@
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [hobbies](./hobby.md). [failed projects](./failed.md).
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
 
-### hobbies
+### personal
 
 I enjoy playing and watching sports, especially tennis, basketball, soccer and skiing (for the long New England winters). I try to play some competitive tennis in my spare time (NTRP 4.0-4.5). I'm a big fan of sports analytics and have been working on a side project using [tennis](/assets/files/tennis_poster.pdf) data. Let me know if you're interested in working on something cool together.
 
