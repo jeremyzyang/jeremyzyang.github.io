@@ -2,7 +2,7 @@
 
 ### teaching 
 
-I have been invited as a guest lecturer for:
+I was a guest lecturer for:
 
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
@@ -13,7 +13,7 @@ I have been invited as a guest lecturer for:
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Fall 2020
 
-I enjoy teaching a diverse set of topics. I've also worked as TA for:
+I enjoy teaching a diverse set of topics. I also worked as a TA for:
 
 <ins>Experimental Design and Analysis</ins> (PhD) <br/>
 [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), Fall 2019
