@@ -4,6 +4,9 @@
 
 I have been invited as a guest lecturer for:
 
+<ins>Marketing Innovation</ins> (MBA Core) <br/>
+[Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
+
 <ins>Analytics Lab</ins> (Master of Business Analytics) <br/>
 [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) and [Abdullah Almaatouq](https://mitsloan.mit.edu/faculty/directory/abdullah-almaatouq), Fall 2020
 
