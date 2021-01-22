@@ -6,7 +6,7 @@ layout: default
 
 I’m somewhat a convex combination of an economist and data scientist with the weight varying between 0 and 1 depending on the problem. 
 
-My current research focuses on optimizing managerial decisions by developing algorithmic products that turn big unstructured data into actionable insights. I have two lines of research on learning to design and deliver interventions. On the design side, I work on content strategy in creator economy, and on the delivery side, I work on targeting policies. 
+My current research focuses on optimizing managerial decisions by developing algorithmic products that turn unstructured data into actionable insights. I have two lines of research on learning to design and deliver interventions. On the design side, I work on content strategy in creator economy, and on the delivery side, I work on targeting policies. 
 
 The algorithmic solutions we propose are typically motivated by basic microeconomic and behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). I’m also interested in understanding consumer behaviors more broadly and how they interact with these algorithmic products.
 
