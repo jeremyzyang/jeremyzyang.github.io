@@ -2,7 +2,7 @@
 
 ### thoughts
 
-Just some random thoughts on what I've been reading and thinking, not much at the moment, more coming soon.
+Just some random thoughts on what I've been reading and thinking.
 
 <ins>On knowing and doing</ins>
 
