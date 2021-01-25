@@ -6,6 +6,8 @@ layout: default
 
 ### research 
 
+My dissertation is on Learning to Design and Deliver Interventions. And I'm very honored to be the winner of the Best Dissertation Proposal Award at the American Statistical Association (Section on Marketing).
+
 <!--
 #### general interests:
 <ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
