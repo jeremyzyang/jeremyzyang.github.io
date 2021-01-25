@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on Learning to Design and Deliver Interventions. And I'm very honored to be the winner of the Best Dissertation Proposal Award at the American Statistical Association (Section on Marketing).
+My dissertation is on Learning to Design and Deliver Interventions. And I'm very honored to be the winner of the 2021 Best Dissertation Proposal Award at the American Statistical Association (Section in Marketing).
 
 <!--
 #### general interests:
