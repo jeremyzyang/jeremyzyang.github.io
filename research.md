@@ -46,8 +46,9 @@ presentation:<br/>
 
 Under review at _**Management Science**_<br/>
 
-\- _Nominated for the Best Student Paper Award at WISE (2020/11)_<br/>
+\- _Winner of the Best Doctoral Dissertation Proposal at the American Statistical Association_<br/>
 \- _Winner of the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
+\- _Nominated for the Best Student Paper Award at WISE (2020/11)_<br/>
 \- _Accepted for Presentation at the QME Conference (2020/10)_<br/>
 \- _Accepted for Presentation at NeurIPS (CausalML Workshop) (2019/12)_<br/>
 
