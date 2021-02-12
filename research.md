@@ -44,7 +44,7 @@ presentation:<br/>
 
 [<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://www.dropbox.com/s/8wrw9wznyfplf5p/policy_learning_lecture.mp4?dl=0">lecture</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
-Under review at _**Management Science**_<br/>
+Minor revision after the first round review at _**Management Science**_<br/>
 
 \- _Winner of the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
 \- _Nominated for the Best Student Paper Award at WISE (2020/11)_<br/>
@@ -59,7 +59,7 @@ presentation:<br/>
 \- Inference and Statistics Reading Group (Lyft, 2020/12)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
-\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<br/>
+\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<sup>*</sup><br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- Initiative on the Digital Economy Annual Conference (MIT, 2020/5)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
@@ -67,10 +67,9 @@ presentation:<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
 \- Conference on Digital Experimentation (MIT, 2019/11)<br/>
 \- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
-\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
-
 
 <!--
+\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 -->
 
