@@ -59,7 +59,7 @@ presentation:<br/>
 \- Inference and Statistics Reading Group (Lyft, 2020/12)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
-\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<sup>*</sup><br/>
+\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<sup>**</sup><br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- Initiative on the Digital Economy Annual Conference (MIT, 2020/5)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
@@ -132,6 +132,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 <ins>Creative Decay: Predicting Advertisement Half-Life<br/>
 -->
-*Authors made equal contribution and are listed in an alphabetic order
+<sup>*</sup>Authors made equal contribution and are listed in an alphabetic order <br/>
+<sup>**</sup>Presented by a co-author <br/>
 
 [home](./)
