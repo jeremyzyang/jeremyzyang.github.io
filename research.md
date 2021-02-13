@@ -67,7 +67,7 @@ presentation:<br/>
 \- HBS Digital Doctoral Workshop (Harvard, 2019/12)<br/>
 \- Conference on Digital Experimentation (MIT, 2019/11)<br/>
 \- Advances on Field Experiments (University of Chicago, 2019/7)<br/>
-\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/><sup>**</sup><br/>
+\- INFORMS Marketing Science (University of Roma Tre, 2019/6)<br/>
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
@@ -123,8 +123,8 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 #### selected work in progress:
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> <br/>
-<ins>Activation: The Change of User Intention on TikTok</ins> <br/>
 <ins>Attribution and Targeting without Apple IDFA</ins> <br/>
+<ins>The Shape of Humor</ins> <br/>
 
 <!--
 <ins>Misinformation on COVID-19</ins>
