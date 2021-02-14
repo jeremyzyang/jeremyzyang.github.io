@@ -123,11 +123,12 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 
 #### selected work in progress:
 <ins>Sequential Paywall Design with Reinforcement Learning</ins> <br/>
+<ins>Activation: The Change of User Intention on TikTok</ins> <br/>
 <ins>Attribution and Targeting without Apple IDFA</ins> <br/>
-<ins>The Shape of Humor</ins> <br/>
 
 <!--
 <ins>Misinformation on COVID-19</ins>
+<ins>The Shape of Humor</ins> <br/>
 <ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 <ins>Creative Decay: Predicting Advertisement Half-Life<br/>
