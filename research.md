@@ -40,7 +40,7 @@ presentation:<br/>
 \- Job Talk (Purdue University, 2021/1)<br/>
 \- Job Talk (City University of Hong Kong, 2021/1)<br/>
 \- Job Talk (Hebrew University of Jerusalem, 2020/12)<br/>
-\- Global Center For Big Data in Mobile Analytics (Temple University, 2020/12)<br/>
+\- Global Center For Big Data in Mobile Analytics (Temple, 2020/12)<br/>
 \- Conference on AI/ML (NYU, CMU & Temple University, 2020/12)<br/>
 \- Job Talk (University of Hong Kong, 2020/11)<br/>
 \- Human Cooperation Lab (MIT, 2020/11)<br/>
@@ -71,7 +71,7 @@ presentation:<br/>
 \- Inference and Statistics Reading Group (Lyft, 2020/12)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
 \- Analytics Lab Guest Lecture (MIT, 2020/11)<br/>
-\- Quantitative Marketing and Economics (Stanford University & UCLA, 2020/10)<sup>**</sup><br/>
+\- Quantitative Marketing and Economics (Stanford & UCLA, 2020/10)<sup>**</sup><br/>
 \- International Conference on Computational Social Science (MIT, 2020/7)<br/>
 \- Initiative on the Digital Economy Annual Conference (MIT, 2020/5)<br/>
 \- Marketing Seminar (MIT, 2020/5)<br/>
