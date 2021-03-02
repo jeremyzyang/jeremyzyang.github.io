@@ -35,7 +35,7 @@ presentation:<br/>
 \- Job Talk Seminar (University of Virginia, 2021/2)<br/>
 \- Job Talk Seminar (University of Washington, 2021/1)<br/>
 \- Job Talk Seminar (Cheung Kong Graduate School of Business, 2021/1)<br/>
-\- Job Talk Seminar (Harvard, 2021/1)<br/>
+\- Job Talk Seminar (Harvard University, 2021/1)<br/>
 \- Job Talk Seminar (HEC Paris, 2021/1)<br/>
 \- Job Talk Seminar (Purdue University, 2021/1)<br/>
 \- Job Talk Seminar (Hebrew University of Jerusalem, 2020/12)<br/>
