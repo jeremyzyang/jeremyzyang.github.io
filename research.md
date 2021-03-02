@@ -38,6 +38,7 @@ presentation:<br/>
 \- Job Talk (Harvard University, 2021/1)<br/>
 \- Job Talk (HEC Paris, 2021/1)<br/>
 \- Job Talk (Purdue University, 2021/1)<br/>
+\- Job Talk (City University of Hong Kong, 2021/1)<br/>
 \- Job Talk (Hebrew University of Jerusalem, 2020/12)<br/>
 \- Global Center For Big Data in Mobile Analytics (Temple University, 2020/12)<br/>
 \- Conference on AI/ML (NYU, CMU & Temple University, 2020/12)<br/>
