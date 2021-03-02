@@ -29,8 +29,18 @@ Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a hre
 presentation:<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2021/5)<br/>
 \- Marketing Seminar (Peking University, 2021/3)<br/>
+\- Job Talk (Erasmus University, 2021/3)<br/>
+\- Job Talk (Columbia University, 2021/2)<br/>
+\- Job Talk (University of Toronto, 2021/2)<br/>
+\- Job Talk (University of Virginia, 2021/2)<br/>
+\- Job Talk (University of Washington, 2021/1)<br/>
+\- Job Talk (Cheung Kong Graduate School of Business, 2021/1)<br/>
+\- Job Talk (Harvard, 2021/1)<br/>
+\- Job Talk (HEC Paris, 2021/1)<br/>
+\- Job Talk (Purdue University, 2021/1)<br/>
 \- Global Center For Big Data in Mobile Analytics (Temple, 2020/12)<br/>
 \- Conference on AI/ML (NYU, CMU & Temple, 2020/12)<br/>
+\- Job Talk (University of Hong Kong, 2020/11)<br/>
 \- Human Cooperation Lab (MIT, 2020/11)<br/>
 \- Conference on Digital Experimentation (MIT, 2020/11)<br/>
 \- Marketing Seminar (MIT, 2020/11)<br/>
