@@ -41,7 +41,7 @@ presentation:<br/>
 \- Job Talk (City University of Hong Kong, 2021/1)<br/>
 \- Job Talk (Hebrew University of Jerusalem, 2020/12)<br/>
 \- Global Center For Big Data in Mobile Analytics (Temple, 2020/12)<br/>
-\- Conference on AI/ML (NYU, CMU & Temple University, 2020/12)<br/>
+\- Conference on AI/ML (NYU, CMU & Temple, 2020/12)<br/>
 \- Job Talk (University of Hong Kong, 2020/11)<br/>
 \- Human Cooperation Lab (MIT, 2020/11)<br/>
 \- Conference on Digital Experimentation (MIT, 2020/11)<br/>
