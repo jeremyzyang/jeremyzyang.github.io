@@ -145,7 +145,7 @@ Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy 
 <ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
 <ins>Creative Decay: Predicting Advertisement Half-Life<br/>
 -->
-<sup>*</sup>Authors made equal contribution and are listed in an alphabetic order <br/>
+<sup>*</sup>Authors are listed in an alphabetic order <br/>
 <sup>**</sup>Presented by a co-author <br/>
 
 [home](./)
