@@ -27,7 +27,9 @@ Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a hre
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of _motion-score_, or _m-score_, a summary statistic that captures the extent to which a product is advertised in the most engagingparts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convo-lutional neural network on video-level engagement data.  M-score is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We validate the algorithm with nearly 40,000 influencer video ads on TikTok, the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive and lower-price products. We trace the mechanism to influencers’ incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
 
 presentation:<br/>
+\- Initiative on the Digital Economy Annual Conference (MIT, 2021/5)<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2021/5)<br/>
+\- Paris Conference on Digital Economics Workshop (Ecole Polytechnique and Telecom Paris, 2021/4)<br/>
 \- Marketing Seminar (Peking University, 2021/3)<br/>
 \- Job Talk (Erasmus University, 2021/3)<br/>
 \- Job Talk (Columbia University, 2021/2)<br/>
