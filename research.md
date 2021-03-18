@@ -24,7 +24,7 @@ Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a hre
 
 <!-- \- _Job Market Paper_<br/> -->
 
-<ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of _motion_, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. Motion is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We validate the algorithm with nearly 40,000 influencer video ads on TikTok, the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher motion indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, and lower-price products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use the motion metric in a scalable way to optimize content, align incentives, and improve efficiency.
+<ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of _motion-score_, or _m-score_, a summary statistic that captures the extent to which a product is advertised in the most engagingparts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convo-lutional neural network on video-level engagement data.  M-score is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We validate the algorithm with nearly 40,000 influencer video ads on TikTok, the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive and lower-price products. We trace the mechanism to influencers’ incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
 
 presentation:<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2021/5)<br/>
@@ -39,7 +39,6 @@ presentation:<br/>
 \- Job Talk (HEC Paris, 2021/1)<br/>
 \- Job Talk (Purdue University, 2021/1)<br/>
 \- Job Talk (City University of Hong Kong, 2021/1)<br/>
-\- Job Talk (Hebrew University of Jerusalem, 2020/12)<br/>
 \- Global Center For Big Data in Mobile Analytics (Temple, 2020/12)<br/>
 \- Conference on AI/ML (NYU, CMU & Temple, 2020/12)<br/>
 \- Job Talk (University of Hong Kong, 2020/11)<br/>
@@ -67,6 +66,7 @@ Minor revision at _**Management Science**_<br/>
 
 presentation:<br/>
 \- American Economic Association Annual Meeting (Virtual, 2021/1)<br/>
+\- Job Talk (Hebrew University of Jerusalem, 2020/12)<br/>
 \- Workshop on Information Systems and Economics (Virtual, 2020/12)<br/>
 \- Inference and Statistics Reading Group (Lyft, 2020/12)<br/>
 \- INFORMS Annual Meeting (Virtual, 2020/11)<br/>
