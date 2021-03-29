@@ -34,7 +34,7 @@ presentation:<br/>
 \- Initiative on the Digital Economy Annual Conference (MIT, 2021/5)<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture (MIT, 2021/5)<br/>
 \- Paris Conference on Digital Economics Workshop (Virtual, 2021/4)<br/>
-\- Marketing Seminar (Peking University, 2021/3)<br/>
+\- Management Workshop (Peking University, 2021/3)<br/>
 \- Job Talk (Erasmus University, 2021/3)<br/>
 \- Job Talk (Columbia University, 2021/2)<br/>
 \- Job Talk (University of Toronto, 2021/2)<br/>
