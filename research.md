@@ -22,6 +22,10 @@ Natural Language Processing, Causal Inference
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 **Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
+[<a href="https://www.dropbox.com/s/afc3eleu22qorfo/first_law_of_motion_2021_03_28.pdf?dl=0">paper</a>] [<a href="">slides</a>]
+
+Under review at _**Marketing Science**_<br/>
+
 <!-- \- _Job Market Paper_<br/> -->
 
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of _motion-score_, or _m-score_, a summary statistic that captures the extent to which a product is advertised in the most engagingparts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convo-lutional neural network on video-level engagement data.  M-score is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We validate the algorithm with nearly 40,000 influencer video ads on TikTok, the largest short video platform in the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive and lower-price products. We trace the mechanism to influencers’ incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
