@@ -22,7 +22,7 @@ Natural Language Processing, Causal Inference
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
-[<a href="https://www.dropbox.com/s/afc3eleu22qorfo/first_law_of_motion_2021_03_28.pdf?dl=0">paper</a>] [<a href="https://www.dropbox.com/s/arsczrg7vz17m22/first_law_of_motion.key?dl=0">slides</a>]
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/arsczrg7vz17m22/first_law_of_motion.key?dl=0">slides</a>]
 
 Under review at _Marketing Science_<br/>
 
