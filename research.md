@@ -20,11 +20,11 @@ Natural Language Processing, Causal Inference
 
 <ins>**First Law of Motion: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-**Jeremy Yang**<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 [<a href="https://www.dropbox.com/s/afc3eleu22qorfo/first_law_of_motion_2021_03_28.pdf?dl=0">paper</a>] [<a href="https://www.dropbox.com/s/arsczrg7vz17m22/first_law_of_motion.key?dl=0">slides</a>]
 
-Under review at _**Marketing Science**_<br/>
+Under review at _Marketing Science_<br/>
 
 <!-- \- _Job Market Paper_<br/> -->
 
@@ -45,7 +45,7 @@ presentation:<br/>
 \- Job Talk, HEC Paris (2021/1)<br/>
 \- Job Talk, Purdue University (2021/1)<br/>
 \- Job Talk, City University of Hong Kong (2021/1)<br/>
-\- Global Center For Big Data in Mobile Analytics, Temple University (2020/12)<br/>
+\- Center For Big Data in Mobile Analytics, Temple University (2020/12)<br/>
 \- Conference on AI/ML, NYU, CMU & Temple University (2020/12)<br/>
 \- Job Talk, University of Hong Kong (2020/11)<br/>
 \- Human Cooperation Lab, MIT (2020/11)<br/>
@@ -57,11 +57,11 @@ presentation:<br/>
 <!-- \- Social Analytics Lab (MIT, 2019/10)<br/> -->
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
-**Jeremy Yang**, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
+Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
 
 [<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://www.dropbox.com/s/8wrw9wznyfplf5p/policy_learning_lecture.mp4?dl=0">lecture</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
-Minor revision at _**Management Science**_<br/>
+Minor revision at _Management Science_<br/>
 
 \- _Winner of the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
 \- _Nominated for the Best Student Paper Award at WISE (2020/11)_<br/>
@@ -93,12 +93,12 @@ Abstract: TikTok is the most popular short video platform in the world with over
 
 <ins>**Identification and Bias-Amplification:<br/>
 Latent Space Approach to Social Contagion on Observational Networks**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-**Jeremy Yang** <br/>
+Jeremy Yang <br/>
 
 <ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.
 
 <ins>**Uncertainty and Information Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-T. Tony Ke, **Jeremy Yang**<sup>*</sup> 
+T. Tony Ke, Jeremy Yang<sup>*</sup> 
 
 <ins>Abstract:</ins> We investigate how uncertainty affects information diffusion. We analyze a dataset that contains over 2400 rumors about 5 breaking news on Twitter from 2014-2015 where rumors are verified to be true or false at different time. We exploit the difference in the timing of verification to estimate the causal effect of uncertainty reduction on diffusion via difference-in-differences. We find that in some events the verification _decreases_ diffusion even for rumors that are true. This motivates a microfounded social learning model on the network that highlights the mechanism through which uncertainty shapes individual's incentive to share and thereby changing the pattern of diffusion. The model also offers a potential explanation to why rumors tend to diffuse wider and faster than verified news, even for information with similar content. 
 
@@ -108,7 +108,7 @@ presentation:<br/>
 
 <ins>**Award No Longer Motivates Once You Are Awarded:<br/> 
 A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Fan Bi, Qiang Feng, **Jeremy Yang**<sup>*</sup> 
+Fan Bi, Qiang Feng, Jeremy Yang<sup>*</sup> 
 
 <ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes, study the materials and take quizzes on a daily basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public award given out every week) and a control group, then within each treated class we randomly assign some students to actually receive the award conditional on their performance in the past week. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but did not receive the award due to randomization. They also do not exert more effort in the future than students with similar past performance in the control group. Students who did not receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no difference between public and private recognition. Taken together, our results suggest that it is the possibility of being awarded (ex ante) that increases future effort and performance, receiving the award (ex post) actually lowers future effort. In other words, symbolic awards don't have a continuing motivating effect after you are awarded.
 
@@ -123,17 +123,17 @@ Abstract: We investigate how uncertainty affects information sharing behavior. U
 #### publications:
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
-David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, **Jeremy Yang**, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
+David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 
-**_Proceedings of the National Academy of Sciences (2020)_** [<a href="https://ide.mit.edu/wp-content/uploads/2020/05/Interdependence_COVID_522.pdf">paper</a>]<br/>
+_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://ide.mit.edu/wp-content/uploads/2020/05/Interdependence_COVID_522.pdf">paper</a>]<br/>
 
 <ins>Abstract:</ins> Social distancing is the core policy response to COVID-19. But as federal, state and local governments begin opening businesses and relaxing shelter-in-place orders worldwide, we lack quantitative evidence on how policies in one region affect mobility and social distancing in other regions and the consequences of uncoordinated regional policies adopted in the presence of such spillovers. We therefore combined daily, county-level data on shelter-in-place and business closure policies with movement data from over 27 million mobile devices, social network connections among over 220 million of Facebook users, daily temperature and precipitation data from 62,000 weather stations and county-level census data on population demographics to estimate the geographic and social network spillovers created by regional policies across the United States. Our analysis showed the contact patterns of people in a given region are significantly influenced by the policies and behaviors of people in other, sometimes distant, regions. When just one third of a state’s social and geographic peer states adopt shelter in place policies, it creates a reduction in mobility equal to the state’s own policy decisions. These spillovers are mediated by peer travel and distancing behaviors in those states. A simple analytical model calibrated with our empirical estimates demonstrated that the “loss from anarchy” in uncoordinated state policies is increasing in the number of non-cooperating states and the size of social and geographic spillovers. These results suggest a substantial cost of uncoordinated government responses to COVID-19 when people, ideas, and media move across borders.
 
 <ins>**How Do Successful Scholars Get their Best Research Ideas? <br/>
 An Exploration**</ins> <br/>
-Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, **Jeremy Yang**<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
+Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, Jeremy Yang<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
 
-**_Marketing Letters (2019)_** [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
+_Marketing Letters (2019)_ [<a href="https://mitsloan.mit.edu/shared/ods/documents/?PublicationDocumentID=5970">paper</a>]<br/> 
 
 <ins>Abstract:</ins> We interview 24 marketing professors to ask how they got the ideas for 64 of their papers. More than three quarters of the papers were inspired by holes in the literature, by a “stylized fact” that the current literature cannot explain, or by an interaction with a manager. The rest fall into several smaller categories that to a large extent can be seen as special cases of the three big ones. We describe how papers from each of the three big categories help move the literature forward. We also illustrate the range of situations contained in each category by way of several examples. Among the authors we interview, most do not use a single source. As these authors become more senior, managerial contacts play an increasing role, while the balance between literature and stylized facts appears to be unchanged.
 
