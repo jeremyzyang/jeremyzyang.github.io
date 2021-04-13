@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions. I'm honored to be the winner of the 2021 Best Doctoral Dissertation Proposal Award at the American Statistical Association (Marketing Section).
+My dissertation is on learning to design, deliver, and diffuse interventions.
 
 <!--
 #### general interests:
@@ -26,6 +26,8 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 Under review at _Marketing Science_<br/>
 
+\- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
+
 <!-- \- _Job Market Paper_<br/> -->
 
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
@@ -33,6 +35,7 @@ Under review at _Marketing Science_<br/>
 presentations:<br/>
 \- Initiative on the Digital Economy Annual Conference, MIT (2021/5)<br/>
 \- Marketing Innovation (MBA Core) Guest Lecture, MIT (2021/5)<br/>
+\- Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
 \- Job Talk, Erasmus University (2021/3)<br/>
@@ -63,8 +66,9 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/>
 
 Minor revision at _Management Science_<br/>
 
-\- _Winner of the Best Paper Award at the INFORMS Annual Meeting (2020/11)_<br/>
-\- _Nominated for the Best Student Paper Award at WISE (2020/11)_<br/>
+\- _American Statistical Association Best Dissertation Proposal (Marketing Section) (2021/1)_<br/> 
+\- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
+\- _Finalist of WISE Best Student Paper Award (2020/11)_<br/>
 \- _Accepted for Presentation at the QME Conference (2020/10)_<br/>
 \- _Accepted for Presentation at NeurIPS (CausalML Workshop) (2019/12)_<br/>
 
