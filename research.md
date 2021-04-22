@@ -34,7 +34,7 @@ Under review at _Marketing Science_<br/>
 
 presentations:<br/>
 \- ISMS Marketing Science Conference, University of Rochester (2021/6)<br/>
-\- Artificial Intelligence in Management, USC (2021/5)<br/>
+\- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
 \- Initiative on the Digital Economy Annual Conference, MIT (2021/5)<br/>
 \- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
@@ -84,7 +84,7 @@ presentations:<br/>
 \- NeurIPS CausalML Workshop (2019/12)<br/>
 \- HBS Digital Doctoral Workshop, Harvard University (2019/12)<br/>
 \- Conference on Digital Experimentation, MIT (2019/11)<br/>
-\- Advances on Field Experiments, University of Chicago (2019/7)<br/>
+\- Advances on Field Experiments Conference, University of Chicago (2019/7)<br/>
 \- INFORMS Marketing Science, University of Roma Tre (2019/6)<sup>**</sup><br/>
 
 <!--
