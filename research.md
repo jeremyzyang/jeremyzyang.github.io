@@ -33,9 +33,10 @@ Under review at _Marketing Science_<br/>
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as the pixel-level, engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
 
 presentations:<br/>
+\- ISMS Marketing Science Conference, University of Rochester (2021/6)<br/>
+\- Artificial Intelligence in Management, USC (2021/5)<br/>
 \- Initiative on the Digital Economy Annual Conference, MIT (2021/5)<br/>
-\- Marketing Innovation (MBA Core) Guest Lecture, MIT (2021/5)<br/>
-\- Doctoral Research Forum, MIT (2021/4)<br/>
+\- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
 \- Job Talk, Erasmus University (2021/3)<br/>
@@ -51,13 +52,9 @@ presentations:<br/>
 \- Center For Big Data in Mobile Analytics, Temple University (2020/12)<br/>
 \- Conference on AI/ML, NYU, CMU & Temple University (2020/12)<br/>
 \- Job Talk, University of Hong Kong (2020/11)<br/>
-\- Human Cooperation Lab, MIT (2020/11)<br/>
 \- Conference on Digital Experimentation, MIT (2020/11)<br/>
 \- Marketing Seminar, MIT (2020/11)<br/>
-\- Marketing Innovation (MBA Core) Guest Lecture, MIT (2020/11)<br/>
 \- HBS Digital Doctoral Workshop, Harvard University (2020/11)<br/>
-\- PhD Seminar, MIT (2020/5)<br/>
-<!-- \- Social Analytics Lab (MIT, 2019/10)<br/> -->
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
@@ -80,7 +77,6 @@ presentations:<br/>
 \- Workshop on Information Systems and Economics (2020/12)<br/>
 \- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
 \- INFORMS Annual Meeting (2020/11)<br/>
-\- Analytics Lab Guest Lecture, MIT (2020/11)<br/>
 \- Quantitative Marketing and Economics, Stanford & UCLA (2020/10)<sup>**</sup><br/>
 \- International Conference on Computational Social Science, MIT (2020/7)<br/>
 \- Initiative on the Digital Economy Annual Conference, MIT (2020/5)<br/>
@@ -89,7 +85,7 @@ presentations:<br/>
 \- HBS Digital Doctoral Workshop, Harvard University (2019/12)<br/>
 \- Conference on Digital Experimentation, MIT (2019/11)<br/>
 \- Advances on Field Experiments, University of Chicago (2019/7)<br/>
-\- INFORMS Marketing Science, University of Roma Tre (2019/6)<br/>
+\- INFORMS Marketing Science, University of Roma Tre (2019/6)<sup>**</sup><br/>
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
@@ -117,7 +113,6 @@ Fan Bi, Qiang Feng, Jeremy Yang<sup>*</sup>
 <ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes, study the materials and take quizzes on a daily basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public award given out every week) and a control group, then within each treated class we randomly assign some students to actually receive the award conditional on their performance in the past week. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but did not receive the award due to randomization. They also do not exert more effort in the future than students with similar past performance in the control group. Students who did not receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no difference between public and private recognition. Taken together, our results suggest that it is the possibility of being awarded (ex ante) that increases future effort and performance, receiving the award (ex post) actually lowers future effort. In other words, symbolic awards don't have a continuing motivating effect after you are awarded.
 
 presentations:<br/>
-\- PhD Seminar, MIT (2020/10)<br/>
 \- Organizational Economics Lunch, MIT (2020/10)<br/>
 
 <!--
