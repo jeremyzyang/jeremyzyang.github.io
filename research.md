@@ -39,19 +39,19 @@ presentations:<br/>
 \- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
-\- Job Talk, Erasmus University (2021/3)<br/>
-\- Job Talk, Columbia University (2021/2)<br/>
-\- Job Talk, University of Toronto (2021/2)<br/>
-\- Job Talk, University of Virginia (2021/2)<br/>
-\- Job Talk, University of Washington (2021/1)<br/>
-\- Job Talk, Cheung Kong Graduate School of Business (2021/1)<br/>
-\- Job Talk, Harvard University (2021/1)<br/>
-\- Job Talk, HEC Paris (2021/1)<br/>
-\- Job Talk, Purdue University (2021/1)<br/>
-\- Job Talk, City University of Hong Kong (2021/1)<br/>
+\- Rotterdam School of Management, Erasmus University (2021/3)<br/>
+\- Columbia Business School, Columbia University (2021/2)<br/>
+\- ICCIT & Rotman School of Management, University of Toronto (2021/2)<br/>
+\- Darden School of Business, University of Virginia (2021/2)<br/>
+\- School of Business, University of Washington (2021/1)<br/>
+\- Cheung Kong Graduate School of Business (2021/1)<br/>
+\- Harvard Business School, Harvard University (2021/1)<br/>
+\- HEC Paris (2021/1)<br/>
+\- Krannert School of Management, Purdue University (2021/1)<br/>
+\- College of Business, City University of Hong Kong (2021/1)<br/>
 \- Center For Big Data in Mobile Analytics, Temple University (2020/12)<br/>
 \- Conference on AI/ML, NYU, CMU & Temple University (2020/12)<br/>
-\- Job Talk, University of Hong Kong (2020/11)<br/>
+\- HKU Business School, University of Hong Kong (2020/11)<br/>
 \- Conference on Digital Experimentation, MIT (2020/11)<br/>
 \- Marketing Seminar, MIT (2020/11)<br/>
 \- HBS Digital Doctoral Workshop, Harvard University (2020/11)<br/>
@@ -73,7 +73,7 @@ Minor revision at _Management Science_<br/>
 
 presentations:<br/>
 \- American Economic Association Annual Meeting (2021/1)<br/>
-\- Job Talk, Hebrew University of Jerusalem (2020/12)<br/>
+\- School of Business Administration, Hebrew University of Jerusalem (2020/12)<br/>
 \- Workshop on Information Systems and Economics (2020/12)<br/>
 \- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
 \- INFORMS Annual Meeting (2020/11)<br/>
