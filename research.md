@@ -46,7 +46,7 @@ presentations:<br/>
 \- School of Business, University of Washington (2021/1)<br/>
 \- Cheung Kong Graduate School of Business (2021/1)<br/>
 \- Harvard Business School, Harvard University (2021/1)<br/>
-\- HEC Paris (2021/1)<br/>
+\- HEC Paris & Hi! Paris Center on AI and Data Analytics (2021/1)<br/>
 \- Krannert School of Management, Purdue University (2021/1)<br/>
 \- College of Business, City University of Hong Kong (2021/1)<br/>
 \- Center For Big Data in Mobile Analytics, Temple University (2020/12)<br/>
@@ -73,7 +73,7 @@ Minor revision at _Management Science_<br/>
 
 presentations:<br/>
 \- American Economic Association Annual Meeting (2021/1)<br/>
-\- School of Business Administration, Hebrew University of Jerusalem (2020/12)<br/>
+\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
 \- Workshop on Information Systems and Economics (2020/12)<br/>
 \- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
 \- INFORMS Annual Meeting (2020/11)<br/>
