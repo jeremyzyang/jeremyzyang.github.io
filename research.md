@@ -34,8 +34,8 @@ Under review at _Marketing Science_<br/>
 
 presentations:<br/>
 \- ISMS Marketing Science Conference, University of Rochester (2021/6)<br/>
-\- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
 \- Initiative on the Digital Economy Annual Conference, MIT (2021/5)<br/>
+\- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
 \- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
