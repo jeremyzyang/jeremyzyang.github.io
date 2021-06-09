@@ -63,7 +63,7 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/>
 
 [<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://www.dropbox.com/s/8wrw9wznyfplf5p/policy_learning_lecture.mp4?dl=0">lecture</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
-Revise and Resubmit at _Management Science_<br/>
+Minor Revision at _Management Science_<br/>
 
 \- _American Statistical Association Dissertation Proposal Award (2021/1)_<br/> 
 \- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
