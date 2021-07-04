@@ -6,9 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions.
-
-I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT. I'm affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
+My dissertation is on learning to design, deliver, and diffuse interventions. I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. I'm affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
 
 <!--
 #### general interests:
@@ -16,6 +14,7 @@ I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloa
 Entertainment Commerce, Incentive Design<br/>
 <ins>Method:</ins> Computer Vision, Reinforcement Learning, <br/>
 Natural Language Processing, Causal Inference
+I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles). Yes, pun intended. Outside of MIT, I'm working with . I'm also affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
 -->
 
 #### working papers:
