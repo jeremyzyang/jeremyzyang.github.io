@@ -15,7 +15,7 @@ One stream of my current work focuses on combining machine learning and adaptive
 My current research focuses on optimizing managerial decisions such as advertising, pricing and targeting by developing algorithmic products that turn big unstructured data into actionable insights. 
 -->
 
-Before joining HBS, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>.
+Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>.
 
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
