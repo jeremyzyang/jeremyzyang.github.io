@@ -8,6 +8,8 @@ layout: default
 
 My dissertation is on learning to design, deliver, and diffuse interventions.
 
+I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT. I'm affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
+
 <!--
 #### general interests:
 <ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
