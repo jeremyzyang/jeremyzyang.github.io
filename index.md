@@ -4,9 +4,7 @@ layout: default
 
 [home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
 
-<p></p>
-
-<p></p>
+<br/><br/>
 
 I’m somewhat a convex combination of an economist and data scientist. The weight varies between 0 and 1 depending on the problem. 
 
