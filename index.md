@@ -10,7 +10,7 @@ My research focuses on developing algorithmic products to optimizie managerial d
 
 I’m also broadly interested in the nascent creator economy.
 
-Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. Prior to MIT, I studied economics, management, and statistics at the University of International Business and Economics and New York University. I've also worked in consulting as a business analyst after college.
+Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>.
 
 <!--My current research combines tools in econometrics, machine learning and leverages unstructured data (e.g., video, text, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological and neurological principles.
 I have two lines of research on learning to design and deliver interventions. On the design side, I work on content strategy in creator economy. On the delivery side, I work on targeting policies. 
@@ -18,6 +18,7 @@ One stream of my current work focuses on combining machine learning and adaptive
 (e.g., video, text, map and network)
 understanding consumer behaviors more broadly and how they interact with these algorithmic products. My recent work studies topics in 
 My current research focuses on optimizing managerial decisions such as advertising, pricing and targeting by developing algorithmic products that turn big unstructured data into actionable insights. 
+Prior to MIT, I studied economics, management, and statistics at the University of International Business and Economics and New York University. I've also worked in consulting as a business analyst after college.
 -->
 <!--
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
