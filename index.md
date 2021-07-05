@@ -6,7 +6,9 @@ layout: default
 
 I’m somewhat a convex combination of an economist and data scientist. The weight varies between 0 and 1 depending on the problem. 
 
-My research focuses on developing algorithmic products to optimizie managerial decisions such as advertising and targeting. The algorithmic solutions we propose are typically motivated by basic microeconomic and behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). I’m also broadly interested in the nascent creator economy.
+My research focuses on developing algorithmic products to optimizie managerial decisions such as advertising and targeting. The algorithmic solutions we propose are typically motivated by basic microeconomic and behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). 
+
+I’m also broadly interested in the nascent creator economy.
 
 Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. Prior to MIT, I studied economics, management, and statistics at the University of International Business and Economics and New York University. I've also worked in consulting as a business analyst.
 
