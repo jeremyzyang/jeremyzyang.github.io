@@ -10,7 +10,7 @@ My research focuses on developing algorithmic products to optimizie managerial d
 
 I’m also broadly interested in the nascent creator economy.
 
-Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>.
+Before joining Harvard, I received my PhD from the <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>, supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) (NYU Stern). 
 
 <!--My current research combines tools in econometrics, machine learning and leverages unstructured data (e.g., video, text, map and network) to optimize marketing decisions and answer questions of general interest in social sciences. I’m also interested in understanding consumer behaviors through the lens of basic psychological and neurological principles.
 I have two lines of research on learning to design and deliver interventions. On the design side, I work on content strategy in creator economy. On the delivery side, I work on targeting policies. 
