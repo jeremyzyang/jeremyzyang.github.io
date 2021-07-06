@@ -26,7 +26,7 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/x79yhzajvqdm01t/tiktok_tpm.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">tweet</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
-Revise and Resubmit at _Marketing Science_<br/>
+Major Revision at _Marketing Science_<br/>
 
 \- _MSI Alden G. Clayton Doctoral Dissertation Proposal Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
@@ -63,7 +63,7 @@ presentations:<br/>
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
 
-[<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://www.dropbox.com/s/8wrw9wznyfplf5p/policy_learning_lecture.mp4?dl=0">lecture</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+[<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/olf0gance8x95ag/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
 Minor Revision at _Management Science_<br/>
 
