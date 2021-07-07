@@ -4,7 +4,7 @@
 
 I will be teaching the Marketing Core in the Required Curriculum for the first year MBA at HBS.
 
-I was invited as a guest lecturer for:
+I was a guest lecturer for:
 
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
@@ -15,7 +15,7 @@ I was invited as a guest lecturer for:
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Fall 2020
 
-I enjoy teaching a diverse set of topics. I also worked as a TA for:
+I also worked as a TA at MIT for:
 
 <ins>Experimental Design and Analysis</ins> (PhD) <br/>
 [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles), Fall 2019
