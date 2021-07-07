@@ -2,7 +2,7 @@
 
 ### teaching 
 
-I will be teaching the Marketing Core in the Required Curriculum for the first year MBA at HBS.
+I am teaching the Marketing Core in the MBA Required Curriculum at HBS.
 
 I was a guest lecturer for:
 
