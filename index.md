@@ -6,7 +6,7 @@ layout: default
 
 I’m somewhat a convex combination of an economist and data scientist. The weight varies between 0 and 1 depending on the problem. 
 
-My research focuses on developing data products to optimize marketing decisions such as advertising and targeting. The algorithmic solutions we propose are typically motivated by basic microeconomic and behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). 
+My research focuses on developing data products to optimize marketing decisions such as advertising, targeting, and pricing. The algorithmic solutions we propose are typically motivated by basic microeconomic and behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). 
 
 I’m also broadly interested in the nascent creator economy.
 
