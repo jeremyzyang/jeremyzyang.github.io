@@ -4,7 +4,7 @@
 
 I'm teaching the Marketing Core in the MBA Required Curriculum at HBS.
 
-I was a guest lecturer for:
+I was a guest lecturer at MIT for:
 
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
