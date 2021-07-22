@@ -2,7 +2,7 @@
 
 ### teaching 
 
-I'm teaching the Marketing Core in the MBA required curriculum at HBS.
+I'm teaching Marketing in the MBA required curriculum at HBS.
 
 I was a guest lecturer at MIT for:
 
