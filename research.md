@@ -67,7 +67,7 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/>
 
 Minor Revision at _Management Science_<br/>
 
-\- _American Statistical Association Dissertation Proposal Award (2021/1)_<br/> 
+\- _American Statistical Association Dissertation Award (2021/1)_<br/> 
 \- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
 \- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
 
