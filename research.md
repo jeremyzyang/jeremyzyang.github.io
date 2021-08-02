@@ -94,9 +94,9 @@ Abstract: TikTok is the most popular short video platform in the world with over
 \- Quantitative Marketing and Economics, Stanford & UCLA (2020/10)<sup>**</sup><br/>
 -->
 
-<ins>**Identification and Bias-Amplification:<br/>
-Latent Space Approach to Social Contagion on Observational Networks**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+<ins>**Identification and Bias-Amplification: Latent Space Approach to Social Contagion on Observational Networks**</ins><br/> 
 Jeremy Yang <br/>
+<!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> 
 
 <ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.
 
