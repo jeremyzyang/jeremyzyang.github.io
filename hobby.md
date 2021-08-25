@@ -2,7 +2,7 @@
 
 ### personal
 
-I enjoy playing and watching tennis, basketball, soccer, and skiing (for the long New England winters). I try to play some competitive tennis in my spare time (NTRP 4.0). I'm a big fan of sports analytics and have a side project using [tennis](/assets/files/tennis_poster.pdf) data.
+I enjoy playing and watching tennis, basketball, soccer, and skiing (for the long New England winters). I'm a big fan of sports analytics and have a side project using [tennis](/assets/files/tennis_poster.pdf) data.
 
 <!--and [basketball](/assets/files/bball.md)
  I like singing too, here's an excerpt of my covering of [Trace (軌跡)](/assets/files/179LincolnSt4.m4a) and [Apocalypse (世界末日)](/assets/files/sjmr.m4a) by [Jay Chou (周杰倫)](https://en.wikipedia.org/wiki/Jay_Chou).-->
