@@ -10,7 +10,7 @@ My research focuses on developing data products to optimize marketing decisions 
 
 I’m also broadly interested in the nascent creator economy.
 
-Before joining HBS, I received my PhD from <a href="https://mitsloan.mit.edu">Sloan School of Management</a> at the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
+Before joining HBS, I received my PhD from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
 
 <!--
 The weight varies between 0 and 1 depending on the problem. 
