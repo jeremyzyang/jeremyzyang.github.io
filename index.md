@@ -6,9 +6,7 @@ layout: default
 
 I’m a convex combination of an economist and data scientist.
 
-My research focuses on developing data products to optimize marketing decisions such as advertising, targeting, and pricing. The algorithmic solutions we propose are typically motivated by some basic microeconomic or behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). 
-
-I’m also broadly interested in the nascent creator economy.
+My research focuses on developing data products to optimize marketing decisions such as advertising, targeting, and pricing. The algorithmic solutions we propose are typically motivated by some basic microeconomic or behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). I’m also broadly interested in the nascent creator economy.
 
 Before joining HBS, I received my PhD in management from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
 
