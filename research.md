@@ -28,7 +28,7 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 Major Revision at _Marketing Science_<br/>
 
-\- _JMS Annual Conference Best Paper Award (2021/11)
+\- _JMS Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Proposal Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
 
