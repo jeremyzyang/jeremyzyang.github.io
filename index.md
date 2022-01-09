@@ -4,9 +4,7 @@ layout: default
 
 [home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
 
-I’m a convex combination of an economist and data scientist.
-
-My research focuses on developing data products to optimize marketing decisions such as advertising, targeting, and pricing. The algorithmic solutions we propose are typically motivated by some basic microeconomic or behavioral principles and implemented with the state-of-the-art techniques in causal inference (both experimental and observational) and machine learning (e.g., computer vision, reinforcement learning). I’m also broadly interested in the nascent creator economy.
+I’m a convex combination of an economist and data scientist. My research focuses on developing data products to improve advertising, targeting, and pricing decisions. These algorithmic solutions are typically inspired by some basic economic or behavioral principles and implemented with techniques in machine learning and causal inference. I’m also broadly interested in the nascent creator economy and web3.
 
 Before joining Harvard Business School, I received my PhD in management from <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
 
