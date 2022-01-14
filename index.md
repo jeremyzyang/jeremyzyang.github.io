@@ -8,7 +8,7 @@ I’m a convex combination of an economist and data scientist.
 
 My research focuses on developing data products to improve advertising, targeting, and pricing decisions. These algorithmic solutions are typically inspired by some basic economic or behavioral principles and implemented with techniques in machine learning and causal inference. I’m also broadly interested in the nascent creator economy and web3.
 
-Before joining Harvard Business School, I received my PhD in management from <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
+Before joining Harvard Business School, I received my PhD in management from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
 
 <!--
 The weight varies between 0 and 1 depending on the problem. 
