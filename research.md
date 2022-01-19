@@ -49,7 +49,7 @@ seminar and conference talks:<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
 \- Rotterdam School of Management, Erasmus University (2021/3)<br/>
 \- Columbia Business School, Columbia University (2021/2)<br/>
-\- ICCIT & Rotman School of Management, University of Toronto (2021/2)<br/>
+\- ICCIT & School of Management, University of Toronto (2021/2)<br/>
 \- Darden School of Business, University of Virginia (2021/2)<br/>
 \- School of Business, University of Washington (2021/1)<br/>
 \- Cheung Kong Graduate School of Business (2021/1)<br/>
