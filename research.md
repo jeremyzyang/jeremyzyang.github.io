@@ -36,7 +36,10 @@ Major Revision at _Marketing Science_<br/>
 
 <ins>Abstract:</ins> This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
 
-presentations:<br/>
+seminar and conference talks:<br/>
+\- Core Data Science, Meta (2021/12)<br/>
+\- Bauer College of Business, University of Houston (2021/11)<br/>
+\- Marketing Science, TikTok (2021/7)<br/>
 \- Theory + Practice in Marketing, Wharton (2021/6)<br/>
 \- Marketing Science Conference, University of Rochester (2021/6)<br/>
 \- IDE Annual Conference, MIT (2021/5)<br/>
@@ -46,7 +49,7 @@ presentations:<br/>
 \- Management Workshop, Peking University (2021/3)<br/>
 \- Rotterdam School of Management, Erasmus University (2021/3)<br/>
 \- Columbia Business School, Columbia University (2021/2)<br/>
-\- ICCIT & School of Management, University of Toronto (2021/2)<br/>
+\- ICCIT & Rotman School of Management, University of Toronto (2021/2)<br/>
 \- Darden School of Business, University of Virginia (2021/2)<br/>
 \- School of Business, University of Washington (2021/1)<br/>
 \- Cheung Kong Graduate School of Business (2021/1)<br/>
@@ -74,7 +77,8 @@ Minor Revision at _Management Science_<br/>
 
 <ins>Abstract:</ins> Decision-makers often want to target interventions (e.g., marketing campaigns) so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and off-policy learning literature to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We apply our approach in large-scale proactive churn management experiments at _The Boston Globe_ by targeting optimal discounts to its digital subscribers to maximize their long-term revenue. We first show that conditions for validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We then validate this approach empirically by comparing it with a policy learned on the ground truth long-term outcomes and show that they are statistically indistinguishable. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for each new cohort of customers to account for potential non-stationarity. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to _The Boston Globe_'s current policies.
 
-presentations:<br/>
+seminar and conference talks:<br/>
+\- Core Data Science, Meta (2021/12)<br/>
 \- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
 \- American Economic Association Annual Meeting (2021/1)<br/>
 \- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
