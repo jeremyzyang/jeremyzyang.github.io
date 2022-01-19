@@ -95,32 +95,31 @@ Abstract: TikTok is the most popular short video platform in the world with over
 \- Quantitative Marketing and Economics, Stanford & UCLA (2020/10)<sup>**</sup><br/>
 -->
 
+<!--
 <ins>**Identification and Bias-Amplification: Latent Space Approach to Social Contagion on Observational Networks**</ins><br/> 
 Jeremy Yang <br/>
-<!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> 
+<!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>
 
 <ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.
 
-<ins>**Uncertainty and Information Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+<ins>**Uncertainty and Information Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/> <br/>
 T. Tony Ke, Jeremy Yang<sup>*</sup> 
 
 <ins>Abstract:</ins> We investigate how uncertainty affects information diffusion. We analyze a dataset that contains over 2400 rumors about 5 breaking news on Twitter from 2014-2015 where rumors are verified to be true or false at different time. We exploit the difference in the timing of verification to estimate the causal effect of uncertainty reduction on diffusion via difference-in-differences. We find that in some events the verification _decreases_ diffusion even for rumors that are true. This motivates a microfounded social learning model on the network that highlights the mechanism through which uncertainty shapes individual's incentive to share and thereby changing the pattern of diffusion. The model also offers a potential explanation to why rumors tend to diffuse wider and faster than verified news, even for information with similar content. 
 
 presentations:<br/>
 \- Marketing Seminar, MIT (2017/11)<br/>
-
-
-<ins>**Award No Longer Motivates Once You Are Awarded:<br/> 
-A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Fan Bi, Qiang Feng, Jeremy Yang<sup>*</sup> 
-
-<ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes, study the materials and take quizzes on a daily basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public award given out every week) and a control group, then within each treated class we randomly assign some students to actually receive the award conditional on their performance in the past week. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but did not receive the award due to randomization. They also do not exert more effort in the future than students with similar past performance in the control group. Students who did not receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no difference between public and private recognition. Taken together, our results suggest that it is the possibility of being awarded (ex ante) that increases future effort and performance, receiving the award (ex post) actually lowers future effort. In other words, symbolic awards don't have a continuing motivating effect after you are awarded.
-
-presentations:<br/>
-\- Organizational Economics Lunch, MIT (2020/10)<br/>
+-->
 
 <!--
 Abstract: We investigate how uncertainty affects information sharing behavior. Using data on the spread of scientific news regarding the discovery of Higgs boson on Twitter in July 2012 we find that: (1) the main effect of uncertainty reduction on sharing probability is positive, (2) there's positive peer effect (crowding in) in the pre announcement or rumor phase that is characterized by piecemeal release of signals that are informative but noisy (high to medium uncertainty), (3) peer effect becomes negative (crowding out) in the post-announcement phase when the discovery is officially confirmed (low uncertainty) and (4) because of the negative interaction between information uncertainty and peer effect, when the number of sharing peers exceed some threshold, individuals are more likely to share when uncertainty is higher. This result suggests that the crowding in effect in rumor phase tends to amplify diffusion while the crowding out effect after confirmation tends to suppress diffusion. This motivates a simple learning model that highlights the mechanism through which uncertainty interacts with peer effects to drive the pattern of diffusion and offers a potential explanation to why rumors tend to diffuse wider and faster than verified news, even when the content of information is holding fixed. We further corroborate the result by analyzing a broader dataset that contains over 2400 rumors about 5 breaking news on Twitter from 2014-2015.
+
+<ins>**Award No Longer Motivates Once You Are Awarded:<br/> 
+A Field Experiment in Online Learning**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/> 
+Fan Bi, Qiang Feng, Jeremy Yang<sup>*</sup> 
+<ins>Abstract:</ins> This paper studies the effect of social recognition and symbolic award on students’ effort and performance in an online English course in China. Students are randomly assigned to classes, study the materials and take quizzes on a daily basis. We conduct a two stage randomized experiment in which we first randomly assign classes to two treatment groups (pre-announced private or public award given out every week) and a control group, then within each treated class we randomly assign some students to actually receive the award conditional on their performance in the past week. We find that students who received the award exert _less_ effort in the future compared to students with similar past performance but did not receive the award due to randomization. They also do not exert more effort in the future than students with similar past performance in the control group. Students who did not receive the award due to randomization exert more effort and score higher in the future compared to students with similar past performance in the control group. There’s no difference between public and private recognition. Taken together, our results suggest that it is the possibility of being awarded (ex ante) that increases future effort and performance, receiving the award (ex post) actually lowers future effort. In other words, symbolic awards don't have a continuing motivating effect after you are awarded.
+presentations:<br/>
+\- Organizational Economics Lunch, MIT (2020/10)<br/> 
 -->
 
 #### publications:
