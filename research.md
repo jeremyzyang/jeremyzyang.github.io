@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions. I'm affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu) at MIT, [Harvard Data Science Initiative](https://datascience.harvard.edu/) and the [American Statistical Association](https://www.amstat.org/).
+My dissertation is on learning to design, deliver, and diffuse interventions. I'm affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu) at MIT, the [Data Science Initiative](https://datascience.harvard.edu/), [Institute for Quantitative Social Science](https://www.iq.harvard.edu/) at Harvard, and the [American Statistical Association](https://www.amstat.org/).
 
 <!--
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
