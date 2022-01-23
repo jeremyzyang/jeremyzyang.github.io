@@ -79,6 +79,7 @@ Minor Revision at _Management Science_<br/>
 
 seminar and conference talks:<br/>
 \- Core Data Science, Meta (2021/12)<br/>
+\- Big Data in Mobile Analytics, Temple University (2021/12)<br/>
 \- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
 \- American Economic Association Annual Meeting (2021/1)<br/>
 \- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
