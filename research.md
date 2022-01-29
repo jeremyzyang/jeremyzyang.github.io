@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My thesis is on learning to design, deliver, and diffuse interventions. 
+My dissertation is on learning to design, deliver, and diffuse interventions. 
 
 <!--
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
@@ -28,7 +28,7 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
 Major Revision at _Marketing Science_<br/>
 
-\- _JMS Annual Conference Best Paper Award (2021/11)_<br/>
+\- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Proposal Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
 
