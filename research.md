@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions. 
+My dissertation is on learning to design (what treatment features make it effective), deliver (who should be targeted with what), and diffuse (how to amplify social influence) interventions. 
 
 <!--
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
