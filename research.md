@@ -8,6 +8,9 @@ layout: default
 
 My dissertation is on learning to design (what treatment features make it effective), deliver (who should be targeted with what), and diffuse (how to amplify social contagtion) interventions. 
 
+I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration of influence among creators, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and alternative monetization schemes, and 5) platforms' competition for users, creators, and brands.
+
+
 <!--
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
 #### general interests:
