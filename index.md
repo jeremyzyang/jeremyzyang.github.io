@@ -8,9 +8,11 @@ I’m a convex combination of an economist and data scientist.
 
 I develop data products to improve advertising, targeting, and pricing decisions. These algorithms are typically guided by basic economic or behavioral principles and implemented with techniques in machine learning and causal inference. I’m also broadly interested in the creator economy and web3.
 
-I received my PhD in management from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. I'm also affiliated with the MIT [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), the Harvard [Data Science Initiative](https://datascience.harvard.edu/), [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), and the [American Statistical Association](https://www.amstat.org/).
+I received my PhD in management from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. I'm also affiliated with the MIT [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), the Harvard [Data Science Initiative](https://datascience.harvard.edu/), and the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/).
 
 <!--
+and the [American Statistical Association](https://www.amstat.org/).
+[Behavioral Research Lab](https://brl.mit.edu),
 Before joining Harvard Business School, 
 The weight varies between 0 and 1 depending on the problem. 
 I was fortunate to be supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles). 
