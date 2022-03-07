@@ -8,7 +8,7 @@ layout: default
 
 My dissertation is on learning to design (what treatment features make it effective), deliver (who should be targeted with what), and diffuse (how to amplify social contagtion) interventions. 
 
-I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration of influence among creators, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and alternative monetization schemes, and 5) platforms' competition for users, creators, and brands.
+I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration and mobility of influence among creators across platforms, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and monetization schemes in web2 and web3, and 5) platforms' competition for users, creators, and brands.
 
 
 <!--
