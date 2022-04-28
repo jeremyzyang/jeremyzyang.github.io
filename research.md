@@ -75,6 +75,7 @@ Major Revision at _Marketing Science_<br/>
 seminar and conference talks:<br/>
 
 \- QME Rossi Seminar, Northwestern University (2022/5)<br/>
+\- CMO Summit, MIT (2022/4)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
 \- Bauer College of Business, University of Houston (2021/11)<br/>
 \- Marketing Science, TikTok (2021/7)<br/>
