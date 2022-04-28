@@ -38,11 +38,11 @@ Accepted at _Management Science_<br/>
 
 seminar and conference talks:<br/>
 \- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
-\- Management, Analytics, and Data Conference (2022/5)<br/>
-\- Research Camp, Harvard Business School (2022/5)<br/>
-\- Theory + Practice in Marketing, Emory University (2022/5)<br/>
+\- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
+\- Research Camp, HBS (2022/5)<br/>
+\- Theory + Practice in Marketing, Emory (2022/5)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
-\- Big Data in Mobile Analytics, Temple University (2021/12)<br/>
+\- Big Data in Mobile Analytics, Temple (2021/12)<br/>
 \- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
 \- American Economic Association Annual Meeting (2021/1)<br/>
 \- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
@@ -53,9 +53,9 @@ seminar and conference talks:<br/>
 \- IDE Annual Conference, MIT (2020/5)<br/>
 \- Marketing Seminar, MIT (2020/5)<br/>
 \- NeurIPS CausalML Workshop (2019/12)<br/>
-\- HBS Digital Doctoral Workshop, Harvard University (2019/12)<br/>
+\- HBS Digital Doctoral Workshop, Harvard (2019/12)<br/>
 \- Conference on Digital Experimentation, MIT (2019/11)<br/>
-\- Advances on Field Experiments, University of Chicago (2019/7)<br/>
+\- Advances on Field Experiments, Chicago (2019/7)<br/>
 
 <ins>**First Law of Motion: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
@@ -74,34 +74,34 @@ Major Revision at _Marketing Science_<br/>
 <ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
 
 seminar and conference talks:<br/>
-\- QME Rossi Seminar, Northwestern University (2022/5)<br/>
+\- QME Rossi Seminar, Northwestern (2022/5)<br/>
 \- CMO Summit, MIT (2022/4)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
-\- Bauer College of Business, University of Houston (2021/11)<br/>
+\- Bauer College of Business, Houston (2021/11)<br/>
 \- Marketing Science, TikTok (2021/7)<br/>
 \- Theory + Practice in Marketing, Wharton (2021/6)<br/>
-\- Marketing Science Conference, University of Rochester (2021/6)<br/>
+\- Marketing Science Conference, Rochester (2021/6)<br/>
 \- IDE Annual Conference, MIT (2021/5)<br/>
 \- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
 \- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
 \- Paris Conference on Digital Economics Workshop (2021/4)<br/>
-\- Management Workshop, Peking University (2021/3)<br/>
-\- Rotterdam School of Management, Erasmus University (2021/3)<br/>
-\- Columbia Business School, Columbia University (2021/2)<br/>
-\- ICCIT & School of Management, University of Toronto (2021/2)<br/>
-\- Darden School of Business, University of Virginia (2021/2)<br/>
-\- School of Business, University of Washington (2021/1)<br/>
+\- National School of Development, PKU (2021/3)<br/>
+\- Rotterdam School of Management, Erasmus (2021/3)<br/>
+\- Columbia Business School, Columbia (2021/2)<br/>
+\- ICCIT & School of Management, Toronto (2021/2)<br/>
+\- Darden School of Business, Virginia (2021/2)<br/>
+\- School of Business, Washington (2021/1)<br/>
 \- Cheung Kong Graduate School of Business (2021/1)<br/>
-\- Harvard Business School, Harvard University (2021/1)<br/>
+\- Harvard Business School, Harvard (2021/1)<br/>
 \- HEC Paris & Hi! Paris Center on AI and Data Analytics (2021/1)<br/>
-\- Krannert School of Management, Purdue University (2021/1)<br/>
+\- Krannert School of Management, Purdue (2021/1)<br/>
 \- College of Business, City University of Hong Kong (2021/1)<br/>
-\- Big Data in Mobile Analytics, Temple University (2020/12)<br/>
-\- Conference on AI/ML, NYU, CMU & Temple University (2020/12)<br/>
-\- HKU Business School, University of Hong Kong (2020/11)<br/>
+\- Big Data in Mobile Analytics, Temple (2020/12)<br/>
+\- Conference on AI/ML, NYU, CMU & Temple (2020/12)<br/>
+\- HKU Business School, HKU (2020/11)<br/>
 \- Conference on Digital Experimentation, MIT (2020/11)<br/>
 \- Marketing Seminar, MIT (2020/11)<br/>
-\- HBS Digital Doctoral Workshop, Harvard University (2020/11)<br/>
+\- HBS Digital Doctoral Workshop, Harvard (2020/11)<br/>
 
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
