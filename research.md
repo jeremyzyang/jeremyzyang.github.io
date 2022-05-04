@@ -39,7 +39,7 @@ Accepted at _Management Science_<br/>
 seminar and conference talks:<br/>
 \- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
 \- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
-\- Research Camp, Harvard (2022/5)<br/>
+\- Marketing Research Camp, Harvard (2022/5)<br/>
 \- Theory + Practice in Marketing, Emory (2022/5)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
 \- Big Data in Mobile Analytics, Temple (2021/12)<br/>
