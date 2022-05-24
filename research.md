@@ -6,9 +6,9 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design (what treatment features make it effective), deliver (who should be targeted with what), and diffuse (how to amplify social contagtion) interventions. 
+My dissertation is on learning to design, deliver, and diffuse interventions. I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to engineer social contagion (diffuse).
 
-I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration and mobility of influence among creators across platforms, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and monetization schemes in web2/3, and 5) platforms' competition for users, creators, and brands.
+I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration and mobility of influence among creators across platforms, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and monetization schemes in web2 and 3, and 5) platforms' competition for users, creators, and brands.
 
 
 <!--
@@ -38,6 +38,7 @@ Accepted at _Management Science_<br/>
 
 seminar and conference talks:<br/>
 \- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
+\- Marketplace Innovations Workshop (2022/5)<br/>
 \- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
 \- Marketing Research Camp, Harvard (2022/5)<br/>
 \- Theory + Practice in Marketing, Emory (2022/5)<br/>
@@ -75,6 +76,7 @@ Major Revision at _Marketing Science_<br/>
 
 seminar and conference talks:<br/>
 \- QME Rossi Seminar, Northwestern (2022/5)<br/>
+\- Marketing Research Camp, Harvard (2022/5)<br/>
 \- CMO Summit, MIT (2022/4)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
 \- Bauer College of Business, Houston (2021/11)<br/>
