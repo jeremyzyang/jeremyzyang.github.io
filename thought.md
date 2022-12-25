@@ -2,17 +2,17 @@
 
 ### thoughts
 
-<ins>On knowing and doing</ins>
-
-As kids we tend to do a bunch of random and stupid stuff just to try things out, just like when we are running a randomized experiment where doing precedes and causes learning. But as we grow we tend to have a strong prior on many things so the value of experimentation decreases, we do what we think is the best, where knowing precedes doing. I really like what [Celeste Kidd](https://www.kiddlab.com/) said in her NeurIPS 2019 talk on ["how to know"](https://www.youtube.com/watch?v=bvebjL48f-w): "It is what you think you know that determines your curiosity, not what you actually don't know, if you think you know the answer, you are not curious to check it so you don't, and you get stuck with the wrong answer. People don't have a good model of their own uncertainty." Hope we stay ignorant and curious.
-
 <ins>On the science and engineering approach to managerial research</ins>
 
-I subscribe to both the science and engineering view to managerial research. The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs by discovering and explaining interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a novel way. I find both type of work enjoyable and valuable.
+I subscribe to both the science and engineering view to managerial research. The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs by discovering and explaining interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a better way. I find both type of work enjoyable and valuable.
+
+<ins>On knowing and doing</ins>
+
+As kids we tend to do many random and stupid stuff just to try things out. It is like when we are running a randomized experiment, where doing precedes and causes learning. But as we grow we tend to have a strong prior on many things so the value of experimentation decreases, we do what we think is the best, where knowing precedes doing. I really like what [Celeste Kidd](https://www.kiddlab.com/) said in her NeurIPS 2019 talk on ["How to Know"](https://www.youtube.com/watch?v=bvebjL48f-w): "It is what you think you know that determines your curiosity, not what you actually don't know, if you think you know the answer, you are not curious to check it so you don't, and you get stuck with the wrong answer. People don't have a good model of their own uncertainty." Hope we are more aware of our ignorance and stay curious.
 
 <ins>On chasing the noise</ins>
 
-Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we think, a priori, would explain them. Let's go chase the noise.
+Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we think, a priori, would explain them.
 
 [home](./)
 
