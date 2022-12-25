@@ -4,7 +4,7 @@
 
 <ins>On the science and engineering approach to managerial research</ins>
 
-I subscribe to both the science and engineering view to managerial research. The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs by discovering and explaining interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a better way. I find both type of work enjoyable and valuable.
+The science view studies “what is” and the “why” questions where we want to make conceptual breakthroughs by discovering and explaining interesting phenomena. The engineering view studies “what works” and the “how” questions where we want to solve important practical problems in a better way. I find both valuable for managerial research and enjoyable in different ways.
 
 <ins>On knowing and doing</ins>
 
