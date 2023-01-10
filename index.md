@@ -8,7 +8,7 @@ I’m a convex combination of an economist and data scientist.
 
 I develop data products for advertising, targeting, and pricing decisions in my research. These algorithms are typically guided by basic economic or behavioral principles and implemented with techniques in machine learning and causal inference. I’m also broadly interested in the creator economy and web3.
 
-I received my PhD in management from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. I'm also affiliated with the Harvard [Digital, Data, and Design (D^3) Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), and the MIT [Initiative on the Digital Economy](http://ide.mit.edu). Here is a [Linktree](https://linktr.ee/jeremyzyang) for my contact.
+I received my PhD in management science from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. I'm also affiliated with the Harvard [Digital, Data, and Design (D^3) Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), and the MIT [Initiative on the Digital Economy](http://ide.mit.edu). Here is a [Linktree](https://linktr.ee/jeremyzyang) for my contact.
 
 <!--
 and the [American Statistical Association](https://www.amstat.org/).
