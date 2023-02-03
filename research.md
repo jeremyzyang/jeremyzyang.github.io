@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration and mobility of influence, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creator monetization schemes in web2 and 3, and 5) platforms' competition for users, creators, and brands.
+My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). My recent work focuses on understanding and solving important problems in the creator economy. My projects are organized around the 5Cs: creator, content, community, commerce, and crypto. On creator, I study the concentration and mobility of influence from an inequality perspective. On content, I study what creative elements drive performance. On community, I study how creators build and engage a community. On commerce, I study creator monetization through advertising and merchandising. On cryto, I study how creators leverage web3 methods such as NFT and DAO.
 
 
 <!--
