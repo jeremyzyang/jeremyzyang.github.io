@@ -6,7 +6,7 @@ layout: default
 
 ### research 
 
-My recent work focuses on understanding and solving important problems in the creator economy. My projects are organized around the 5Cs: creator, content, community, commerce, and crypto. On creator, I study the concentration and mobility of influence from an inequality perspective. On content, I study what creative elements drive performance. On community, I study how creators build and engage a community. On commerce, I study creator monetization through advertising and merchandising. On cryto, I study how creators leverage web3 methods such as NFT and DAO.
+My recent work focuses on understanding and solving important problems in the creator economy. My projects are organized around the 5Cs: creator, content, community, commerce, and crypto. On creator, I study the concentration and mobility of influence from an inequality perspective. On content, I study what creative elements drive performance. On community, I study how creators build and engage a community. On commerce, I study creator monetization. On cryto, I study how creators leverage web3 methods such as NFT and DAO.
 
 <!--
 My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
