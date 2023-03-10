@@ -59,7 +59,7 @@ seminar and conference talks:<br/>
 \- Conference on Digital Experimentation, MIT (2019/11)<br/>
 \- Advances on Field Experiments, Chicago (2019/7)<br/>
 
-<ins>**First Law of Motion: <br/>
+<ins>**Engagement that Sells: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
