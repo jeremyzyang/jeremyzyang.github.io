@@ -23,42 +23,6 @@ I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloa
 
 #### working papers:
 
-<ins>**Targeting for Long-Term Outcomes**</ins><br/> 
-Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
-
-[<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
-
-Forthcoming at _Management Science_<br/>
-
-\- _American Statistical Association Dissertation Award (2021/1)_<br/> 
-\- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
-\- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
-
-<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
-
-seminar and conference talks:<br/>
-\- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
-\- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
-\- Marketplace Innovations Workshop (2022/5)<br/>
-\- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
-\- Marketing Research Camp, Harvard (2022/5)<br/>
-\- Theory + Practice in Marketing, Emory (2022/5)<br/>
-\- Core Data Science, Meta (2021/12)<br/>
-\- Big Data in Mobile Analytics, Temple (2021/12)<br/>
-\- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
-\- American Economic Association Annual Meeting (2021/1)<br/>
-\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
-\- Workshop on Information Systems and Economics (2020/12)<br/>
-\- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
-\- INFORMS Annual Meeting (2020/11)<br/>
-\- Conference on Computational Social Science, MIT (2020/7)<br/>
-\- IDE Annual Conference, MIT (2020/5)<br/>
-\- Marketing Seminar, MIT (2020/5)<br/>
-\- NeurIPS CausalML Workshop (2019/12)<br/>
-\- HBS Digital Doctoral Workshop, Harvard (2019/12)<br/>
-\- Conference on Digital Experimentation, MIT (2019/11)<br/>
-\- Advances on Field Experiments, Chicago (2019/7)<br/>
-
 <ins>**Engagement that Sells: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
@@ -77,6 +41,9 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 video-level engagement data. Pe-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and evaluate the algorithm with influencer video ads on TikTok, a leading short-form video platform. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos with higher pe-scores indeed lift more sales. This effect is robust and more pronounced among impulsive, hedonic, or inexpensive products. We discuss how various stakeholders in influencer advertising can use pe-score in a scalable way to develop content, align incentives, and improve efficiency.
 
 seminar and conference talks:<br/>
+\- Management, Analytics, and Data Conference, Columbia/Wharton (2023/5)<br/>
+\- Junior Facutly Development Forum, WUSTL (2023/5)<br/>
+\- Wharton School of Business, Penn (2023/2)<br/>
 \- China India Insights Conference, USC (2022/10)<br/>
 \- QME Rossi Seminar, Northwestern (2022/5)<br/>
 \- Data Science in a Digital World Conference, Harvard (2022/5)<br/>
@@ -143,6 +110,41 @@ presentations:<br/>
 -->
 
 #### publications:
+<ins>**Targeting for Long-Term Outcomes**</ins><br/> 
+Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
+
+[<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+
+Forthcoming at _Management Science_<br/>
+
+\- _American Statistical Association Dissertation Award (2021/1)_<br/> 
+\- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
+\- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
+
+<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
+
+seminar and conference talks:<br/>
+\- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
+\- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
+\- Marketplace Innovations Workshop (2022/5)<br/>
+\- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
+\- Marketing Research Camp, Harvard (2022/5)<br/>
+\- Theory + Practice in Marketing, Emory (2022/5)<br/>
+\- Core Data Science, Meta (2021/12)<br/>
+\- Big Data in Mobile Analytics, Temple (2021/12)<br/>
+\- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
+\- American Economic Association Annual Meeting (2021/1)<br/>
+\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
+\- Workshop on Information Systems and Economics (2020/12)<br/>
+\- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
+\- INFORMS Annual Meeting (2020/11)<br/>
+\- Conference on Computational Social Science, MIT (2020/7)<br/>
+\- IDE Annual Conference, MIT (2020/5)<br/>
+\- Marketing Seminar, MIT (2020/5)<br/>
+\- NeurIPS CausalML Workshop (2019/12)<br/>
+\- HBS Digital Doctoral Workshop, Harvard (2019/12)<br/>
+\- Conference on Digital Experimentation, MIT (2019/11)<br/>
+\- Advances on Field Experiments, Chicago (2019/7)<br/>
 
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
