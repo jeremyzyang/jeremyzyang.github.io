@@ -41,7 +41,7 @@ Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 video-level engagement data. Pe-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and evaluate the algorithm with influencer video ads on TikTok, a leading short-form video platform. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos with higher pe-scores indeed lift more sales. This effect is robust and more pronounced among impulsive, hedonic, or inexpensive products. We discuss how various stakeholders in influencer advertising can use pe-score in a scalable way to develop content, align incentives, and improve efficiency.
 
 seminar and conference talks:<br/>
-\- Management, Analytics, and Data Conference, Columbia/Wharton (2023/5)<br/>
+\- Management, Analytics, and Data, Columbia/Wharton (2023/5)<br/>
 \- Junior Facutly Development Forum, WUSTL (2023/5)<br/>
 \- Wharton School of Business, Penn (2023/2)<br/>
 \- China India Insights Conference, USC (2022/10)<br/>
