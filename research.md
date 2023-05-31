@@ -127,7 +127,7 @@ seminar and conference talks:<br/>
 \- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
 \- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
 \- Marketplace Innovations Workshop (2022/5)<br/>
-\- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
+\- Management, Analytics, and Data, Columbia/Wharton (2022/5)<br/>
 \- Marketing Research Camp, Harvard (2022/5)<br/>
 \- Theory + Practice in Marketing, Emory (2022/5)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
