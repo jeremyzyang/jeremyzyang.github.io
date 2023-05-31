@@ -42,7 +42,7 @@ video-level engagement data. Pe-score is computed as the pixel-level, engagement
 
 seminar and conference talks:<br/>
 \- Management, Analytics, and Data, Columbia/Wharton (2023/5)<br/>
-\- Junior Facutly Development Forum, WUSTL (2023/5)<br/>
+\- Junior Faculty Development Forum, WUSTL (2023/5)<br/>
 \- Wharton School of Business, Penn (2023/2)<br/>
 \- China India Insights Conference, USC (2022/10)<br/>
 \- QME Rossi Seminar, Northwestern (2022/5)<br/>
