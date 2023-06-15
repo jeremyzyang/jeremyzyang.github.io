@@ -9,7 +9,7 @@ I was a guest lecturer for:
 <ins>Maker Space</ins> (MIT, PhD) <br/>
 [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Spring 2023
 
-<ins>Marketing Analytics</ins> (Boston University, Master of Business Analytics)
+<ins>Marketing Analytics</ins> (Boston University, Master of Business Analytics) <br/>
 [Tesary Lin](https://tesarylin.github.io/index.html), Spring 2022
 
 <ins>Marketing Innovation</ins> (MIT, MBA) <br/>
