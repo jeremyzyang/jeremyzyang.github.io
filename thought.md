@@ -14,6 +14,10 @@ As kids we tend to do many random and stupid stuff just to try things out. It is
 
 Noise is the signal that we don't yet understand. Outcome variables with big variance usually have interesting stories behind them, especially the ones that remain highly variable after controlling for what we think, a priori, would explain them.
 
+<ins>Would you rather</ins>
+
+Would you rather lose a loved one, or never had one? Would you rather have a loved one's mind in another body, or a loved one's body with another mind? — Thoughts after watching Black Mirror: Beyond the Sea
+
 [home](./)
 
 <!-- <ins>On the "science" and "engineering" type of research in business schools</ins>
