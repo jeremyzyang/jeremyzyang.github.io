@@ -40,43 +40,6 @@ Under 3rd Round Review at _Marketing Science_<br/>
 <ins>Abstract:</ins> Many ads are engaging yet ineffective. This problem is exacerbated in influencer advertising when the incentives of influencers and advertisers are not perfectly aligned. This paper develops an algorithm to predict the effect of influencer video advertising on product sales. We propose the concept of product engagement score, or pe-score, to capture how engaging the product is as presented in an influencer video ad. We locate product placement with an object detection algorithm, and estimate pixel-level engagement as a saliency map by training a deep 3D convolutional neural network on
 video-level engagement data. Pe-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and evaluate the algorithm with influencer video ads on TikTok, a leading short-form video platform. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos with higher pe-scores indeed lift more sales. This effect is robust and more pronounced among impulsive, hedonic, or inexpensive products. We discuss how various stakeholders in influencer advertising can use pe-score in a scalable way to develop content, align incentives, and improve efficiency.
 
-seminar and conference talks:<br/>
-\- Management, Analytics, and Data, Columbia/Wharton (2023/5)<br/>
-\- Faculty Research Symposium, Harvard (2023/5)<br/>
-\- Junior Faculty Development Forum, WUSTL (2023/5)<br/>
-\- Wharton School of Business, Penn (2023/2)<br/>
-\- China India Insights Conference, USC (2022/10)<br/>
-\- QME Rossi Seminar, Northwestern (2022/5)<br/>
-\- Data Science in a Digital World Conference, Harvard (2022/5)<br/>
-\- CMO Summit, MIT (2022/4)<br/>
-\- Core Data Science, Meta (2021/12)<br/>
-\- Bauer College of Business, Houston (2021/11)<br/>
-\- ISPOC Seminar (2021/8)<br/>
-\- Marketing Science, TikTok (2021/7)<br/>
-\- Theory + Practice in Marketing, Wharton (2021/6)<br/>
-\- Marketing Science Conference, Rochester (2021/6)<br/>
-\- IDE Annual Conference, MIT (2021/5)<br/>
-\- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
-\- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
-\- Paris Conference on Digital Economics Workshop (2021/4)<br/>
-\- National School of Development, PKU (2021/3)<br/>
-\- Rotterdam School of Management, Erasmus (2021/3)<br/>
-\- Columbia Business School, Columbia (2021/2)<br/>
-\- ICCIT & School of Management, Toronto (2021/2)<br/>
-\- Darden School of Business, Virginia (2021/2)<br/>
-\- School of Business, Washington (2021/1)<br/>
-\- Cheung Kong Graduate School of Business (2021/1)<br/>
-\- Harvard Business School, Harvard (2021/1)<br/>
-\- HEC Paris & Hi! Paris Center on AI and Data Analytics (2021/1)<br/>
-\- Krannert School of Management, Purdue (2021/1)<br/>
-\- College of Business, City University of Hong Kong (2021/1)<br/>
-\- Big Data in Mobile Analytics, Temple (2020/12)<br/>
-\- Conference on AI/ML, NYU, CMU & Temple (2020/12)<br/>
-\- HKU Business School, HKU (2020/11)<br/>
-\- Conference on Digital Experimentation, MIT (2020/11)<br/>
-\- Marketing Seminar, MIT (2020/11)<br/>
-\- HBS Digital Doctoral Workshop, Harvard (2020/11)<br/>
-
 <!--
 Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
 \- ISMS Marketing Science Conference, University of Roma Tre (2019/6)<sup>**</sup><br/>
@@ -123,29 +86,6 @@ _Management Science (2023)_<br/>
 \- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
 
 <ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
-
-seminar and conference talks:<br/>
-\- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
-\- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
-\- Marketplace Innovations Workshop (2022/5)<br/>
-\- Management, Analytics, and Data, Columbia/Wharton (2022/5)<br/>
-\- Marketing Research Camp, Harvard (2022/5)<br/>
-\- Theory + Practice in Marketing, Emory (2022/5)<br/>
-\- Core Data Science, Meta (2021/12)<br/>
-\- Big Data in Mobile Analytics, Temple (2021/12)<br/>
-\- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
-\- American Economic Association Annual Meeting (2021/1)<br/>
-\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
-\- Workshop on Information Systems and Economics (2020/12)<br/>
-\- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
-\- INFORMS Annual Meeting (2020/11)<br/>
-\- Conference on Computational Social Science, MIT (2020/7)<br/>
-\- IDE Annual Conference, MIT (2020/5)<br/>
-\- Marketing Seminar, MIT (2020/5)<br/>
-\- NeurIPS CausalML Workshop (2019/12)<br/>
-\- HBS Digital Doctoral Workshop, Harvard (2019/12)<br/>
-\- Conference on Digital Experimentation, MIT (2019/11)<br/>
-\- Advances on Field Experiments, Chicago (2019/7)<br/>
 
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
