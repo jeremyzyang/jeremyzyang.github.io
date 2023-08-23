@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). <br/>
+[thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
 
 I’m a convex combination of an economist and data scientist. 
 
