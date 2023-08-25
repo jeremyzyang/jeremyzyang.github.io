@@ -5,9 +5,9 @@
 
 #### seminars:
 
-\- University of Connecticut (2024/4)<br/>
-\- University of Michigan (2024/4)<br/>
-\- The Chinese University of Hong Kong (2024/2)<br/>
+\- School of Business, UConn (2024/4)<br/>
+\- Ross School of Business, Michigan (2024/4)<br/>
+\- Schoo of Management and Economics, CUHK, Shenzhen (2024/2)<br/>
 \- Faculty Research Symposium, Harvard (2023/5)<br/>
 \- D^3 Research Day, Harvard (2023/5)<br/>
 \- Wharton School of Business, Penn (2023/2)<br/>
