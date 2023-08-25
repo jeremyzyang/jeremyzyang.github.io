@@ -5,40 +5,41 @@
 
 #### seminars:
 
-\- School of Business, UConn (2024/4)<br/>
-\- Ross School of Business, Michigan (2024/4)<br/>
-\- Schoo of Management and Economics, CUHK, Shenzhen (2024/2)<br/>
+\- University of Connecticut (2024/4)<br/>
+\- University of Michigan (2024/4)<br/>
+\- The Chinese University of Hong Kong, Shenzhen (2024/2)<br/>
 \- Faculty Research Symposium, Harvard (2023/5)<br/>
 \- D^3 Research Day, Harvard (2023/5)<br/>
-\- Wharton School of Business, Penn (2023/2)<br/>
+\- University of Pennsylvania (2023/2)<br/>
 \- QME Rossi Seminar, Northwestern (2022/5)<br/>
 \- Marketing Research Camp, Harvard (2022/5)<br/>
 \- Core Data Science, Meta (2021/12)<br/>
 \- AIBA Workshop, Temple (2021/12)<br/>
-\- Bauer College of Business, Houston (2021/11)<br/>
+\- University of Houston (2021/11)<br/>
 \- ISPOC Seminar (2021/8)<br/>
 \- Marketing Science, TikTok (2021/7)<br/>
 \- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
-\- National School of Development, PKU (2021/3)<br/>
-\- Rotterdam School of Management, Erasmus (2021/3)<br/>
-\- Columbia Business School, Columbia (2021/2)<br/>
-\- ICCIT & School of Management, Toronto (2021/2)<br/>
-\- Darden School of Business, Virginia (2021/2)<br/>
-\- School of Business, Washington (2021/1)<br/>
+\- Peking University (2021/3)<br/>
+\- Erasmus University (2021/3)<br/>
+\- Columbia University (2021/2)<br/>
+\- University of Toronto (2021/2)<br/>
+\- University of Virginia (2021/2)<br/>
+\- University of Washington (2021/1)<br/>
 \- Cheung Kong Graduate School of Business (2021/1)<br/>
-\- Harvard Business School, Harvard (2021/1)<br/>
+\- Harvard University (2021/1)<br/>
 \- HEC Paris & Hi! Paris Center on AI and Data Analytics (2021/1)<br/>
-\- Krannert School of Management, Purdue (2021/1)<br/>
-\- College of Business, City University of Hong Kong (2021/1)<br/>
-\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
-\- HKU Business School, HKU (2020/11)<br/>
-\- Marketing Seminar, MIT (2020/11)<br/>
-\- Marketing Seminar, MIT (2020/5)<br/>
+\- Purdue University (2021/1)<br/>
+\- City University of Hong Kong (2021/1)<br/>
+\- Hebrew University of Jerusalem (2020/12)<br/>
+\- The University of Hong Kong (2020/11)<br/>
+\- Massachusetts Institute of Technology (2020/11)<br/>
+\- Massachusetts Institute of Technology (2020/5)<br/>
 
 #### conferences:
 
 \- Marketing Dynamics Conference, Northeastern (2023/9)<br/>
 \- Advances on Field Experiment, Chicago (2023/9)<br/>
+\- The Choice Symposium, INSEAD (2023/8)<br/>
 \- Management, Analytics, and Data, Columbia/Wharton (2023/5)<br/>
 \- Junior Faculty Development Forum, WUSTL (2023/5)<br/>
 \- China India Insights Conference, USC (2022/10)<br/>
