@@ -6,6 +6,7 @@
 I'm teaching Marketing in the MBA required curriculum at HBS.
 
 I was a guest lecturer for:
+
 <ins>Future of Commerce & Leadership Program <br/>
 Troy Beeler and Dan O’Connor, Summer 2023
 
