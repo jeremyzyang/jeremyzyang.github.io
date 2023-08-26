@@ -8,7 +8,7 @@ I'm teaching Marketing in the MBA required curriculum at HBS.
 I was a guest lecturer for:
 
 <ins>Future of Commerce & Leadership Program</ins> <br/>
-Troy Beeler and Dan O’Connor, Summer 2023
+[Troy Beeler](https://www.linkedin.com/in/troy-beeler-3rd) and [Dan O’Connor](https://www.advancedleadership.harvard.edu/2017-fellows-and-partners/daniel-oconnor), Summer 2023
 
 <ins>Maker Space</ins> (PhD) <br/>
 [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), Spring 2023
