@@ -7,7 +7,7 @@ I'm teaching Marketing in the MBA required curriculum at HBS.
 
 I was a guest lecturer for:
 
-<ins>Analytics Lab</ins> (Master of Business Analytics), BU <br/>
+<ins>Marketing Analytics</ins> (Master of Business Analytics), BU <br/>
 [Zhengrong Gu](https://www.bu.edu/questrom/profile/zhengrong-gu/), Fall 2023
 
 <ins>Future of Commerce & Leadership Program</ins>, Harvard <br/>
