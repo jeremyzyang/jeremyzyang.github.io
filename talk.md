@@ -39,7 +39,7 @@
 \- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
 \- The University of Hong Kong (2020/11)<br/>
 \- Massachusetts Institute of Technology (2020/11)<br/>
-\- Organizational Economics Lunch, MIT (2020/10)
+\- Organizational Economics Lunch, MIT (2020/10)<br/>
 \- Massachusetts Institute of Technology (2020/5)<br/>
 \- Massachusetts Institute of Technology (2017/11)<br/>
 
