@@ -9,7 +9,7 @@
 \- University of Connecticut (2024/4)<br/>
 \- University of Michigan (2024/4)<br/>
 \- The Chinese University of Hong Kong, Shenzhen (2024/2)<br/>
-\- Ben-Gurion University of the Negev (2023/12)<br/>
+\- Ben-Gurion University of the Negev (2023/12 - canceled)<br/>
 \- The Choice Symposium, INSEAD (2023/8)<br/>
 \- Faculty Research Symposium, Harvard (2023/5)<br/>
 \- D^3 Research Day, Harvard (2023/5)<br/>
