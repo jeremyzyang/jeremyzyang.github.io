@@ -22,9 +22,22 @@ Natural Language Processing, Causal Inference
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles). Yes, pun intended. Outside of MIT, I'm working with . I'm also affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
 -->
 
-<!--
 #### working papers:
--->
+<ins>**Engagement that Sells: <br/>
+Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">tweet</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
+
+Under 3rd round review at _Marketing Science_<br/>
+
+\- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
+\- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
+\- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
+
+<!-- \- _Job Market Paper_<br/> -->
+
+<ins>Abstract:</ins> Many ads are engaging, but what makes them engaging may have little to do with the product. This problem can be particularly relevant to influencer advertising if influencers are motivated to promote themselves, not just the product. We develop an algorithm to measure the degree of effective engagement associated with the product and use it to predict the sales lift of influencer video advertising. We propose the concept of product engagement score, or PE-score, to capture how engaging the product itself is as presented in a video. We estimate pixel-level engagement as a saliency map by training a deep three-dimensional convolutional neural network on video-level engagement data and locate pixel-level product placement with an object detection algorithm. The PE-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and validate the algorithm with influencer video ads on TikTok and product sales data on Taobao. We leverage variation in video posting time to identify video-specific sales lift and show that the PE-score significantly and robustly predicts sales lift. We explore drivers of engagement and discuss how various stakeholders in influencer advertising can use the PE-score in a scalable way to manage content, align incentives, and improve efficiency.
 
 
 <!--
@@ -61,22 +74,6 @@ presentations:<br/>
 -->
 
 #### publications:
-<ins>**Engagement that Sells: <br/>
-Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
-
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">tweet</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
-
-_Marketing Science (Forthcoming)_<br/>
-
-\- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
-\- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
-\- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
-
-<!-- \- _Job Market Paper_<br/> -->
-
-<ins>Abstract:</ins> Many ads are engaging, but what makes them engaging may have little to do with the product. This problem can be particularly relevant to influencer advertising if influencers are motivated to promote themselves, not just the product. We develop an algorithm to measure the degree of effective engagement associated with the product and use it to predict the sales lift of influencer video advertising. We propose the concept of product engagement score, or PE-score, to capture how engaging the product itself is as presented in a video. We estimate pixel-level engagement as a saliency map by training a deep three-dimensional convolutional neural network on video-level engagement data and locate pixel-level product placement with an object detection algorithm. The PE-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and validate the algorithm with influencer video ads on TikTok and product sales data on Taobao. We leverage variation in video posting time to identify video-specific sales lift and show that the PE-score significantly and robustly predicts sales lift. We explore drivers of engagement and discuss how various stakeholders in influencer advertising can use the PE-score in a scalable way to manage content, align incentives, and improve efficiency.
-
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
 
