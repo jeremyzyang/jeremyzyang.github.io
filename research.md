@@ -64,7 +64,7 @@ presentations:<br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
 
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">tweet</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
 _Marketing Science (Forthcoming)_<br/>
 
@@ -79,7 +79,7 @@ _Marketing Science (Forthcoming)_<br/>
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
 
-[<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+[<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
 _Management Science (2023)_<br/>
 
