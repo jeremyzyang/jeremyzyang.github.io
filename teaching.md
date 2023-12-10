@@ -48,7 +48,7 @@ I also worked as a TA for:
 <ins>Macroeconomic Policy</ins> (MBA), MIT <br/>
 [Roberto Rigobon](https://mitsloan.mit.edu/faculty/directory/roberto-rigobon), Summer 2018
 
-<ins>Managing Technological Innovation and Entrepreneurship</ins> (MBA), MIT <br/>
+<ins>Technological Innovation and Entrepreneurship</ins> (MBA), MIT <br/>
 [Catherine Tucker](https://mitsloan.mit.edu/faculty/directory/catherine-tucker) and [Pierre Azoulay](https://mitsloan.mit.edu/faculty/directory/pierre-azoulay), Summer 2018
 
 <ins>Digital Marketing</ins> (MBA), MIT <br/>
