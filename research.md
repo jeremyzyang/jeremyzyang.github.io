@@ -79,7 +79,7 @@ _Marketing Science (Forthcoming)_<br/>
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
 
-[<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+[<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
 _Management Science (2023)_<br/>
 
@@ -93,7 +93,7 @@ _Management Science (2023)_<br/>
 to COVID-19**</ins> <br/>
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 
-_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://ide.mit.edu/wp-content/uploads/2020/05/Interdependence_COVID_522.pdf">paper</a>]<br/>
+_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://ide.mit.edu/wp-content/uploads/2020/05/Interdependence_COVID_522.pdf">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
 
 <ins>Abstract:</ins> Social distancing is the core policy response to COVID-19. But as federal, state and local governments begin opening businesses and relaxing shelter-in-place orders worldwide, we lack quantitative evidence on how policies in one region affect mobility and social distancing in other regions and the consequences of uncoordinated regional policies adopted in the presence of such spillovers. We therefore combined daily, county-level data on shelter-in-place and business closure policies with movement data from over 27 million mobile devices, social network connections among over 220 million of Facebook users, daily temperature and precipitation data from 62,000 weather stations and county-level census data on population demographics to estimate the geographic and social network spillovers created by regional policies across the United States. Our analysis showed the contact patterns of people in a given region are significantly influenced by the policies and behaviors of people in other, sometimes distant, regions. When just one third of a state’s social and geographic peer states adopt shelter in place policies, it creates a reduction in mobility equal to the state’s own policy decisions. These spillovers are mediated by peer travel and distancing behaviors in those states. A simple analytical model calibrated with our empirical estimates demonstrated that the “loss from anarchy” in uncoordinated state policies is increasing in the number of non-cooperating states and the size of social and geographic spillovers. These results suggest a substantial cost of uncoordinated government responses to COVID-19 when people, ideas, and media move across borders.
 
