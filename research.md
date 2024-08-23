@@ -10,9 +10,9 @@ layout: default
 My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). It leverages machine learning and causal inference to develop data products for advertising, targeting, and pricing decisions.
 
 My recent work focuses on understanding and solving important problems in the creator economy. My projects are organized around the 3Cs: content, community, and commerce. 
+
 <!--
-On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. 
-My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
+On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
 #### general interests:
 <ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
