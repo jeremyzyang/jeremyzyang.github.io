@@ -7,9 +7,9 @@ layout: default
 
 ### research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). It leverages machine learning and causal inference to develop data products for advertising, targeting, and pricing decisions.
+My recent work focuses on the creator economy. The creator economy is an ecosystem where social media platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users.
 
-My recent work focuses on understanding and solving important problems in the creator economy. My projects are organized around the 3Cs: content, community, and commerce. 
+My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? This question concerns the process of producing compelling content to captivate an audience, fostering communities to enhance engagement, and monetizing through advertising or product sales. I develop or use empirical methods in machine learning (including large language models), field and lab experiments, and econometrics to address this question by analyzing large-scale multimodal data. 
 
 <!--
 On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
@@ -60,13 +60,25 @@ presentations:<br/>
 -->
 
 #### publications:
+<ins>**Understanding the Value Chains Driving the Creator Economy**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Barak Libai, Ana Babić Rosario, Maximilian Beichert, Bas Donkers, Michael Haenlein, Reto Hofstetter, P. K. Kannan, Ralf van der Lans, Andreas Lanz, H. Alice Li, Dina Mayzlin, Eitan Muller, Daniel Shapira, Jeremy Yang, and Lingling Zhang 
+
+_Journal of the Academy of Marketing Science  (2025)_<br/>
+
+[<a href="https://link.springer.com/article/10.1007/s11747-024-01073-2">paper</a>] 
+
+<!-- \- _Job Market Paper_<br/> -->
+
+<ins>Abstract:</ins> As influencer marketing evolves into a dominant force in the marketing landscape, it necessitates a deeper theoretical exploration to understand its strategic implementations and impacts. This article examines the dynamics of influencer marketing within the growing creator economy, emphasizing the interactions among firms, influencers, followers, and digital platforms. We introduce a novel, equity-driven framework that analyzes how influencers contribute to customer equity, how influencers manage and leverage the value from their followers, and how platforms maximize the value from their users. We detail the complex relationships and value exchanges within the influencer marketing ecosystem, highlighting the challenges of measuring the return on investment and influencers’ strategic use of content to maintain authenticity and influence. By synthesizing diverse academic literature and current industry practices, this manuscript provides a comprehensive overview of the mechanisms of value creation and exchange in influencer marketing, offers strategic implications for marketers aiming to optimize their influencer engagements, and outlines future work in the form of the eleven “INFLUENCERS” research directions.
+
+
 <ins>**Engagement that Sells: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
+Jeremy Yang, Juanjuan Zhang, and Yuhan Zhang
 
-_Marketing Science (Forthcoming)_<br/>
+_Marketing Science (2024)_<br/>
 
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
+[<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
@@ -77,7 +89,7 @@ _Marketing Science (Forthcoming)_<br/>
 <ins>Abstract:</ins> Many ads are engaging, but what makes them engaging may have little to do with the product. This problem can be particularly relevant to influencer advertising if influencers are motivated to promote themselves, not just the product. We develop an algorithm to measure the degree of effective engagement associated with the product and use it to predict the sales lift of influencer video advertising. We propose the concept of product engagement score, or PE-score, to capture how engaging the product itself is as presented in a video. We estimate pixel-level engagement as a saliency map by training a deep three-dimensional convolutional neural network on video-level engagement data and locate pixel-level product placement with an object detection algorithm. The PE-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and validate the algorithm with influencer video ads on TikTok and product sales data on Taobao. We leverage variation in video posting time to identify video-specific sales lift and show that the PE-score significantly and robustly predicts sales lift. We explore drivers of engagement and discuss how various stakeholders in influencer advertising can use the PE-score in a scalable way to manage content, align incentives, and improve efficiency.
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
-Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
+Jeremy Yang, Dean Eckles, Paramveer Dhillon, and Sinan Aral <br/> 
 
 _Management Science (2023)_<br/>
 
@@ -91,7 +103,7 @@ _Management Science (2023)_<br/>
 
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
-David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
+David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, and Sinan Aral
 
 _Proceedings of the National Academy of Sciences (2020)_ 
 
@@ -101,7 +113,7 @@ _Proceedings of the National Academy of Sciences (2020)_
 
 <ins>**How Do Successful Scholars Get their Best Research Ideas? <br/>
 An Exploration**</ins> <br/>
-Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, Jeremy Yang<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, Birger Wernerfelt
+Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, Jeremy Yang<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, and Birger Wernerfelt
 
 _Marketing Letters (2019)_ 
 
