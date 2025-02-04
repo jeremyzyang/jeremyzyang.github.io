@@ -5,11 +5,12 @@
 
 #### seminars:
 
+\- University of Michigan (2025/4)<br/>
+\- Marketing Science, TikTok (2025/2)<br/>
+\- Northeast Marketing Consortium, Harvard (2024/10)<br/>
 \- Stanford University (2024/5)<br/>
 \- University of Connecticut (2024/4)<br/>
-\- University of Michigan (2024/4)<br/>
 \- The Chinese University of Hong Kong, Shenzhen (2024/2)<br/>
-\- Ben-Gurion University of the Negev (2023/12 - canceled)<br/>
 \- The Choice Symposium, INSEAD (2023/8)<br/>
 \- Faculty Research Symposium, Harvard (2023/5)<br/>
 \- D^3 Research Day, Harvard (2023/5)<br/>
@@ -47,6 +48,7 @@
 
 #### conferences:
 
+\- Joint Statistical Meeting, Portland (2024/8)<br/>
 \- Marketing Dynamics Conference, Northeastern (2023/9)<br/>
 \- Advances on Field Experiment, Chicago (2023/9)<br/>
 \- ISMS Marketing Science Conference, Miami (2023/6)<br/>
@@ -79,10 +81,5 @@
 \- Advances on Field Experiments, Chicago (2019/7)<br/>
 
 [home](./)
-
-<!-- <ins>On the "science" and "engineering" type of research in business schools</ins>
-Broadly speaking, I think there are two main flavors in the type of research conducted in business schools. I call them the "science" and "engineering" type. The "science" type solves intellectual puzzles, the purpose is to understand and explain. The "engineering" type provides solution to practical problems and can be implemented to show a real business impact. A good "science" type of research doesn't need to have a direct application, similarly, a good "engineering" type of research may not have a conceptual breakthrough. 
-<ins>On my frustration with English dictionaries</ins>
-They do two things that frustrate me. They either explain a world I don't know with another word that I don't know, or even worse, they explain a word with itself. I didn't know it is possible to bootstrap in languages? I was looking up the word _vexatious_ on Webster dictionary the other day and it says _causing vexation_, still don't know what it means. Then I search for _vexation_ it says _the quality or state of being vexed_. Really? I felt annoyed and still don't know what vexed means till this day. --> 
 
 
