@@ -10,6 +10,6 @@ I enjoy playing and watching tennis, basketball, soccer, and skiing. I'm a fan o
 
 I also like playing soul-like games, such as [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong), [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), [Sekiro](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice), and [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima). Although they are all challenging and frustrating to play, it is very satisfying when I beat them. It resembles the process of doing research. 
 
-I lived in a church in South Korea and went on a mission trip to Africa before grad school. I attend the [Aletheia church](https://www.aletheia.org/) in Cambridge.
+Before grad school, I lived in a church in South Korea and went on a mission trip to Africa. I attend the [Aletheia Church](https://www.aletheia.org/) in Cambridge.
 
 [home](./)
