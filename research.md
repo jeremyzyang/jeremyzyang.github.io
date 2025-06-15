@@ -80,7 +80,7 @@ _Marketing Science (2024)_<br/>
 
 [<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
-\- _Productized through the MIT Technology Licensing Office (Case No. 25019) (2024/7)_<br/>
+\- _Productized through the MIT Technology Licensing Office (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
