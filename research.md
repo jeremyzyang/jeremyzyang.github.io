@@ -7,6 +7,8 @@ layout: default
 
 ### research 
 
+I am broadly interested in the digital economy, machine learning, large language models, and causal inference.
+
 My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users.
 
 My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? This question concerns the process of producing compelling content to captivate an audience, fostering communities to enhance engagement, and monetizing through advertising or product sales. I develop or use empirical methods in machine learning (including large language models), field and lab experiments, and econometrics to address these questions by analyzing large-scale multimodal data. 
