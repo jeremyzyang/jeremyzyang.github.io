@@ -9,7 +9,7 @@ layout: default
 
 My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users.
 
-My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? This question concerns the process of producing compelling content to captivate an audience, fostering communities to enhance engagement, and monetizing through advertising or product sales. I develop or use empirical methods in machine learning, field and lab experiments, and econometrics to address these questions by analyzing large-scale multimodal data. 
+My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? This question concerns the process of producing compelling content to captivate an audience, fostering communities to enhance engagement, and monetizing through advertising or product sales. I develop or use empirical methods in machine learning (including large language models), field and lab experiments, and econometrics to address these questions by analyzing large-scale multimodal data. 
 
 <!--
 On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
@@ -80,6 +80,7 @@ _Marketing Science (2024)_<br/>
 
 [<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
+\- _Productized through the MIT Technology Licensing Office (Case No. 25019) (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
@@ -95,6 +96,8 @@ _Management Science (2023)_<br/>
 
 [<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
+\- _INFORMS ISMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
+\- _Finalist, INFORMS ISMS John D. C. Little Best Paper Award (2025/6)_<br/> 
 \- _American Statistical Association Dissertation Award (2021/1)_<br/> 
 \- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
 \- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
