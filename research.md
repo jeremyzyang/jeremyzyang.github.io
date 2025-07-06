@@ -65,38 +65,33 @@ presentations:<br/>
 <ins>**Understanding the Value Chains Driving the Creator Economy**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Barak Libai, Ana Babić Rosario, Maximilian Beichert, Bas Donkers, Michael Haenlein, Reto Hofstetter, P. K. Kannan, Ralf van der Lans, Andreas Lanz, H. Alice Li, Dina Mayzlin, Eitan Muller, Daniel Shapira, Jeremy Yang, and Lingling Zhang 
 
-_Journal of the Academy of Marketing Science  (2025)_<br/>
+_Journal of the Academy of Marketing Science  (2025)_ [<a href="https://link.springer.com/article/10.1007/s11747-024-01073-2">paper</a>] 
 
-[<a href="https://link.springer.com/article/10.1007/s11747-024-01073-2">paper</a>] 
-
-<!-- \- _Job Market Paper_<br/> -->
+<!-- \- _Job Market Paper_<br/>
 
 <ins>Abstract:</ins> As influencer marketing evolves into a dominant force in the marketing landscape, it necessitates a deeper theoretical exploration to understand its strategic implementations and impacts. This article examines the dynamics of influencer marketing within the growing creator economy, emphasizing the interactions among firms, influencers, followers, and digital platforms. We introduce a novel, equity-driven framework that analyzes how influencers contribute to customer equity, how influencers manage and leverage the value from their followers, and how platforms maximize the value from their users. We detail the complex relationships and value exchanges within the influencer marketing ecosystem, highlighting the challenges of measuring the return on investment and influencers’ strategic use of content to maintain authenticity and influence. By synthesizing diverse academic literature and current industry practices, this manuscript provides a comprehensive overview of the mechanisms of value creation and exchange in influencer marketing, offers strategic implications for marketers aiming to optimize their influencer engagements, and outlines future work in the form of the eleven “INFLUENCERS” research directions.
-
+ -->
 
 <ins>**Engagement that Sells: <br/>
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang, Juanjuan Zhang, and Yuhan Zhang
 
-_Marketing Science (2024)_<br/>
-
-[<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
+_Marketing Science (2024)_ [<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
 \- _Productized through the MIT Technology Licensing Office (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
 
-<!-- \- _Job Market Paper_<br/> -->
+<!-- \- _Job Market Paper_<br/> 
 
 <ins>Abstract:</ins> Many ads are engaging, but what makes them engaging may have little to do with the product. This problem can be particularly relevant to influencer advertising if influencers are motivated to promote themselves, not just the product. We develop an algorithm to measure the degree of effective engagement associated with the product and use it to predict the sales lift of influencer video advertising. We propose the concept of product engagement score, or PE-score, to capture how engaging the product itself is as presented in a video. We estimate pixel-level engagement as a saliency map by training a deep three-dimensional convolutional neural network on video-level engagement data and locate pixel-level product placement with an object detection algorithm. The PE-score is computed as the pixel-level, engagement-weighted product placement in a video. We construct and validate the algorithm with influencer video ads on TikTok and product sales data on Taobao. We leverage variation in video posting time to identify video-specific sales lift and show that the PE-score significantly and robustly predicts sales lift. We explore drivers of engagement and discuss how various stakeholders in influencer advertising can use the PE-score in a scalable way to manage content, align incentives, and improve efficiency.
+-->
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, and Sinan Aral <br/> 
 
-_Management Science (2023)_<br/>
-
-[<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+_Management Science (2023)_ [<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
 \- _INFORMS ISMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
 \- _Finalist, INFORMS ISMS John D. C. Little Best Paper Award (2025/6)_<br/> 
@@ -104,27 +99,29 @@ _Management Science (2023)_<br/>
 \- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
 \- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
 
+<!--
 <ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
+-->
 
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, and Sinan Aral
 
-_Proceedings of the National Academy of Sciences (2020)_ 
+_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009522117">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
 
-[<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009522117">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
-
+<!--
 <ins>Abstract:</ins> Social distancing is the core policy response to COVID-19. But as federal, state and local governments begin opening businesses and relaxing shelter-in-place orders worldwide, we lack quantitative evidence on how policies in one region affect mobility and social distancing in other regions and the consequences of uncoordinated regional policies adopted in the presence of such spillovers. We therefore combined daily, county-level data on shelter-in-place and business closure policies with movement data from over 27 million mobile devices, social network connections among over 220 million of Facebook users, daily temperature and precipitation data from 62,000 weather stations and county-level census data on population demographics to estimate the geographic and social network spillovers created by regional policies across the United States. Our analysis showed the contact patterns of people in a given region are significantly influenced by the policies and behaviors of people in other, sometimes distant, regions. When just one third of a state’s social and geographic peer states adopt shelter in place policies, it creates a reduction in mobility equal to the state’s own policy decisions. These spillovers are mediated by peer travel and distancing behaviors in those states. A simple analytical model calibrated with our empirical estimates demonstrated that the “loss from anarchy” in uncoordinated state policies is increasing in the number of non-cooperating states and the size of social and geographic spillovers. These results suggest a substantial cost of uncoordinated government responses to COVID-19 when people, ideas, and media move across borders.
+-->
 
 <ins>**How Do Successful Scholars Get their Best Research Ideas? <br/>
 An Exploration**</ins> <br/>
 Cathy Cao, Xinyu Cao, Matthew Cashman, Madhav Kumar, Artem Timoshenko, Jeremy Yang<sup>*</sup>, Shuyi Yu, Jerry Zhang, Yuting Zhu, and Birger Wernerfelt
 
-_Marketing Letters (2019)_ 
+_Marketing Letters (2019)_ [<a href="https://link.springer.com/article/10.1007/s11002-019-09506-7">paper</a>]<br/> 
 
-[<a href="https://link.springer.com/article/10.1007/s11002-019-09506-7">paper</a>]<br/> 
-
+<!--
 <ins>Abstract:</ins> We interview 24 marketing professors to ask how they got the ideas for 64 of their papers. More than three quarters of the papers were inspired by holes in the literature, by a “stylized fact” that the current literature cannot explain, or by an interaction with a manager. The rest fall into several smaller categories that to a large extent can be seen as special cases of the three big ones. We describe how papers from each of the three big categories help move the literature forward. We also illustrate the range of situations contained in each category by way of several examples. Among the authors we interview, most do not use a single source. As these authors become more senior, managerial contacts play an increasing role, while the balance between literature and stylized facts appears to be unchanged.
+-->
 
 <!-- #### revise & resubmit:-->
 <!--
