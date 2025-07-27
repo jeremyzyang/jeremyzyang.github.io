@@ -9,9 +9,7 @@ layout: default
 
 I am broadly interested in the digital economy, machine learning, large language models, and causal inference.
 
-My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users.
-
-My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process of producing compelling content to captivate an audience, fostering communities to enhance engagement, and monetizing through advertising or product sales. I develop or use empirical methods in machine learning, large language models, field and lab experiments, and econometrics to address these questions by analyzing large-scale multimodal data. 
+My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users. My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process from producing compelling content to captivate an audience, fostering communities to enhance engagement, to monetizing through advertising or product sales. I develop or use empirical methods in machine learning, large language models, experimentation, and econometrics to address these questions by analyzing large-scale multimodal data. 
 
 <!--
 On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
@@ -61,11 +59,7 @@ presentations:<br/>
 \- Organizational Economics Lunch, MIT (2020/10)<br/> 
 -->
 
-#### publications:
-<ins>**Understanding the Value Chains Driving the Creator Economy**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Barak Libai, Ana Babić Rosario, Maximilian Beichert, Bas Donkers, Michael Haenlein, Reto Hofstetter, P. K. Kannan, Ralf van der Lans, Andreas Lanz, H. Alice Li, Dina Mayzlin, Eitan Muller, Daniel Shapira, Jeremy Yang, and Lingling Zhang 
-
-_Journal of the Academy of Marketing Science  (2025)_ [<a href="https://link.springer.com/article/10.1007/s11747-024-01073-2">paper</a>] 
+#### selected publications:
 
 <!-- \- _Job Market Paper_<br/>
 
@@ -91,7 +85,7 @@ _Marketing Science (2024)_ [<a href="https://www.dropbox.com/scl/fi/ohnptp072v65
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, and Sinan Aral <br/> 
 
-_Management Science (2023)_ [<a href="https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.4881">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
+_Management Science (2023)_ [<a href="https://www.dropbox.com/scl/fi/laoxwlri2zy0vgdqqk8wq/yang-et-al-targeting-for-long-term-outcomes.pdf?rlkey=3t01pz09mhx6hi00kexdbpxrb&e=2&st=dyjvmf1l&dl=0">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">x</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
 
 \- _INFORMS ISMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
 \- _Finalist, INFORMS ISMS John D. C. Little Best Paper Award (2025/6)_<br/> 
@@ -107,11 +101,18 @@ _Management Science (2023)_ [<a href="https://pubsonline.informs.org/doi/abs/10.
 to COVID-19**</ins> <br/>
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, and Sinan Aral
 
-_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2009522117">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
+_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://www.dropbox.com/scl/fi/e9bwtxtynevtl6wdlj7lg/holtz-et-al-interdependence-and-the-cost-of-uncoordinated-responses-to-covid-19.pdf?rlkey=9u9prc0epugeskngx4st7c4pl&e=2&st=vyq4z32g&dl=0">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
 
 <!--
 <ins>Abstract:</ins> Social distancing is the core policy response to COVID-19. But as federal, state and local governments begin opening businesses and relaxing shelter-in-place orders worldwide, we lack quantitative evidence on how policies in one region affect mobility and social distancing in other regions and the consequences of uncoordinated regional policies adopted in the presence of such spillovers. We therefore combined daily, county-level data on shelter-in-place and business closure policies with movement data from over 27 million mobile devices, social network connections among over 220 million of Facebook users, daily temperature and precipitation data from 62,000 weather stations and county-level census data on population demographics to estimate the geographic and social network spillovers created by regional policies across the United States. Our analysis showed the contact patterns of people in a given region are significantly influenced by the policies and behaviors of people in other, sometimes distant, regions. When just one third of a state’s social and geographic peer states adopt shelter in place policies, it creates a reduction in mobility equal to the state’s own policy decisions. These spillovers are mediated by peer travel and distancing behaviors in those states. A simple analytical model calibrated with our empirical estimates demonstrated that the “loss from anarchy” in uncoordinated state policies is increasing in the number of non-cooperating states and the size of social and geographic spillovers. These results suggest a substantial cost of uncoordinated government responses to COVID-19 when people, ideas, and media move across borders.
 -->
+
+#### review publications
+
+<ins>**Understanding the Value Chains Driving the Creator Economy**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Barak Libai, Ana Babić Rosario, Maximilian Beichert, Bas Donkers, Michael Haenlein, Reto Hofstetter, P. K. Kannan, Ralf van der Lans, Andreas Lanz, H. Alice Li, Dina Mayzlin, Eitan Muller, Daniel Shapira, Jeremy Yang, and Lingling Zhang 
+
+_Journal of the Academy of Marketing Science  (2025)_ [<a href="https://link.springer.com/article/10.1007/s11747-024-01073-2">paper</a>] 
 
 <ins>**How Do Successful Scholars Get their Best Research Ideas? <br/>
 An Exploration**</ins> <br/>
