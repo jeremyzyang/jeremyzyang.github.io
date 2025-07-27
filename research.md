@@ -76,9 +76,9 @@ _Journal of the Academy of Marketing Science  (2025)_ [<a href="https://link.spr
 Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
 Jeremy Yang, Juanjuan Zhang, and Yuhan Zhang
 
-_Marketing Science (2024)_ [<a href="https://pubsonline.informs.org/doi/10.1287/mksc.2021.0107">paper</a>] [<a href="https://pubsonline.informs.org/doi/suppl/10.1287/mksc.2021.0107">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
+_Marketing Science (2024)_ [<a href="https://www.dropbox.com/scl/fi/ohnptp072v650m43lr0lx/yang-et-al-engagement-that-sells-influencer-video-advertising-on-tiktok.pdf?rlkey=zk6i91thwjoytmpdqa6n7u35a&e=2&st=wu2tj0hh&dl=0">paper</a>] [<a href="https://github.com/jeremyzyang/engagement_that_sells">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">x</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
-\- _Productized through the MIT Technology Licensing Office (2024/7)_<br/>
+\- _IP Registered under MIT License for Commercialization (Case No. 25019) (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
