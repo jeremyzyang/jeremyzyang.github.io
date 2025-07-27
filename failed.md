@@ -3,7 +3,7 @@
 
 ### failed projects 
 
-Just a note on projects that I put some serious effort into but didn't work out. It's a public good for us as researchers to make this process more transparent and share what we've learned from it. This is along the same line as Melanie Stefan's [Nature article](https://www.nature.com/articles/nj7322-467a) and Ben Olken's [epic failures](https://economics.mit.edu/sites/default/files/inline-files/191216_Failures.pdf) except that mines are not published in Nature nor nearly as epic. I hope that I don't have to update this page as frequently as my real CV.
+Just a note on projects that I put some serious effort into but didn't work out. It's a public good for us as researchers to make this process more transparent and share what we've learned from it. This is along the same line as Melanie Stefan's [Nature article](https://www.nature.com/articles/nj7322-467a) and Ben Olken's [epic failures](https://economics.mit.edu/sites/default/files/inline-files/191216_Failures.pdf) except that mines are not published in Nature or nearly as epic. I hope that I don't have to update this page as frequently as my actual CV.
 
 <ins>The value of connected store</ins>
 
