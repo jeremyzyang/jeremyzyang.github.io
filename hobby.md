@@ -8,7 +8,7 @@ I enjoy playing and watching tennis, basketball, soccer, and skiing. I'm a fan o
 <!--and [basketball](/assets/files/bball.md)
  I like singing too, here's an excerpt of my covering of [Trace (軌跡)](/assets/files/179LincolnSt4.m4a) and [Apocalypse (世界末日)](/assets/files/sjmr.m4a) by [Jay Chou (周杰倫)](https://en.wikipedia.org/wiki/Jay_Chou).-->
 
-I also like playing soul-like games, such as [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong), [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), [Sekiro](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice), and [Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima). Although they are all challenging and frustrating to play, it is very satisfying when I beat them. It resembles the process of doing research. 
+I also like playing soulslike games, such as [Wuchang](https://en.wikipedia.org/wiki/Wuchang:_Fallen_Feathers), [Black Myth: Wukong](https://en.wikipedia.org/wiki/Black_Myth:_Wukong), [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), and [Sekiro](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice). Although they are all challenging and frustrating to play, it is very satisfying when I beat them. It resembles the process of doing research. 
 
 Before grad school, I lived in a church in South Korea and went on a mission trip to Africa. I attend the [Aletheia Church](https://www.aletheia.org/) in Cambridge.
 
