@@ -16,13 +16,26 @@ Ayelet Israeli, Jeremy Yang, and Billy Chan
 Julian De Freitas, Jeremy Yang, and Das Narayandas <br/>
 
 \- _HBS Required Curriculum Case Award (2024/5)_<br/>
-\- _The Case Center Outstanding Case Writer Competition Award (2024/2)_<br/>
+\- _The Case Center Outstanding Case Writer Award (2024/2)_<br/>
 
 #### courses
 
 I teach Marketing in the MBA required curriculum at HBS.
 
 I was a guest lecturer for:
+
+<ins>**2023**</ins>: Marketing Analytics (Master of Business Analytics), Boston University; Future of Commerce & Leadership Program, Harvard; Maker Space (PhD), MIT <br/>
+<ins>**2022**</ins>: Marketing Analytics (Master of Business Analytics), Boston University <br/>
+<ins>**2021**</ins>: Marketing Innovation (MBA), MIT <br/>
+<ins>**2020**</ins>: Analytics Lab (Master of Business Analytics), MIT; Marketing Innovation (MBA), MIT <br/>
+
+I also worked as a TA at MIT for:
+
+<ins>**2019**</ins>: Experimental Design and Analysis (PhD), Analytics Lab (Master of Business Analytics), Data, Model and Decision (MBA)<br/>
+<ins>**2018**</ins>: Data, Model and Decision (MBA), Marketing Strategy (MBA), Singularity (MBA), Macroeconomic Policy (MBA), Technological Innovation and Entrepreneurship (MBA) <br/>
+<ins>**2017**</ins>: Digital Marketing (MBA)
+
+<!--
 
 <ins>**Marketing Analytics**</ins> (Master of Business Analytics), BU <br/>
 [Zhengrong Gu](https://www.bu.edu/questrom/profile/zhengrong-gu/), Fall 2023
@@ -71,5 +84,6 @@ I also worked as a TA for:
 <ins>**Digital Marketing**</ins> (MBA), MIT <br/>
 [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral), Fall 2017
 
+-->
 
 [home](./)
