@@ -8,27 +8,27 @@ This is a multi-line comment.
 It can span across several lines.
 -->
 
-<ins>2025</ins>: Consumer Neuroscience Symposium (MIT), Advances on Field Experiments (University of Chicago), TikTok, Creator Economy Retreat, D3 Research Day (Harvard University), University of Michigan, ISMS Marketing Science Conference (University of Georgia), Conference of the European Marketing Academy (ESIC University)
+<ins>**2025**</ins>: Consumer Neuroscience Symposium (MIT), Advances on Field Experiments (University of Chicago), TikTok, Creator Economy Retreat, D3 Research Day (Harvard University), University of Michigan, ISMS Marketing Science Conference (University of Georgia), Conference of the European Marketing Academy (ESIC University)
 
-<ins>2024</ins>: Northeast Marketing Consortium (Harvard University), Stanford University, D3 Research Day
+<ins>**2024**</ins>: Northeast Marketing Consortium (Harvard University), Stanford University, D3 Research Day
 (Harvard University), University of Connecticut, Chinese University of Hong Kong (Shenzhen), Joint
 Statistical Meetings
 
-<ins>2023</ins>: Choice Symposium (INSEAD), Faculty Research Symposium (Harvard University), D3 Research
+<ins>**2023**</ins>: Choice Symposium (INSEAD), Faculty Research Symposium (Harvard University), D3 Research
 Day (Harvard University), TikTok, Junior Faculty Development Forum (Washington University in St.
 Louis), University of Pennsylvania, Conference on AI/ML (Temple University), Marketing Dynamic
 Conference (Northeastern University), Advances on Field Experiments (University of Chicago), ISMS
 Marketing Science Conference (University of Miami), Management, Analytics, and Data Conference
 (Columbia University)
 
-<ins>2022</ins>: Junior Quantitative Marketing Conference (Yale University), QME Rossi Seminar (Northwestern University), Marketing Research Camp (Harvard University), CMO Summit (MIT), Conference
+<ins>**2022**</ins>: Junior Quantitative Marketing Conference (Yale University), QME Rossi Seminar (Northwestern University), Marketing Research Camp (Harvard University), CMO Summit (MIT), Conference
 on AI/ML (Harvard University), Conference on Digital Experimentation (MIT), China India Insights
 Conference (University of Southern California), Summer Institute in Competitive Strategy (University
 of California, Berkeley), Marketplace Innovations Workshop, Data Science in a Digital World (Harvard
 University), Management, Analytics, and Data Conference (Columbia University), Theory + Practice
 in Marketing Conference (Emory University)
 
-<ins>2021</ins>: Meta, AIBA Workshop (Temple University), University of Houston, ISPOC, TikTok, Doctoral
+<ins>**2021**</ins>: Meta, AIBA Workshop (Temple University), University of Houston, ISPOC, TikTok, Doctoral
 Research Forum (MIT), Peking University, Erasmus University, Columbia University, University of
 Toronto, University of Virginia, University of Washington, Cheung Kong Graduate School of Business,
 Harvard University, HEC Paris & Hi! Paris Center on AI and Data Analytics, Purdue University, City
@@ -36,11 +36,11 @@ University of Hong Kong, Hebrew University of Jerusalem, Lyft Inference and Stat
 in Management Conference (University of Southern California), Initiative on the Digital Economy Annual Conference (MIT), Paris Conference on Digital Economics Workshop, Center for Causal Inference
 Symposium (RAND Corporation), American Economic Association Annual Meeting
 
-<ins>2020</ins>: INFORMS Annual Meeting, Conference on AI/ML (Temple University), Conference on Digital
+<ins>**2020**</ins>: INFORMS Annual Meeting, Conference on AI/ML (Temple University), Conference on Digital
 Experimentation (MIT), Digital Doctoral Workshop (Harvard University), International Conference on
 Computational Social Science (MIT), Initiative on the Digital Economy Annual Conference (MIT)
 
-<ins>2019</ins>: NeurIPS CausalML Workshop, Digital Doctoral Workshop (Harvard University), Conference on
+<ins>**2019**</ins>: NeurIPS CausalML Workshop, Digital Doctoral Workshop (Harvard University), Conference on
 Digital Experimentation (MIT), Advances on Field Experiments (University of Chicago)
 
 <!--
