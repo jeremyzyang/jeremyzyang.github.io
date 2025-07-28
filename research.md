@@ -59,7 +59,7 @@ presentations:<br/>
 \- Organizational Economics Lunch, MIT (2020/10)<br/> 
 -->
 
-#### selected publications:
+#### selected publications
 
 <!-- \- _Job Market Paper_<br/>
 
