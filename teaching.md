@@ -3,6 +3,19 @@
 
 ### teaching 
 
+Cases:
+
+<ins>Full-Funnel Advertising on TikTok</ins> [<a href="https://hbsp.harvard.edu/product/525065-PDF-ENG">Case</a>] <br/>
+Jeremy Yang, Ayelet Israeli, and Alexis Lefort
+
+<ins>The Future of E-Commerce: Lessons from the Livestream Wars in China</ins> [<a href="https://hbsp.harvard.edu/product/523055-PDF-ENG">Case</a>] <br/>
+Ayelet Israeli, Jeremy Yang, and Billy Chan
+
+<ins>Hometown Foods: Changing Price Amid Inflation</ins> [<a href="https://hbsp.harvard.edu/product/522087-PDF-ENG?activeTab=overview&itemFindingMethod=">Case</a>] <br/>
+Julian De Freitas, Jeremy Yang, and Das Narayandas
+
+Teaching:
+
 I teach Marketing in the MBA required curriculum at HBS.
 
 I was a guest lecturer for:
