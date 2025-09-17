@@ -7,7 +7,7 @@ layout: default
 
 ### research 
 
-I am broadly interested in the digital economy, machine learning, large language models, and causal inference.
+I am broadly interested in the digital economy, and machine learning, large language models, and causal inference for managerial problems.
 
 My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users. My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process from producing compelling content to captivate an audience, fostering communities to enhance engagement, to monetizing through advertising or product sales. I develop or use empirical methods in machine learning, large language models, experimentation, and econometrics to address these questions by analyzing large-scale multimodal data. 
 
@@ -66,9 +66,8 @@ presentations:<br/>
 <ins>Abstract:</ins> As influencer marketing evolves into a dominant force in the marketing landscape, it necessitates a deeper theoretical exploration to understand its strategic implementations and impacts. This article examines the dynamics of influencer marketing within the growing creator economy, emphasizing the interactions among firms, influencers, followers, and digital platforms. We introduce a novel, equity-driven framework that analyzes how influencers contribute to customer equity, how influencers manage and leverage the value from their followers, and how platforms maximize the value from their users. We detail the complex relationships and value exchanges within the influencer marketing ecosystem, highlighting the challenges of measuring the return on investment and influencers’ strategic use of content to maintain authenticity and influence. By synthesizing diverse academic literature and current industry practices, this manuscript provides a comprehensive overview of the mechanisms of value creation and exchange in influencer marketing, offers strategic implications for marketers aiming to optimize their influencer engagements, and outlines future work in the form of the eleven “INFLUENCERS” research directions.
  -->
 
-<ins>**Engagement that Sells: <br/>
-Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Jeremy Yang, Juanjuan Zhang, and Yuhan Zhang
+<ins>**Engagement that Sells**</ins><br/>  <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
+Jeremy Yang, Juanjuan Zhang, and Yuhan Zhang <br/> 
 
 _Marketing Science (2024)_ [<a href="https://www.dropbox.com/scl/fi/ohnptp072v650m43lr0lx/yang-et-al-engagement-that-sells-influencer-video-advertising-on-tiktok.pdf?rlkey=zk6i91thwjoytmpdqa6n7u35a&e=2&st=wu2tj0hh&dl=0">paper</a>] [<a href="https://github.com/jeremyzyang/engagement_that_sells">code</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
 
