@@ -2,8 +2,8 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). <br/>
-[thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). <br/>
+
 
 ### research 
 
@@ -12,6 +12,9 @@ I am broadly interested in the digital economy, and machine learning, large lang
 My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users. My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process from producing compelling content to captivate an audience, fostering communities to enhance engagement, to monetizing through advertising or commerce. I develop or use empirical methods in machine learning, large language models, experimentation, and econometrics to address these questions by analyzing large-scale multimodal data. 
 
 <!--
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). <br/>
+[thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+
 On creator, I study creator inequality and bias. On content, I study what creative elements drive performance and the impact of generative models. On community, I study how creators build and engage a community. On commerce, I study creator monetization. My dissertation is on learning to design, deliver, and diffuse interventions, in which I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to spread it (diffuse). 
 I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
 #### general interests:
