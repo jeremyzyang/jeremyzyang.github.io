@@ -1,6 +1,6 @@
 
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). <br/>
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 ### personal
 
