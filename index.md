@@ -2,11 +2,9 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). <br/>
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 I’m a convex combination of an economist and data scientist. I received my PhD in management science from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. I'm also affiliated with the Harvard [Kempner Institute of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), [Digital, Data, and Design (D^3) Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the MIT [Initiative on the Digital Economy](http://ide.mit.edu), and the [American Statistical Association](https://community.amstat.org/statisticsinmarketingsection/home). 
-
-Here is my [Linktree](https://linktr.ee/jeremyzyang).
 
 <!--
 [talks](./talk.md). [teaching](./teaching.md). [thoughts](./thought.md). [failed projects](./failed.md)
