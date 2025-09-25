@@ -7,9 +7,11 @@ layout: default
 
 ### research 
 
-I am broadly interested in the digital economy, and machine learning, large language models, and causal inference for managerial problems.
+I am broadly interested in the digital economy, and machine learning, LLMs, and causal inference for managerial problems. 
 
-My recent work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users. My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process from producing compelling content to captivate an audience, fostering communities to enhance engagement, to monetizing through advertising or commerce. I develop or use empirical methods in machine learning, large language models, experimentation, and econometrics to address these questions by analyzing large-scale multimodal data. 
+My recent interest includes the classification, evaluation, and optimization of agentic tasks, using LLMs to automate workflows such as hypothesis generation and A/B testing, and the diffusion and business impact of AGI.  
+
+My previous work focuses on the creator economy. The creator economy is an ecosystem where media and commerce platforms, content creators, and brands collaborate to create and capture value by engaging and monetizing users. My research is motivated by a central question: How do creators, brands, and platforms better engage and monetize users? It concerns the process from producing compelling content to captivate an audience, fostering communities to enhance engagement, to monetizing through advertising or commerce. I develop or use empirical methods in machine learning, large language models, experimentation, and econometrics to address these questions by analyzing large-scale multimodal data. 
 
 <!--
 [home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). <br/>
