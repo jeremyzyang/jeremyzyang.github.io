@@ -62,7 +62,7 @@ presentations:<br/>
 #### selected working paper
 
 <ins>**The Adoption and Usage of AI Agents: Early Evidence from Perplexity**</ins><br/>  <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>-->
-[<a href="https://arxiv.org/abs/2512.07828">paper</a>] [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="[https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c](https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents)">summary</a>]<br/>
+[<a href="https://arxiv.org/abs/2512.07828">paper</a>] [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>
 Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/> 
 
 #### selected publication
