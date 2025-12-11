@@ -7,7 +7,9 @@ layout: default
 
 ### research 
 
-I am broadly interested in the digital economy, and machine learning, LLMs, and causal inference for managerial problems. My recent interest includes the classification, evaluation, and optimization of agentic tasks, using LLMs to automate workflows such as hypothesis generation and A/B testing, and the diffusion and business impact of generative AI.  
+I am broadly interested in the digital economy, and machine learning and causal inference for managerial problems. 
+
+My recent interests include AI agent's use cases, evaluation, and optimization, using LLMs to automate workflows such as hypothesis generation and A/B testing, and the diffusion and business impact of generative AI.  
 
 #### working paper
 
@@ -30,8 +32,10 @@ _Marketing Science (2024)_
 \- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
 
 <ins>**Targeting for Long-Term Outcomes**</ins><br/> 
-_Management Science (2023)_ [<a href="https://www.dropbox.com/scl/fi/laoxwlri2zy0vgdqqk8wq/yang-et-al-targeting-for-long-term-outcomes.pdf?rlkey=3t01pz09mhx6hi00kexdbpxrb&e=2&st=dyjvmf1l&dl=0">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] <br/>  
+[<a href="https://www.dropbox.com/scl/fi/laoxwlri2zy0vgdqqk8wq/yang-et-al-targeting-for-long-term-outcomes.pdf?rlkey=3t01pz09mhx6hi00kexdbpxrb&e=2&st=dyjvmf1l&dl=0">paper</a>] [<a href="https://github.com/jeremyzyang/targeting_for_longterm_outcomes">code</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] <br/>
 Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
+
+_Management Science (2023)_ 
 
 \- _INFORMS ISMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
 \- _Finalist, INFORMS ISMS John D. C. Little Best Paper Award (2025/6)_<br/> 
@@ -42,9 +46,10 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/>
 
 <ins>**Interdependence and the Cost of Uncoordinated Responses <br/>
 to COVID-19**</ins> <br/>
+[<a href="https://www.dropbox.com/scl/fi/e9bwtxtynevtl6wdlj7lg/holtz-et-al-interdependence-and-the-cost-of-uncoordinated-responses-to-covid-19.pdf?rlkey=9u9prc0epugeskngx4st7c4pl&e=2&st=vyq4z32g&dl=0">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
 David Holtz, Michael Zhao, Seth G. Benzell, Cathy Y. Cao, M. Amin Rahimiana, Jeremy Yang, Jennifer Allen, Avinash Collis, Alex Moehring, Tara Sowrirajan, Dipayan Ghosha, Yunhao Zhang, Paramveer S. Dhillon, Christos Nicolaides, Dean Eckles, Sinan Aral
 
-_Proceedings of the National Academy of Sciences (2020)_ [<a href="https://www.dropbox.com/scl/fi/e9bwtxtynevtl6wdlj7lg/holtz-et-al-interdependence-and-the-cost-of-uncoordinated-responses-to-covid-19.pdf?rlkey=9u9prc0epugeskngx4st7c4pl&e=2&st=vyq4z32g&dl=0">paper</a>] [<a href="https://github.com/mfzhao/covid_interdependence">code</a>]<br/>
+_Proceedings of the National Academy of Sciences (2020)_ 
 
 #### work in progress
 <ins>**Using Multimodal LLM to Discover and Validate
