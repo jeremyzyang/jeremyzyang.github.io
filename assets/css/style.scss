@@ -1,8 +1,34 @@
 ---
 ---
-
 @import "jekyll-theme-minimal";
 
+/* Base sizing */
 html {
-  font-size: 24px; // change to whatever
+  font-size: 24px;
+}
+
+/* Page background + body text */
+body {
+  background-color: #111111;   /* dark charcoal */
+  color: #d0c8bc;              /* warm gray-beige */
+}
+
+/* Main headings (name, section titles) */
+h1, h2, h3, h4, h5, h6 {
+  color: #f7f2e8;              /* almost white, slightly warm */
+}
+
+/* Navigation links and inline links */
+a {
+  color: #f7f2e8;              /* same as headings */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: tweak paragraph spacing for that airy look */
+p {
+  line-height: 1.6;
 }
