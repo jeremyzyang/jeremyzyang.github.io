@@ -32,3 +32,11 @@ a:hover {
 p {
   line-height: 1.6;
 }
+
+/* Make top banner same color as background */
+.site-header,
+.site-header .wrapper,
+.site-nav {
+  background-color: #111111;   /* same as body background */
+  border: none;
+}
