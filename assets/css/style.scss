@@ -41,14 +41,7 @@ p {
   border: none;
 }
 
-/* Custom text selection color */
-/* Keep selected text highlight white, even on links */
-::selection {
-  background: #ffffff;   /* white highlight */
-  color: #111111;        /* dark text */
-}
-
-::-moz-selection {
-  background: #ffffff;   /* Firefox */
-  color: #111111;
+a:hover {
+  color: #ffffff;              /* pure white on hover */
+  text-decoration: underline;
 }
