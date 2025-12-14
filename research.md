@@ -7,7 +7,7 @@ layout: default
 
 ### research 
 
-I am broadly interested in the digital economy, and machine learning and causal inference for managerial problems. 
+I am broadly interested in the economics of AI, and machine learning and causal inference for managerial problems. 
 
 My recent interests include AI agent's use cases, evaluation, and optimization, using LLMs to automate workflows such as hypothesis generation and A/B testing, and the diffusion and business impact of generative AI.  
 
