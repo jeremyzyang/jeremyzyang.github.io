@@ -42,7 +42,13 @@ p {
 }
 
 /* Custom text selection color */
+/* Keep selected text highlight white, even on links */
 ::selection {
-  background: #f7f2e8;   /* white highlight */
-  color: #f7f2e8;        /* dark text on white */
+  background: #ffffff;   /* white highlight */
+  color: #111111;        /* dark text */
+}
+
+::-moz-selection {
+  background: #ffffff;   /* Firefox */
+  color: #111111;
 }
