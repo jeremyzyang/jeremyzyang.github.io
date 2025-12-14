@@ -8,7 +8,7 @@ I’m a convex combination of an economist and a data scientist.
 
 I received my PhD in management science from the <a href="http://www.mit.edu">Massachusetts Institute of Technology</a>. 
 
-I'm also affiliated with the Harvard [Kempner Institute of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), the [Digital, Data, and Design Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the MIT [Initiative on the Digital Economy](http://ide.mit.edu), the [Institute for Operations Research and the Management Sciences](https://www.informs.org/), and the [American Statistical Association](https://www.amstat.org/). 
+I'm also affiliated with the Harvard [Kempner Institute for The Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), the [Digital, Data, and Design Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the MIT [Initiative on the Digital Economy](http://ide.mit.edu), the [Institute for Operations Research and the Management Sciences](https://www.informs.org/), and the [American Statistical Association](https://www.amstat.org/). 
 
 <!--
 [talks](./talk.md). [teaching](./teaching.md). [thoughts](./thought.md). [failed projects](./failed.md)
