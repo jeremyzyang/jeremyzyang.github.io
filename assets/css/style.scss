@@ -46,8 +46,17 @@ a:hover {
   text-decoration: underline;
 }
 
-/* a:link, */
+a:link,
 a:visited {
   color: #ffffff;         /* your normal link color */
   text-decoration: none;
+}
+
+ins {
+  color: #f7f2e8;
+  text-decoration: underline;
+}
+
+ins:hover {
+  color: #f7f2e8;
 }
