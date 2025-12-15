@@ -56,3 +56,11 @@ ins, ins:hover {
   color: #f7f2e8 !important;
   text-decoration: underline;
 }
+
+strong {
+  color: #f7f2e8;
+}
+
+ins strong, ins strong:hover {
+  color: #f7f2e8;
+}
