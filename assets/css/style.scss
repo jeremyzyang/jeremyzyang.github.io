@@ -52,11 +52,7 @@ a:visited {
   text-decoration: none;
 }
 
-ins {
-  color: #f7f2e8;
+ins, ins:hover {
+  color: #f7f2e8 !important;
   text-decoration: underline;
-}
-
-ins:hover {
-  color: #f7f2e8;
 }
