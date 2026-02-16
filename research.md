@@ -13,6 +13,12 @@ My recent interests include the use cases, evaluation, and optimization of AI ag
 
 #### working paper
 
+<ins> **DRACO: a Cross-Domain Benchmark for** <br/>
+**Deep Research Accuracy, Completeness, and Objectivity** </ins> <br/>
+[<a href="https://arxiv.org/abs/2602.11685">paper</a>] [<a href="https://huggingface.co/datasets/perplexity-ai/draco">data</a>] [<a href="https://research.perplexity.ai/articles/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark">media</a>] <br/>
+Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu Zhang, Denis Yarats, Johnny Ho, Jerry Ma
+
+
 <ins> **The Adoption and Usage of AI Agents:** <br/> 
 **Early Evidence from Perplexity** </ins> <br/>
 [<a href="https://arxiv.org/abs/2512.07828">paper</a>] [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>  <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>-->
