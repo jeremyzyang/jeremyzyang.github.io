@@ -9,7 +9,7 @@ layout: default
 
 I am broadly interested in the economics of AI, machine learning, and causal inference for managerial problems. 
 
-My recent interests include the use cases, evaluation, and optimization of AI agents; the use of LLMs to automate workflows such as hypothesis generation and A/B testing; and the diffusion and business impact of generative AI.  
+My recent interests include the use cases, evaluation, and orchestration of AI agents; the use of LLMs to automate scientific workflows such as hypothesis generation; and the diffusion and business impact of general-purpose AI.  
 
 #### working paper
 
