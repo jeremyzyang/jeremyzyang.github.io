@@ -37,7 +37,7 @@ Jeremy Yang, Juanjuan Zhang, Yuhan Zhang <br/>
 
 _Marketing Science (2024)_ 
 
-\- _Finalist, INFORMS ISMS Frank M. Bass Dissertation Paper Award (2026/6)_<br/>
+\- _Finalist, INFORMS Frank M. Bass Dissertation Paper Award (2026/6)_<br/>
 \- _IP Registered under MIT License for Commercialization (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
@@ -49,8 +49,8 @@ Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/>
 
 _Management Science (2023)_ 
 
-\- _INFORMS ISMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
-\- _Finalist, INFORMS ISMS John D. C. Little Best Paper Award (2025/6)_<br/> 
+\- _INFORMS Frank M. Bass Dissertation Paper Award (2025/6)_<br/> 
+\- _Finalist, INFORMS John D. C. Little Best Paper Award (2025/6)_<br/> 
 \- _American Statistical Association Dissertation Award (2021/1)_<br/> 
 \- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
 \- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
