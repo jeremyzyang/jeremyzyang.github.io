@@ -37,6 +37,7 @@ Jeremy Yang, Juanjuan Zhang, Yuhan Zhang <br/>
 
 _Marketing Science (2024)_ 
 
+\- _Finalist, INFORMS ISMS Frank M. Bass Dissertation Paper Award (2026/6)
 \- _IP Registered under MIT License for Commercialization (2024/7)_<br/>
 \- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
 \- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
