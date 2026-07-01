@@ -64,3 +64,9 @@ strong {
 ins strong, ins strong:hover {
   color: #f7f2e8;
 }
+
+/* Center the name over the profile photo (photo is 73% wide, left-aligned) */
+header h1 {
+  width: 73%;
+  text-align: center;
+}
