@@ -15,8 +15,9 @@
   <body>
     <div class="wrapper">
       <header>
-
-        <p> </p>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        <p> </p> 
         
 
        
@@ -40,10 +41,7 @@
                 <p> </p> 
        
 {% if site.logo %}
-  <div class="photo-hero">
-    <h1 class="photo-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
-  </div>
+  <img src="{{ site.logo | relative_url }}" style="width:73%;" alt="Logo">
 {% endif %}
         
         <p> </p> 
