@@ -41,8 +41,8 @@
        
 {% if site.logo %}
   <div class="photo-hero">
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
     <h1 class="photo-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
   </div>
 {% endif %}
         
