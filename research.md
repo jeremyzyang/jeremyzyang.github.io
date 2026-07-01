@@ -2,12 +2,11 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
+[home](./). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 
 ### research 
 
-#### working paper
 <ins> **How AI Agents Reshape Knowledge Work:** <br/>
 **Autonomy, Efficiency, and Scope** </ins> <br/>
 [<a href="https://arxiv.org/abs/2606.07489">paper</a>] [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>]<br/>
@@ -25,6 +24,7 @@ Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu 
 [<a href="https://arxiv.org/abs/2512.07828">paper</a>] [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>  <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>-->
 Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/> 
 
+<!--
 #### publication
 
 <ins> **Engagement that Sells** </ins> <br/>
@@ -62,5 +62,6 @@ _Proceedings of the National Academy of Sciences (2020)_
 #### work in progress
 <ins>**Using Multimodal LLM to Discover and Validate
 Novel Causal Features from Unstructured Data**</ins><br/> 
+-->
 
 [home](./)
