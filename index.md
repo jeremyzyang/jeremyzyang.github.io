@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). [contact](https://linktr.ee/jeremyzyang)<br/>
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 I'm a Member of Technical Staff on the AI Research team at [<ins>Perplexity</ins>](https://www.perplexity.ai/), where I work on various topics in economic impact, evaluation, orchestration, and post-training. Previously, I was a faculty at Harvard University and received my PhD from MIT.
 

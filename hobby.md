@@ -1,6 +1,6 @@
 
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [personal](./hobby.md). [contact](https://linktr.ee/jeremyzyang)<br/>
+[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 ### personal
 
@@ -9,7 +9,7 @@ I enjoy playing and watching tennis, basketball, soccer, and skiing. I'm a fan o
 <!--
 and [basketball](/assets/files/bball.md)
 [home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [talks](./talk.md). [teaching](./teaching.md). <br/>
-[thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[thoughts](./thought.md). [failed projects](./failed.md).
  I like singing too, here's an excerpt of my covering of [Trace (軌跡)](/assets/files/179LincolnSt4.m4a) and [Apocalypse (世界末日)](/assets/files/sjmr.m4a) by [Jay Chou (周杰倫)](https://en.wikipedia.org/wiki/Jay_Chou).
  -->
 
