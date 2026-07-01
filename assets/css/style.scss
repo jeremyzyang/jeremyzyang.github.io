@@ -64,3 +64,30 @@ strong {
 ins strong, ins strong:hover {
   color: #f7f2e8;
 }
+
+/* Name overlaid, centered on the profile photo */
+.photo-hero {
+  position: relative;
+  display: block;
+  width: 73%;
+}
+
+.photo-hero img {
+  display: block;
+  width: 100%;
+}
+
+.photo-hero .photo-title {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin: 0;
+  transform: translateY(-50%);
+  text-align: center;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.75);
+}
+
+.photo-hero .photo-title a {
+  color: #ffffff;
+}
