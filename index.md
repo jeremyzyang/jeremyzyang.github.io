@@ -4,7 +4,7 @@ layout: default
 
 [home](./). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
-I'm a Member of Technical Staff on the AI Research team at [<ins>Perplexity</ins>](https://www.perplexity.ai/), where I work on various topics in economic impact, evaluation, orchestration, and post-training. Previously, I was a faculty at Harvard and received my PhD from MIT.
+I'm a Member of Technical Staff on the AI Research team at [<ins>Perplexity</ins>](https://www.perplexity.ai/), where I work on topics in economic impact, evaluation, orchestration, and post-training. Previously, I was a faculty at Harvard and received my PhD from MIT.
 
 <!--
 I'm also affiliated with the Harvard [Kempner Institute for The Study of Natural and Artificial Intelligence](https://kempnerinstitute.harvard.edu/), the [Digital, Data, and Design Institute](https://d3.harvard.edu/), the [Data Science Initiative](https://datascience.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), the MIT [Initiative on the Digital Economy](http://ide.mit.edu), the [Institute for Operations Research and the Management Sciences](https://www.informs.org/), and the [American Statistical Association](https://www.amstat.org/). 
