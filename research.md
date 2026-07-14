@@ -7,6 +7,11 @@ layout: default
 
 ### research 
 
+<ins> **WANDR: A Benchmark for Wide and Deep Research** </ins> <br/>
+[<a href="https://github.com/perplexityai/wandr/blob/main/reference/wandr_paper.pdf">paper</a>] [<a href="https://github.com/perplexityai/wandr">data</a>] [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">media</a>] <br/>
+Vitalii Polshkov, Marcin Pitera, Jeremy Yang, Kirill Priemko, Maksim Gaiduk, Aleks Nikolenko, Denis Bykov, Denis Yarats, Clare Southern, Jerry Ma
+
+
 <ins> **How AI Agents Reshape Knowledge Work:** <br/>
 **Autonomy, Efficiency, and Scope** </ins> <br/>
 [<a href="https://arxiv.org/abs/2606.07489">paper</a>] [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>]<br/>
