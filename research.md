@@ -5,7 +5,7 @@ layout: default
 [home](./). [research](./research.md). [contact](https://linktr.ee/jeremyzyang)<br/>
 
 
-### research 
+### papers
 
 <ins> **WANDR: A Benchmark for Wide and Deep Research** </ins> <br/>
 [<a href="https://arxiv.org/abs/2608.14747">paper</a>] [<a href="https://github.com/perplexityai/wandr">data</a>] [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">media</a>] <br/>
@@ -28,6 +28,28 @@ Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu 
 **Early Evidence from Perplexity** </ins> <br/>
 [<a href="https://arxiv.org/abs/2512.07828">paper</a>] [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>  <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>-->
 Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/> 
+
+
+### blog
+
+In collaboration with the team.
+
+<ins> **[A Local-First Agent for Private and Cost-Effective Knowledge Work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
+
+
+<ins> **[Brain: Agentic Memory as a Knowledge Wiki](https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki)** </ins> <br/>
+
+
+<ins> **[Making SPACE: Secure and efficient runtimes for long-running agents](https://www.perplexity.ai/hub/blog/making-space-secure-and-efficient-runtimes-for-long-running-agents)** </ins> <br/>
+
+
+<ins> **[WANDR benchmark: Evaluating research agents that must search wide and deep](https://www.perplexity.ai/hub/blog/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep)** </ins> <br/>
+
+
+<ins> **[How AI agents reshape knowledge work](https://www.perplexity.ai/hub/blog/how-ai-agents-reshape-knowledge-work)** </ins> <br/>
+
+
+<ins> **[Evaluating deep research performance in the wild with the DRACO benchmark](https://www.perplexity.ai/hub/blog/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark)** </ins> <br/>
 
 <!--
 #### publication
