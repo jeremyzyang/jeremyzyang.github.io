@@ -34,12 +34,12 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
-<ins> **[A Local-First Agent for Private and Cost-Effective Knowledge Work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
+<ins> **[A Local-First Agent for Private <br/>and Cost-Effective Knowledge Work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
 <ins> **[Brain: Agentic Memory as a Knowledge Wiki](https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki)** </ins> <br/>
-<ins> **[Making SPACE: Secure and Efficient Runtimes for Long-Running Agents](https://www.perplexity.ai/hub/blog/making-space-secure-and-efficient-runtimes-for-long-running-agents)** </ins> <br/>
-<ins> **[WANDR Benchmark: Evaluating Research Agents That Must Search Wide and Deep](https://www.perplexity.ai/hub/blog/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep)** </ins> <br/>
+<ins> **[Making SPACE: Secure and Efficient <br/>Runtimes for Long-Running Agents](https://www.perplexity.ai/hub/blog/making-space-secure-and-efficient-runtimes-for-long-running-agents)** </ins> <br/>
+<ins> **[WANDR Benchmark: Evaluating Research Agents <br/>That Must Search Wide and Deep](https://www.perplexity.ai/hub/blog/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep)** </ins> <br/>
 <ins> **[How AI Agents Reshape Knowledge Work](https://www.perplexity.ai/hub/blog/how-ai-agents-reshape-knowledge-work)** </ins> <br/>
-<ins> **[Evaluating Deep Research Performance in the Wild with the DRACO Benchmark](https://www.perplexity.ai/hub/blog/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark)** </ins> <br/>
+<ins> **[Evaluating Deep Research Performance <br/>in the Wild with the DRACO Benchmark](https://www.perplexity.ai/hub/blog/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark)** </ins> <br/>
 
 <!--
 #### publication
