@@ -5,6 +5,13 @@
 /* Base sizing */
 html {
   font-size: 24px;
+  scrollbar-gutter: stable;
+}
+
+@supports not (scrollbar-gutter: stable) {
+  html {
+    overflow-y: scroll;
+  }
 }
 
 /* Page background + body text */
