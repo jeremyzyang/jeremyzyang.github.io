@@ -7,23 +7,19 @@ layout: default
 
 ### papers
 
-<ins> **[WANDR: A Benchmark for Wide and Deep Research](https://arxiv.org/abs/2608.14747)** </ins> <br/>
-[<a href="https://github.com/perplexityai/wandr">data</a>] [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">media</a>] <br/>
+<ins> **[WANDR: A Benchmark for Wide and Deep Research](https://arxiv.org/abs/2608.14747)** </ins> [<a href="https://github.com/perplexityai/wandr">data</a>] [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">media</a>] <br/>
 Vitalii Polshkov, Marcin Pitera, Jeremy Yang, Kirill Priemko, Maksim Gaiduk, Aleks Nikolenko, Denis Bykov, Denis Yarats, Clare Southern, Jerry Ma
 
 
-<ins> **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)** </ins> <br/>
-[<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>]<br/>
+<ins> **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)** </ins> [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>]<br/>
 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
 
 
-<ins> **[DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)** </ins> <br/>
-[<a href="https://huggingface.co/datasets/perplexity-ai/draco">data</a>] [<a href="https://research.perplexity.ai/articles/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark">media</a>] <br/>
+<ins> **[DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)** </ins> [<a href="https://huggingface.co/datasets/perplexity-ai/draco">data</a>] [<a href="https://research.perplexity.ai/articles/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark">media</a>] <br/>
 Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu Zhang, Denis Yarats, Johnny Ho, Jerry Ma
 
 
-<ins> **[The Adoption and Usage of AI Agents: Early Evidence from Perplexity](https://arxiv.org/abs/2512.07828)** </ins> <br/>
-[<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>
+<ins> **[The Adoption and Usage of AI Agents: Early Evidence from Perplexity](https://arxiv.org/abs/2512.07828)** </ins> [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">media</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>
 Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/> 
 
 
