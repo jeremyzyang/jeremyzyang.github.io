@@ -27,6 +27,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Optimizing On-Device Inference for Apple Silicon](https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon)** </ins> <br/>
+
+
 <ins> **[A Local-First Agent for Private and Cost-Effective Knowledge Work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
 
 
