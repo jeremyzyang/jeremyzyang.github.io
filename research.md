@@ -27,6 +27,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Q2D-Web: Evaluating First-Stage Retrievers at Scale](https://www.perplexity.ai/hub/blog/q2d-web)** </ins> <br/>
+
+
 <ins> **[Optimizing On-Device Inference for Apple Silicon](https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon)** </ins> <br/>
 
 
