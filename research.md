@@ -11,7 +11,7 @@ layout: default
 Vitalii Polshkov, Marcin Pitera, Jeremy Yang, Kirill Priemko, Maksim Gaiduk, Aleks Nikolenko, Denis Bykov, Denis Yarats, Clare Southern, Jerry Ma
 
 
-<ins> **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)** </ins> [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>] [<a href="https://docs.google.com/presentation/d/1Tkf81GkbfFYtMbOxMjq4yY_aF0qDoshY9wAavYJ1x8I/edit?usp=sharing">slides</a>]<br/>
+<ins> **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)** </ins> [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">media</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>]<br/>
 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
 
 
