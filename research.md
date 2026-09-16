@@ -27,6 +27,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[CobbleDB: Rebuilding AI Search Storage for Lower Latency and Cost](https://www.perplexity.ai/hub/blog/cobbledb)** </ins> <br/>
+
+
 <ins> **[Q2D-Web: Evaluating First-Stage Retrievers at Scale](https://www.perplexity.ai/hub/blog/q2d-web)** </ins> <br/>
 
 
