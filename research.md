@@ -27,7 +27,7 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
-<ins> **[Learning from Real-World Mistakes](https://www.perplexity.ai/hub/blog/learning-from-real-world-mistakes)** </ins> <br/>
+<ins> **[Learning from Real-World Experience](https://www.perplexity.ai/hub/blog/learning-from-real-world-experience)** </ins> <br/>
 
 
 <ins> **[CobbleDB: Rebuilding AI Search Storage for Lower Latency and Cost](https://www.perplexity.ai/hub/blog/cobbledb)** </ins> <br/>
