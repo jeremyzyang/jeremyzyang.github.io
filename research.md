@@ -27,6 +27,12 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Photon: Building a Retrieval and Ranking Engine From Scratch](https://www.perplexity.ai/hub/blog/photon)** </ins> <br/>
+
+
+<ins> **[Escaping SPACE: Part I](https://www.perplexity.ai/hub/blog/escaping-space-part-i)** </ins> <br/>
+
+
 <ins> **[Learning from Real-World Experience](https://www.perplexity.ai/hub/blog/learning-from-real-world-experience)** </ins> <br/>
 
 
