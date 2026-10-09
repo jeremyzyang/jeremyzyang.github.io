@@ -27,6 +27,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Multimodal Embeddings Beyond a Single Vector](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector)** </ins> <br/>
+
+
 <ins> **[Contextual Embedding Beyond the Gold Passage](https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage)** </ins> <br/>
 
 
