@@ -27,6 +27,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Building Shared Workspaces for People and Agents](https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents)** </ins> <br/>
+
+
 <ins> **[Multimodal Embeddings Beyond a Single Vector](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector)** </ins> <br/>
 
 
