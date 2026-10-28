@@ -7,7 +7,7 @@ layout: default
 
 ### papers
 
-<ins> **[pplx-embed-v2-late Technical Report](https://arxiv.org/pdf/2610.29523)** </ins> [<a href="https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector">blog</a>] <br/>
+<ins> **[pplx-embed-v2-late Technical Report](https://arxiv.org/pdf/2610.29523)** </ins> [<a href="https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector">blog</a>] [<a href="https://huggingface.co/collections/perplexity-ai/pplx-embed-v2">model</a>] <br/>
 Markus Krimmel, Louis Milliken, Ekaterina Glazkova, Maximilian Schall, Antoine Chaffin, Sedigheh Eslami, Jonas Golde, Denis Bykov, Claire Beamer, Jeremy Yang, Bo Wang
 
 
