@@ -7,23 +7,23 @@ layout: default
 
 ### papers
 
-<ins> **[pplx-embed-v2-late Technical Report](https://arxiv.org/pdf/2610.29523)** </ins> [<a href="https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector">blog</a>] [<a href="https://huggingface.co/collections/perplexity-ai/pplx-embed-v2">model</a>] <br/>
+<ins> **[pplx-embed-v2-late technical report](https://arxiv.org/pdf/2610.29523)** </ins> [<a href="https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector">blog</a>] [<a href="https://huggingface.co/collections/perplexity-ai/pplx-embed-v2">model</a>] <br/>
 Markus Krimmel, Louis Milliken, Ekaterina Glazkova, Maximilian Schall, Antoine Chaffin, Sedigheh Eslami, Jonas Golde, Denis Bykov, Claire Beamer, Jeremy Yang, Bo Wang
 
 
-<ins> **[WANDR: A Benchmark for Wide and Deep Research](https://arxiv.org/abs/2608.14747)** </ins> [<a href="https://github.com/perplexityai/wandr">data</a>] [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">blog</a>] <br/>
+<ins> **[WANDR: A benchmark for wide and deep research](https://arxiv.org/abs/2608.14747)** </ins> [<a href="https://research.perplexity.ai/articles/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep">blog</a>] [<a href="https://github.com/perplexityai/wandr">data</a>] <br/>
 Vitalii Polshkov, Marcin Pitera, Jeremy Yang, Kirill Priemko, Maksim Gaiduk, Aleks Nikolenko, Denis Bykov, Denis Yarats, Clare Southern, Jerry Ma
 
 
-<ins> **[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)** </ins> [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">blog</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>]<br/>
+<ins> **[How AI agents reshape knowledge work: Autonomy, efficiency, and scope](https://arxiv.org/abs/2606.07489)** </ins> [<a href="https://research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work">blog</a>] [<a href="https://jeremyzyang.substack.com/p/how-ai-agents-reshape-knowledge-work">summary</a>] [<a href="https://hbr.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=facebook,linkedin,twitter">HBR</a>]<br/>
 Jeremy Yang, Kate Zyskowski, Noah Yonack, Jerry Ma
 
 
-<ins> **[DRACO: a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity](https://arxiv.org/abs/2602.11685)** </ins> [<a href="https://huggingface.co/datasets/perplexity-ai/draco">data</a>] [<a href="https://research.perplexity.ai/articles/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark">blog</a>] <br/>
+<ins> **[DRACO: A cross-domain benchmark for deep research accuracy, completeness, and objectivity](https://arxiv.org/abs/2602.11685)** </ins> [<a href="https://research.perplexity.ai/articles/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark">blog</a>] [<a href="https://huggingface.co/datasets/perplexity-ai/draco">data</a>] <br/>
 Joey Zhong, Hao Zhang, Clare Southern, Jeremy Yang, Thomas Wang, Kate Jung, Shu Zhang, Denis Yarats, Johnny Ho, Jerry Ma
 
 
-<ins> **[The Adoption and Usage of AI Agents: Early Evidence from Perplexity](https://arxiv.org/abs/2512.07828)** </ins> [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">blog</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>
+<ins> **[The adoption and usage of AI agents: Early evidence from Perplexity](https://arxiv.org/abs/2512.07828)** </ins> [<a href="https://www.perplexity.ai/hub/blog/how-people-use-ai-agents">blog</a>] [<a href="https://jeremyzyang.substack.com/p/the-adoption-and-usage-of-ai-agents">summary</a>]<br/>
 Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/> 
 
 
@@ -31,52 +31,52 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
-<ins> **[A Good Teacher Meets the Student Where They Are](https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are)** </ins> <br/>
+<ins> **[A good teacher meets the student where they are](https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are)** </ins> <br/>
 
 
-<ins> **[Building Shared Workspaces for People and Agents](https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents)** </ins> <br/>
+<ins> **[Building shared workspaces for people and agents](https://www.perplexity.ai/hub/blog/building-shared-workspaces-for-people-and-agents)** </ins> <br/>
 
 
-<ins> **[Multimodal Embeddings Beyond a Single Vector](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector)** </ins> <br/>
+<ins> **[Multimodal embeddings beyond a single vector](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector)** </ins> <br/>
 
 
-<ins> **[Contextual Embedding Beyond the Gold Passage](https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage)** </ins> <br/>
+<ins> **[Contextual embedding beyond the gold passage](https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage)** </ins> <br/>
 
 
-<ins> **[Photon: Building a Retrieval and Ranking Engine From Scratch](https://www.perplexity.ai/hub/blog/photon)** </ins> <br/>
+<ins> **[Photon: Building a retrieval and ranking engine from scratch](https://www.perplexity.ai/hub/blog/photon)** </ins> <br/>
 
 
 <ins> **[Escaping SPACE: Part I](https://www.perplexity.ai/hub/blog/escaping-space-part-i)** </ins> <br/>
 
 
-<ins> **[Learning from Real-World Experience](https://www.perplexity.ai/hub/blog/learning-from-real-world-experience)** </ins> <br/>
+<ins> **[Learning from real-world experience](https://www.perplexity.ai/hub/blog/learning-from-real-world-experience)** </ins> <br/>
 
 
-<ins> **[CobbleDB: Rebuilding AI Search Storage for Lower Latency and Cost](https://www.perplexity.ai/hub/blog/cobbledb)** </ins> <br/>
+<ins> **[CobbleDB: Rebuilding AI search storage for lower latency and cost](https://www.perplexity.ai/hub/blog/cobbledb)** </ins> <br/>
 
 
-<ins> **[Q2D-Web: Evaluating First-Stage Retrievers at Scale](https://www.perplexity.ai/hub/blog/q2d-web)** </ins> <br/>
+<ins> **[Q2D-Web: Evaluating first-stage retrievers at scale](https://www.perplexity.ai/hub/blog/q2d-web)** </ins> <br/>
 
 
-<ins> **[Optimizing On-Device Inference for Apple Silicon](https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon)** </ins> <br/>
+<ins> **[Optimizing on-device inference for Apple Silicon](https://www.perplexity.ai/hub/blog/optimizing-on-device-inference-for-apple-silicon)** </ins> <br/>
 
 
-<ins> **[A Local-First Agent for Private and Cost-Effective Knowledge Work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
+<ins> **[A local-first agent for private and cost-effective knowledge work](https://www.perplexity.ai/hub/blog/a-local-first-agent-for-private-and-cost-effective-knowledge-work)** </ins> <br/>
 
 
-<ins> **[Brain: Agentic Memory as a Knowledge Wiki](https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki)** </ins> <br/>
+<ins> **[Brain: Agentic memory as a knowledge wiki](https://www.perplexity.ai/hub/blog/brain-agentic-memory-as-a-knowledge-wiki)** </ins> <br/>
 
 
-<ins> **[Making SPACE: Secure and Efficient Runtimes for Long-Running Agents](https://www.perplexity.ai/hub/blog/making-space-secure-and-efficient-runtimes-for-long-running-agents)** </ins> <br/>
+<ins> **[Making SPACE: Secure and efficient runtimes for long-running agents](https://www.perplexity.ai/hub/blog/making-space-secure-and-efficient-runtimes-for-long-running-agents)** </ins> <br/>
 
 
-<ins> **[WANDR Benchmark: Evaluating Research Agents That Must Search Wide and Deep](https://www.perplexity.ai/hub/blog/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep)** </ins> <br/>
+<ins> **[WANDR benchmark: Evaluating research agents that must search wide and deep](https://www.perplexity.ai/hub/blog/wandr-benchmark-evaluating-research-agents-that-must-search-wide-and-deep)** </ins> <br/>
 
 
-<ins> **[How AI Agents Reshape Knowledge Work](https://www.perplexity.ai/hub/blog/how-ai-agents-reshape-knowledge-work)** </ins> <br/>
+<ins> **[How AI agents reshape knowledge work](https://www.perplexity.ai/hub/blog/how-ai-agents-reshape-knowledge-work)** </ins> <br/>
 
 
-<ins> **[Evaluating Deep Research Performance in the Wild with the DRACO Benchmark](https://www.perplexity.ai/hub/blog/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark)** </ins> <br/>
+<ins> **[Evaluating deep research performance in the wild with the DRACO benchmark](https://www.perplexity.ai/hub/blog/evaluating-deep-research-performance-in-the-wild-with-the-draco-benchmark)** </ins> <br/>
 
 <!--
 #### publication
