@@ -31,6 +31,15 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Perplexity Decider](https://www.perplexity.ai/hub/blog/perplexity-decider)** </ins> <br/>
+
+
+<ins> **[Escaping SPACE: Part II](https://www.perplexity.ai/hub/blog/escaping-space-part-ii)** </ins> <br/>
+
+
+<ins> **[BrowseSafe++: Building stronger defenses against real-world prompt injection](https://www.perplexity.ai/hub/blog/browsesafe-plus-plus)** </ins> <br/>
+
+
 <ins> **[A good teacher meets the student where they are](https://www.perplexity.ai/hub/blog/a-good-teacher-meets-the-student-where-they-are)** </ins> <br/>
 
 
