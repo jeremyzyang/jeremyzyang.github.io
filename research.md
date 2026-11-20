@@ -31,6 +31,9 @@ Jeremy Yang, Noah Yonack, Kate Zyskowski, Denis Yarats, Johnny Ho, Jerry Ma <br/
 
 In collaboration with the team.
 
+<ins> **[Self-improving skills](https://www.perplexity.ai/hub/blog/self-improving-skills)** </ins> <br/>
+
+
 <ins> **[Perplexity Decider](https://www.perplexity.ai/hub/blog/perplexity-decider)** </ins> <br/>
 
 
